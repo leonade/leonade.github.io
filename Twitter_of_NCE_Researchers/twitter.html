@@ -115,7 +115,7 @@ body{
 
 #PageBody>.profile>.profile_details{
   position: relative;
-  margin-top: -100px;
+  margin-top: -90px;
   margin-left: 460px;
   width: 400px;
   padding: 10px;
