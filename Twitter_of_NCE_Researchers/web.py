@@ -9,7 +9,7 @@ app=Bottle()
 debug(True)
 
 import os
-os.chdir(r'D:/360Downloads/AMiner/Twitter_of_NCE_Researchers/')
+os.chdir(r'D:/360Downloads/AMiner/leonade.github.io/Twitter_of_NCE_Researchers/')
 
 import time
 

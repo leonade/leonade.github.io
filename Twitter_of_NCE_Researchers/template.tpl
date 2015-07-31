@@ -236,7 +236,7 @@ $(document).ready(function(){
         tweet_frame.setAttribute("style", "cursor: pointer;");
         tweet_frame.setAttribute("onclick", "window.location='https://twitter.com/" + researcher.screen_name + "/status/" + tweet.id + "';");
         tweet_frame.innerHTML += "<div class='text'>" + tweet.text + "</div>"
-        tweet_frame.innerHTML += "<div class='info'><span class='tweet_created_at label Icon Icon--time' title='Registered on " + researcher.created_at + "'></span>&nbsp;&nbsp;<span class=value>" + tweet.created_at.substring(4, 10) + ", "  + tweet.created_at.substring(26, 30) + "</div>"
+        tweet_frame.innerHTML += "<div class='info'><span class='tweet_created_at label Icon Icon--time' title='Posted on " + researcher.created_at + "'></span>&nbsp;&nbsp;<span class=value>" + tweet.created_at.substring(4, 10) + ", "  + tweet.created_at.substring(26, 30) + "</div>"
         //tweet_frame.innerHTML += "<div class='user_id'>" + tweet.user_id + "</div>"
         //tweet_frame.innerHTML += "<div class='urls'>" + tweet.urls + "</div>"
         //tweet_frame.innerHTML += "<div class='user_name'>" + tweet.user_name + "</div>"
