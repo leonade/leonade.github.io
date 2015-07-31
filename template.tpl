@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf8" />
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+<!-- <script src="/javascriptTest/jquery.min.js"></script> -->
+
+<style type="text/css">
+/*基本信息*/
+body{
+  height:100%;
+  font-size:12px;
+  //margin:0px;
+  text-align:left;
+  background:#FFF;
+  }
+
+/*页面层容器*/
+#container{
+  width:100%;
+  height:100%;
+  }
+
+@font-face {
+  font-family: LiberationSans;
+  src: url(fonts/liberation-sans.font);
+  font-weight: bold;
+  }
+
+/*页面主体*/
+#PageBody{
+  width:650px;
+  height:10px;
+  margin:0 auto;
+  //height:400px;
+  background:#FFFFFF;
+  font: 15px/18px;
+  font-family: LiberationSans, sans-serif;
+  }
+
+
+#PageBody>.profile{
+  background:#BBE2FF;
+  padding:30px 30px 30px 30px;
+  border-radius: 15px;
+  }
+  
+#PageBody>.profile>.name{
+  position: relative;
+  margin-top: -20px;
+  margin-left: -10px;
+  color:#33A5CC;
+  font-size: 30px;
+  font-weight: bold;
+  }
+
+#PageBody>.profile>.name a {text-decoration:none ; color:#33A5CC ;}
+#PageBody>.profile>.name a:hover{text-decoration:underline ; color:#33A5CC ;}
+//#PageBody>.profile>.name a:active{text-decoration:none ; color:#33A5CC ;}
+  
+#PageBody>.profile>.profile_image{
+  position: relative;
+  margin-top: -30px;
+  margin-left: 300px;
+  background-color: transparent;
+  width: 150px;
+  height: 150px;
+  }
+
+#PageBody>.profile>.profile_counts{
+  position: relative;
+  margin-top: -120px;
+  margin-left: -10px;
+  background-color: #F7FCFF;
+  width: 290px;
+  height: 45px;
+  border-radius: 10px;
+  }
+
+#PageBody>.profile>.profile_counts>div{
+  float: left;
+  width: 60px;
+  padding: 5px;
+  text-align:center;
+  }
+
+#PageBody>.profile>.profile_counts>div>.label{
+  color: #66757f;
+  font-size: 10px;
+  //font-weight: bold;
+  letter-spacing: .02em;
+  text-transform: uppercase;
+  text-align: center!important;
+  }
+
+#PageBody>.profile>.profile_counts>div>.count{
+  color: #0084B4;
+  font-size: 18px;
+  padding-top: 3px;
+  font-weight: 500;
+  }
+
+#PageBody>.profile>.description{
+  position: relative;
+  margin-top: -75px;
+  margin-left: -10px;
+  background-color: #F7FCFF;
+  width: 270px;
+  height: 55px;
+  border-radius: 10px;
+  padding: 10px;
+  font-size: 12px;
+  color: #66757f;
+  }
+
+#PageBody>.profile>.profile_details{
+  position: relative;
+  margin-top: -100px;
+  margin-left: 460px;
+  width: 400px;
+  padding: 10px;
+  line-height: 230%;
+  }
+
+#PageBody>.profile>.profile_details>div>.label{
+  font-size: 15px;
+  color: #66757f;
+  }
+
+#PageBody>.profile>.profile_details>div>.value{
+  color: #0084B4;
+  font-size: 14px;
+  padding-top: 3px;
+  font-weight: bold;
+  }
+
+#PageBody>.profile>.profile_details>.website>.value{
+  font-size: 12px;
+  }
+
+#PageBody>.profile>.profile_details>.website>.value a {text-decoration:none ; color:#0084B4 ;}
+#PageBody>.profile>.profile_details>.website>.value a:hover{text-decoration:underline ; color:#0084B4 ;}
+
+@font-face {
+  font-family: 'rosettaicons';
+  font-style: normal;
+  font-weight: normal;
+  src: url('fonts/rosetta-icons-Regular.eot');
+  src: url('fonts/rosetta-icons-Regular.eot?#iefix') format('eot'),
+  url('fonts/rosetta-icons-Regular.woff') format('woff'),
+  url('fonts/rosetta-icons-Regular.ttf') format('truetype');
+  }
+
+.Icon:before {
+	font-family: 'rosettaicons';
+	//display: block;
+	font-weight: normal;
+	font-style: normal;
+	text-align: center;
+	-webkit-font-smoothing: antialiased;
+}
+.Icon--location:before { content: "\f053"; }
+.Icon--connect:before { content: "\f050"; }
+.Icon--id:before{ content: "\f052"; }
+.Icon--time:before { content: "\f177"; }
+.Icon--website:before { content: "\f089"; }
+
+
+
+#PageBody>.profile>.tweets{
+  position: relative;
+  margin-top: 10px;
+  margin-left: -10px;
+  width: 585px;
+  border-radius: 20px;
+  background-color: #F7FCFF;
+  color: #66757f;
+  }
+
+#PageBody>.profile>.tweets>.tweet{
+  padding: 10px;
+  border: 2px solid;
+  border-color: #BBE2FF;
+  }
+
+#PageBody>.profile>.tweets>.tweet>.text{
+  font-size: 15px;
+  }
+
+#PageBody>.profile>.tweets>.tweet>.info{
+  font-size: 12px;
+  text-align: right;
+  }
+
+
+
+</style>
+
+<script>
+$(document).ready(function(){
+  $.getJSON("/json",{},function(response){
+    //var div=document.createElement("div");  // 以 DOM 创建新元素
+    //div.innerHTML = "<div class='whole'><div class='spell'>" + data.spell + "</div>" + parseMean(data.mean) + "</div>"; 
+    $.each(response.data, function(i, researcher){
+      var profile_frame=document.createElement("div");
+      profile_frame.className = "profile";
+      //profile_frame.innerHTML += "<div class='researcher_name'>" + researcher.researcher_name + "</div>"
+      profile_frame.innerHTML += "<div class='name'><a href='https://twitter.com/" + researcher.screen_name + "'>" + researcher.name + "</a></div>"
+      profile_frame.innerHTML += "<div class='profile_image'><img src=" + researcher.profile_image_url + " height=150 width=150></div>"
+      profile_frame.innerHTML += "<div class='profile_counts'>" +
+      "<div class='friends_count'><span class=label>Friends</span><br/><span class=count>" + researcher.friends_count + "</span></div>" +
+      "<div class='followers_count'><span class=label>Followers</span><br/><span class=count>" + researcher.followers_count + "</span></div>" +
+      "<div class='statuses_count'><span class=label>Tweets</span><br/><span class=count>" + researcher.statuses_count + "</span></div>" +
+      "<div class='favourites_count'><span class=label>Favorites</span><br/><span class=count>" + researcher.favourites_count + "</span></div>" +
+	  "</div>"
+      profile_frame.innerHTML += "<div class='profile_details'>" +
+      "<div class='id'><span class='label Icon Icon--id' title='Twitter ID'></span>&nbsp;&nbsp;<span class=value>" + researcher.id + "</span></div>" +
+      "<div class='screen_name'><span class='label Icon Icon--connect' title='Screen Name'></span>&nbsp;&nbsp;<span class=value>" + researcher.screen_name + "</span></div>" +
+      "<div class='created_at'><span class='label Icon Icon--time' title='Registered on " + researcher.created_at + "'></span>&nbsp;&nbsp;<span class=value>" + researcher.created_at.substring(4, 10) + ", "  + researcher.created_at.substring(26, 30) + "</span></div>" +
+      "<div class='location'><span class='label Icon Icon--location' title='Location'></span>&nbsp;&nbsp;<span class=value>" + researcher.location + "</span></div>" +
+      "<div class='website'><span class='label Icon Icon--website' title='Website'></span>&nbsp;&nbsp;<span class=value><a href='" + researcher.url + "'>" + researcher.url.substring(7,researcher.url.len) + "</a></span></div>" +
+	  "</div>"
+      profile_frame.innerHTML += "<div class='description'>" + researcher.description + "</div>"
+      //profile_frame.innerHTML += "<div class='matched'>" + researcher.matched + "</div>"
+      //profile_frame.innerHTML += "<div class='protected'>" + researcher.protected + "</div>"
+      var tweets_frame=document.createElement("div");
+      tweets_frame.className = "tweets";
+      $.each(researcher.tweets, function(i, tweet){
+        var tweet_frame=document.createElement("div");
+        //var author=researcher.screen_name;
+		//if (tweet.text.substring(0,4)=="RT @"){
+		  //author=tweet.text.substring(4,tweet.text.search(/:/))
+		  ////alert(author)
+		//}
+        tweet_frame.className = "tweet";
+        tweet_frame.setAttribute("style", "cursor: pointer;");
+        tweet_frame.setAttribute("onclick", "window.location='https://twitter.com/" + researcher.screen_name + "/status/" + tweet.id + "';");
+        tweet_frame.innerHTML += "<div class='text'>" + tweet.text + "</div>"
+        tweet_frame.innerHTML += "<div class='info'><span class='tweet_created_at label Icon Icon--time' title='Registered on " + researcher.created_at + "'></span>&nbsp;&nbsp;<span class=value>" + tweet.created_at.substring(4, 10) + ", "  + tweet.created_at.substring(26, 30) + "</div>"
+        //tweet_frame.innerHTML += "<div class='user_id'>" + tweet.user_id + "</div>"
+        //tweet_frame.innerHTML += "<div class='urls'>" + tweet.urls + "</div>"
+        //tweet_frame.innerHTML += "<div class='user_name'>" + tweet.user_name + "</div>"
+        tweets_frame.appendChild(tweet_frame);
+      });
+      profile_frame.appendChild(tweets_frame);
+      $("#PageBody").append(profile_frame);
+      $("#PageBody").append('<br/>');
+    });
+  });
+});
+
+window.onerror = function(msg, url, linenumber) {
+    alert('Error message: '+msg+'\nURL: '+url+'\nLine Number: '+linenumber);
+    return true;
+}
+
+</script>
+</head>
+
+<body>
+<div id="container"><!-- 页面层容器 -->
+  <div id="PageBody"><!-- 页面主体 -->
+    <br/>
+  </div>
+  <!-- <div id="Footer">页面底部</div> -->
+</div>
+</body>
+</html>
