@@ -102,7 +102,7 @@ body{
 
 #PageBody>.profile>.description{
   position: relative;
-  margin-top: -75px;
+  margin-top: -65px;
   margin-left: -10px;
   background-color: #F7FCFF;
   width: 270px;

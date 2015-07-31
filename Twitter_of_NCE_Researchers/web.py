@@ -2,7 +2,7 @@
 ## Twitter pickle to html
 ## 
 ## created on 2015-7-29 21:09:28 by Li
-## last modified 2015-7-29 21:09:34 by Li
+## last modified 2015-7-31 02:18:05 by Li
 
 from bottle import Bottle, route, run, template, request, response,  post, get, redirect, static_file, debug
 app=Bottle()
@@ -17,11 +17,13 @@ try:
     from cPickle import load
 except: 
     from pickle import load
-
-researcher_twitter_accounts = load(open('researcher_twitter_accounts_closure.pickle','r'))
+	
+with open('researcher_twitter_accounts_closure.pickle','r') as f:
+    researcher_twitter_accounts = load(f)
 # len(researcher_twitter_accounts)
 
-researcher_tweets = load(open('researcher_tweets.pickle','r'))
+with open('researcher_tweets.pickle','r') as f:
+    researcher_tweets = load(f)
 # len(researcher_tweets)
 
 for account in researcher_twitter_accounts:
