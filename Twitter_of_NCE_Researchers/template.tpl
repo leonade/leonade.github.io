@@ -208,10 +208,10 @@ $(document).ready(function(){
       profile_frame.innerHTML += "<div class='name'><a href='https://twitter.com/" + researcher.screen_name + "'>" + researcher.name + "</a></div>"
       profile_frame.innerHTML += "<div class='profile_image'><img src=" + researcher.profile_image_url + " height=150 width=150></div>"
       profile_frame.innerHTML += "<div class='profile_counts'>" +
-      "<div class='friends_count'><span class=label>Friends</span><br/><span class=count>" + researcher.friends_count + "</span></div>" +
-      "<div class='followers_count'><span class=label>Followers</span><br/><span class=count>" + researcher.followers_count + "</span></div>" +
-      "<div class='statuses_count'><span class=label>Tweets</span><br/><span class=count>" + researcher.statuses_count + "</span></div>" +
-      "<div class='favourites_count'><span class=label>Favorites</span><br/><span class=count>" + researcher.favourites_count + "</span></div>" +
+      "<div class='statuses_count' style='cursor: pointer;' onclick=\"window.location='https://twitter.com/" + researcher.screen_name + "';\"><span class=label>Tweets</span><br/><span class=count>" + researcher.statuses_count + "</span></div>" +
+      "<div class='friends_count' style='cursor: pointer;' onclick=\"window.location='https://twitter.com/" + researcher.screen_name + "/following';\"><span class=label>Following</span><br/><span class=count>" + researcher.friends_count + "</span></div>" +
+      "<div class='followers_count' style='cursor: pointer;' onclick=\"window.location='https://twitter.com/" + researcher.screen_name + "/followers';\"><span class=label>Followers</span><br/><span class=count>" + researcher.followers_count + "</span></div>" +
+      "<div class='favourites_count' style='cursor: pointer;' onclick=\"window.location='https://twitter.com/" + researcher.screen_name + "/favorites';\"><span class=label>Favorites</span><br/><span class=count>" + researcher.favourites_count + "</span></div>" +
 	  "</div>"
       profile_frame.innerHTML += "<div class='profile_details'>" +
       "<div class='id'><span class='label Icon Icon--id' title='Twitter ID'></span>&nbsp;&nbsp;<span class=value>" + researcher.id + "</span></div>" +
@@ -249,10 +249,6 @@ $(document).ready(function(){
   });
 });
 
-window.onerror = function(msg, url, linenumber) {
-    alert('Error message: '+msg+'\nURL: '+url+'\nLine Number: '+linenumber);
-    return true;
-}
 
 </script>
 </head>
