@@ -17,7 +17,7 @@ try:
     from cPickle import load
 except: 
     from pickle import load
-	
+
 with open('researcher_twitter_accounts_closure.pickle','r') as f:
     researcher_twitter_accounts = load(f)
 # len(researcher_twitter_accounts)
@@ -56,4 +56,5 @@ for i in range(len(researcher_twitter_accounts)):
 def json():
 	return {'data':researcher_twitter_accounts[:10], 'time': time.strftime("%b %d %H:%M:%S", time.localtime())}
 
+print('Running\n\n\n\n\n\n\n\n\n\n\n')
 run(app,host='localhost', port=8080)

@@ -9,7 +9,7 @@ Vmedia informatics researcher
 p4
 sS'friends_count'
 p5
-I50
+I51
 sS'profile_image_url'
 p6
 Vhttps://pbs.twimg.com/profile_images/151146800/019a_400x400.jpg
@@ -55,14 +55,14 @@ VAbby Goodrum
 p24
 sa(dp25
 g2
-I14563
+I14629
 sg3
 VAuthor #nbbaward winning #TellEveryone book. Award-winning online @BBCNews pioneer, digital media scholar & @UBCJournalism professor. PhD @cityjournalism
 p26
 sg5
-I1852
+I1859
 sg6
-Vhttps://pbs.twimg.com/profile_images/527896151970705408/_HtZn4Rq_400x400.jpeg
+Vhttps://pbs.twimg.com/profile_images/632312144755757058/e2n7IAC9_400x400.jpg
 p27
 sg8
 I5165901
@@ -70,7 +70,7 @@ sg9
 VAlfred Hermida
 p28
 sg11
-I276
+I278
 sg12
 VHermida
 p29
@@ -81,16 +81,16 @@ sg16
 VWed Apr 18 23:33:48 +0000 2007
 p31
 sg18
-I8013
+I8028
 sg19
 I00
 sg20
 VVancouver
 p32
 sg22
-I2
+I3
 sg23
-VAlfred Hermida
+S'Alfred Hermida'
 p33
 sa(dp34
 g2
@@ -120,7 +120,7 @@ sg16
 VWed Jun 22 18:26:19 +0000 2011
 p40
 sg18
-I90
+I92
 sg19
 I00
 sg20
@@ -138,7 +138,7 @@ sg3
 VSocioDigital Lab: Connecting Technologies/retweets are not endorsements/Associate Professor Western
 p44
 sg5
-I959
+I958
 sg6
 Vhttps://pbs.twimg.com/profile_images/2663045403/13057e054c876139dffff243b2aa384c_400x400.jpeg
 p45
@@ -159,25 +159,25 @@ sg16
 VMon Oct 25 12:49:15 +0000 2010
 p49
 sg18
-I924
+I926
 sg19
 I00
 sg20
 V
 p50
 sg22
-I2
+I3
 sg23
-VAnabel Quan-Haase
+S'Anabel Quan-Haase'
 p51
 sa(dp52
 g2
-I4487
+I4519
 sg3
 VDirector-Social Media Lab http://t.co/O0CAQhdyeo, Associate Professor-Ted Rogers School of Management at Ryerson University
 p53
 sg5
-I597
+I599
 sg6
 Vhttps://pbs.twimg.com/profile_images/570745271807832064/W5CrGBrR_400x400.jpeg
 p54
@@ -187,7 +187,7 @@ sg9
 VAnatoliy Gruzd
 p55
 sg11
-I296
+I298
 sg12
 Vgruzd
 p56
@@ -198,130 +198,56 @@ sg16
 VThu Oct 08 03:02:34 +0000 2009
 p58
 sg18
-I2101
+I2127
 sg19
 I00
 sg20
 VToronto, Canada
 p59
 sg22
-I2
+I3
 sg23
-VAnatoliy Gruzd
+S'Anatoliy Gruzd'
 p60
 sa(dp61
 g2
-I0
-sg3
-VPlease follow me on my main account at http://t.co/4aq7iRIfwo
-p62
-sg5
-I1
-sg6
-Vhttps://abs.twimg.com/sticky/default_profile_images/default_profile_4_400x400.png
-p63
-sg8
-I143835885
-sg9
-VAnatoliy Gruzd
-p64
-sg11
-I0
-sg12
-Vdal_prof
-p65
-sg14
-g15
-sg16
-VFri May 14 14:48:17 +0000 2010
-p66
-sg18
-I1
-sg19
-I00
-sg20
-g50
-sg22
-I2
-sg23
-VAnatoliy Gruzd
-p67
-sa(dp68
-g2
-I1
-sg3
-VTweeting at @gruzd
-p69
-sg5
-I5
-sg6
-Vhttps://pbs.twimg.com/profile_images/378800000743796339/bf9d741b587a3fd17d7cf44bef82f83a_400x400.jpeg
-p70
-sg8
-L2190679362L
-sg9
-VAnatoliy Gruzd
-p71
-sg11
-I0
-sg12
-VAnatoliyGruzd
-p72
-sg14
-g15
-sg16
-VTue Nov 12 16:48:00 +0000 2013
-p73
-sg18
-I1
-sg19
-I00
-sg20
-g50
-sg22
-I2
-sg23
-VAnatoliy Gruzd
-p74
-sa(dp75
-g2
-I1403
+I1418
 sg3
 VAssociate Professor of Communications Studies, Wilfrid Laurier University and Principal Investigator Cultures of Tech Innovation Project, Waterloo, ON
-p76
+p62
 sg5
-I238
+I237
 sg6
 Vhttps://pbs.twimg.com/profile_images/1563751618/ahfoaprofilepic_400x400.jpg
-p77
+p63
 sg8
 I206151705
 sg9
 VAndrew Herman
-p78
+p64
 sg11
 I11
 sg12
 Vmekon222
-p79
+p65
 sg14
 g15
 sg16
 VFri Oct 22 11:31:11 +0000 2010
-p80
+p66
 sg18
-I340
+I341
 sg19
 I00
 sg20
 VCanada
-p81
+p67
 sg22
 I2
 sg23
 VAndrew Herman
-p82
-sa(dp83
+p68
+sa(dp69
 g2
 I155
 sg3
@@ -330,22 +256,22 @@ sg5
 I103
 sg6
 Vhttps://pbs.twimg.com/profile_images/554979812/IMG_2985_-_crop_400x400.JPG
-p84
+p70
 sg8
 I80064884
 sg9
 VAudrey girouard
-p85
+p71
 sg11
 I6
 sg12
 VAudreygirouard
-p86
+p72
 sg14
 g15
 sg16
 VMon Oct 05 16:32:28 +0000 2009
-p87
+p73
 sg18
 I101
 sg19
@@ -356,47 +282,83 @@ sg22
 I2
 sg23
 VAudrey Girouard
-p88
-sa(dp89
+p74
+sa(dp75
 g2
-I58232
+I0
+sg3
+g50
+sg5
+I49
+sg6
+Vhttps://abs.twimg.com/sticky/default_profile_images/default_profile_4_400x400.png
+p76
+sg8
+L3053992302L
+sg9
+VBarbara Crow
+p77
+sg11
+I0
+sg12
+VBarbaraCrow4
+p78
+sg14
+g15
+sg16
+VSun Mar 01 23:37:18 +0000 2015
+p79
+sg18
+I9
+sg19
+I00
+sg20
+g50
+sg22
+I2
+sg23
+VBarbara Crow
+p80
+sa(dp81
+g2
+I59014
 sg3
 VNetworked http://t.co/l7PAPeaOik =networks+personal internet+mobile availability=networked individualism. RT=inform, \u2260endorse. Favorite\u2260like Block jerks,spam
-p90
+p82
 sg5
-I491
+I496
 sg6
 Vhttps://pbs.twimg.com/profile_images/96372559/barry1_400x400.jpg
-p91
+p83
 sg8
 I24411159
 sg9
 VBarry Wellman
-p92
+p84
 sg11
-I4779
+I4847
 sg12
 Vbarrywellman
-p93
+p85
 sg14
 S'http://www.chass.utoronto.ca/~wellman'
-p94
+p86
 sg16
 VSat Mar 14 18:52:28 +0000 2009
-p95
+p87
 sg18
-I4950
+I4964
 sg19
 I00
 sg20
 VToronto 
-p96
+p88
 sg22
 I2
 sg23
 VBarry Wellman
-p97
-sa(dp98
+p89
+sa(dp90
 g2
 I35
 sg3
@@ -405,22 +367,22 @@ sg5
 I6
 sg6
 Vhttps://abs.twimg.com/sticky/default_profile_images/default_profile_3_400x400.png
-p99
+p91
 sg8
 I210088798
 sg9
 VBart Simon
-p100
+p92
 sg11
 I0
 sg12
 Vbartaroo
-p101
+p93
 sg14
 g15
 sg16
 VSat Oct 30 15:05:05 +0000 2010
-p102
+p94
 sg18
 I27
 sg19
@@ -431,773 +393,1243 @@ sg22
 I2
 sg23
 VBart Simon
-p103
-sa(dp104
+p95
+sa(dp96
 g2
-I1
-sg3
-g50
-sg5
-I3
-sg6
-Vhttps://abs.twimg.com/sticky/default_profile_images/default_profile_6_400x400.png
-p105
-sg8
-I318870026
-sg9
-VBernhard Riecke
-p106
-sg11
-I0
-sg12
-VBernhardRiecke
-p107
-sg14
-S'http://ispace.iat.sfu.ca/riecke'
-p108
-sg16
-VFri Jun 17 05:33:05 +0000 2011
-p109
-sg18
-I32
-sg19
-I00
-sg20
-VVancouver
-p110
-sg22
-I2
-sg23
-VBernhard Riecke
-p111
-sa(dp112
-g2
-I133
-sg3
-VNursing Prof, who lives in Vancouver
-p113
-sg5
-I29
-sg6
-Vhttps://pbs.twimg.com/profile_images/1752723095/bgarrett_400x400.jpg
-p114
-sg8
-I69218082
-sg9
-VBernie Garrett
-p115
-sg11
-I1
-sg12
-VBernieGarrett
-p116
-sg14
-S'http://www.nursing.ubc.ca/faculty/biopage.aspx?c=74.3303437365925'
-p117
-sg16
-VThu Aug 27 06:09:42 +0000 2009
-p118
-sg18
-I81
-sg19
-I00
-sg20
-VVancouver, Canada
-p119
-sg22
-I2
-sg23
-VBernie Garrett
-p120
-sa(dp121
-g2
-I1
-sg3
-g50
-sg5
-I14
-sg6
-Vhttps://pbs.twimg.com/profile_images/488797012435795968/uu_0ZBJJ_400x400.jpeg
-p122
-sg8
-L2646339504L
-sg9
-VBrent Nelson
-p123
-sg11
-I0
-sg12
-VTheDigitalArk
-p124
-sg14
-g15
-sg16
-VMon Jul 14 21:17:58 +0000 2014
-p125
-sg18
-I4
-sg19
-I00
-sg20
-g50
-sg22
-I2
-sg23
-VBrent Nelson
-p126
-sa(dp127
-g2
-I266
+I268
 sg3
 VThis is the academic me: all about collections of curiosities; John Donne; and digital humanities.  That sort of thing. Mostly.
-p128
+p97
 sg5
-I235
+I234
 sg6
 Vhttps://pbs.twimg.com/profile_images/2604548166/u7p927ds8c78o0iufrqu_400x400.jpeg
-p129
+p98
 sg8
 I42482549
 sg9
 VBrent Nelson
-p130
+p99
 sg11
 I39
 sg12
 Vbrn097
-p131
+p100
 sg14
 S'http://artsandscience.usask.ca/profile/BNelson'
-p132
+p101
 sg16
 VMon May 25 20:40:52 +0000 2009
-p133
+p102
 sg18
 I169
 sg19
 I00
 sg20
 VUniversity of Saskatchewan
-p134
+p103
 sg22
-I2
+I3
 sg23
-VBrent Nelson
-p135
-sa(dp136
+S'Brent Nelson'
+p104
+sa(dp105
 g2
-I918
+I921
 sg3
 VUnapologetically technotopian.
-p137
+p106
 sg5
-I167
+I168
 sg6
 Vhttps://pbs.twimg.com/profile_images/468403530122813440/72l0I-2z_400x400.jpeg
-p138
+p107
 sg8
 I581312485
 sg9
 VBrian Greenspan
-p139
+p108
 sg11
-I214
+I221
 sg12
 VtheHyperlab
-p140
+p109
 sg14
 S'http://www.carleton.ca/hyperlab'
-p141
+p110
 sg16
 VTue May 15 22:38:58 +0000 2012
-p142
+p111
 sg18
-I395
+I398
 sg19
 I00
 sg20
 VOttawa, Canada
-p143
+p112
 sg22
-I2
+I3
 sg23
-VBrian Greenspan
-p144
-sa(dp145
+S'Brian Greenspan'
+p113
+sa(dp114
 g2
 I5794
 sg3
 VAssistant Professor of Interactive Arts & Technology at Simon Fraser University; HCI, Design, Ubicomp
-p146
+p115
 sg5
 I138
 sg6
 Vhttps://pbs.twimg.com/profile_images/511356821391835136/yiDZWVZU_400x400.jpeg
-p147
+p116
 sg8
 I22194654
 sg9
 VCarman Neustaedter
-p148
+p117
 sg11
-I109
+I110
 sg12
 Vdr_carmster
-p149
+p118
 sg14
 S'http://clab.iat.sfu.ca/carman'
-p150
+p119
 sg16
 VFri Feb 27 21:43:38 +0000 2009
-p151
+p120
 sg18
-I366
+I369
 sg19
 I00
 sg20
 VVancouver, Canada
-p152
+p121
+sg22
+I3
+sg23
+S'Carman Neustaedter'
+p122
+sa(dp123
+g2
+I244
+sg3
+VDirector & Professor, iSchool@UBC, Univ. of British Columbia
+p124
+sg5
+I228
+sg6
+Vhttps://pbs.twimg.com/profile_images/3225958040/99ad70f4c8fb9eff49b818b3b0fd1072_400x400.jpeg
+p125
+sg8
+I86733602
+sg9
+VCarolineH
+p126
+sg11
+I11
+sg12
+Vhthwaite
+p127
+sg14
+S'http://haythorn.wordpress.com/'
+p128
+sg16
+VSun Nov 01 14:42:53 +0000 2009
+p129
+sg18
+I315
+sg19
+I00
+sg20
+VVancouver, BC, Canada
+p130
+sg22
+I3
+sg23
+S'Caroline Haythornthwaite'
+p131
+sa(dp132
+g2
+I2832
+sg3
+VCanada Research Chair in Communication Technologies in the Information Society at the Ted Rogers School of Management, Ryerson University
+p133
+sg5
+I151
+sg6
+Vhttps://pbs.twimg.com/profile_images/256587502/middleton1_400x400.jpg
+p134
+sg8
+I22312867
+sg9
+VCatherine Middleton
+p135
+sg11
+I438
+sg12
+Vcatmiddleton
+p136
+sg14
+S'http://www.broadbandresearch.ca'
+p137
+sg16
+VSun Mar 01 00:17:02 +0000 2009
+p138
+sg18
+I1188
+sg19
+I00
+sg20
+VToronto
+p139
 sg22
 I2
 sg23
-VCarman Neustaedter
-p153
-sa(dp154
+VCatherine Middleton
+p140
+sa(dp141
 g2
-I1241
+I1243
 sg3
 VNever allow waiting to become a habit. Live your dreams and take risks. Life is happening now. - Unknown Author
-p155
+p142
 sg5
 I123
 sg6
 Vhttps://pbs.twimg.com/profile_images/569628717891088384/Uzd6f0rR_400x400.jpeg
-p156
+p143
 sg8
 I35079666
 sg9
 VCatherine Middleton
-p157
+p144
 sg11
 I61
 sg12
 Vcaterpillarcat5
-p158
+p145
 sg14
 S'http://www.redbubble.com/people/caterpillarcat'
-p159
+p146
 sg16
 VFri Apr 24 23:41:27 +0000 2009
-p160
+p147
 sg18
 I32
 sg19
 I01
 sg20
 VEverywhere
-p161
+p148
 sg22
 I2
 sg23
 VCatherine Middleton
-p162
-sa(dp163
+p149
+sa(dp150
 g2
-I2819
-sg3
-VCanada Research Chair in Communication Technologies in the Information Society at the Ted Rogers School of Management, Ryerson University
-p164
-sg5
-I152
-sg6
-Vhttps://pbs.twimg.com/profile_images/256587502/middleton1_400x400.jpg
-p165
-sg8
-I22312867
-sg9
-VCatherine Middleton
-p166
-sg11
-I439
-sg12
-Vcatmiddleton
-p167
-sg14
-S'http://www.broadbandresearch.ca'
-p168
-sg16
-VSun Mar 01 00:17:02 +0000 2009
-p169
-sg18
-I1187
-sg19
-I00
-sg20
-VToronto
-p170
-sg22
-I2
-sg23
-VCatherine Middleton
-p171
-sa(dp172
-g2
-I30
+I31
 sg3
 g50
 sg5
 I352
 sg6
 Vhttps://abs.twimg.com/sticky/default_profile_images/default_profile_1_400x400.png
-p173
+p151
 sg8
 L2711989603L
 sg9
 VCatherine Richards
-p174
+p152
 sg11
-I55
+I56
 sg12
 VCAnn_Richards
-p175
+p153
 sg14
 g15
 sg16
 VWed Aug 06 13:02:31 +0000 2014
-p176
+p154
 sg18
 I35
 sg19
 I00
 sg20
 VToronto 
-p177
+p155
 sg22
 I2
 sg23
 VCatherine Richards
-p178
-sa(dp179
+p156
+sa(dp157
 g2
 I558
 sg3
 VStaff Scientist @HutchinsonCtr, Adjunct Asst Prof @ColumbiaMSPH, http://t.co/2CeOUWVGuK #DataViz designer and #OpenScience advocate.
-p180
+p158
 sg5
 I314
 sg6
 Vhttps://pbs.twimg.com/profile_images/489791938522931200/FuZWxe_8_400x400.jpeg
-p181
+p159
 sg8
 I620358219
 sg9
 VCatherine Richards
-p182
+p160
 sg11
 I406
 sg12
 Vdotdataviz
-p183
+p161
 sg14
 S'http://www.catherinearichards.com/'
-p184
+p162
 sg16
 VWed Jun 27 19:34:39 +0000 2012
-p185
+p163
 sg18
-I255
+I259
 sg19
 I00
 sg20
 VSeattle
-p186
+p164
 sg22
 I2
 sg23
 VCatherine Richards
-p187
-sa(dp188
+p165
+sa(dp166
 g2
-I23
+I557
+sg3
+VA Red
+p167
+sg5
+I418
+sg6
+Vhttps://pbs.twimg.com/profile_images/1243023605/image_400x400.jpg
+p168
+sg8
+I250333598
+sg9
+VChris Herdman
+p169
+sg11
+I15
+sg12
+Vlfcthekingandi
+p170
+sg14
+g15
+sg16
+VThu Feb 10 22:04:03 +0000 2011
+p171
+sg18
+I69
+sg19
+I00
+sg20
+VLiverpool
+p172
+sg22
+I2
+sg23
+VChris Herdman
+p173
+sa(dp174
+g2
+I24
 sg3
 VProfessor of Cognitive Science & Psychology, Scientific Director, VSIM Centre, Carleton University
-p189
+p175
 sg5
 I43
 sg6
 Vhttps://pbs.twimg.com/profile_images/551092951409913856/0U4eIxHt_400x400.jpeg
-p190
+p176
 sg8
 L2884304692L
 sg9
 VChris M Herdman
-p191
+p177
 sg11
 I2
 sg12
 Vchrismherdman
-p192
+p178
 sg14
 S'http://carleton.ca/ace/'
-p193
+p179
 sg16
 VWed Nov 19 16:35:22 +0000 2014
+p180
+sg18
+I23
+sg19
+I00
+sg20
+VOttawa
+p181
+sg22
+I1
+sg23
+S'Chris Herdman'
+p182
+sa(dp183
+g2
+I5001
+sg3
+VChristian; editor; musician; writer; Beatles obsessive; mashup bod; Mod, Watford FC supporter. Views mine etc
+p184
+sg5
+I1612
+sg6
+Vhttps://pbs.twimg.com/profile_images/378800000867508254/qjYms583_400x400.jpeg
+p185
+sg8
+I373800784
+sg9
+VChris Shaw
+p186
+sg11
+I1501
+sg12
+VChrisShawEditor
+p187
+sg14
+g15
+sg16
+VThu Sep 15 06:15:02 +0000 2011
+p188
+sg18
+I2290
+sg19
+I00
+sg20
+VTunbridge Wells
+p189
+sg22
+I2
+sg23
+VChris Shaw
+p190
+sa(dp191
+g2
+I3621
+sg3
+VWorldwide senior portfolio lead for IBM Commerce. Also starting to spend a lot of my spare time helping K-12 with customer exp. Tweets are my own.
+p192
+sg5
+I468
+sg6
+Vhttps://pbs.twimg.com/profile_images/461229477633064960/Q3Q8CciY_400x400.jpeg
+p193
+sg8
+I376863187
+sg9
+VChris Shaw
 p194
+sg11
+I28
+sg12
+Vanalogchris
+p195
+sg14
+S'http://analogchris.tumblr.com'
+p196
+sg16
+VTue Sep 20 16:33:48 +0000 2011
+p197
+sg18
+I5895
+sg19
+I00
+sg20
+VAtlanta, GA
+p198
+sg22
+I2
+sg23
+VChris Shaw
+p199
+sa(dp200
+g2
+I2289
+sg3
+VOriginally from Cornwall, living in Newcastle. DJ, attempt golf in my spare time, losing my hair very quickly!
+p201
+sg5
+I420
+sg6
+Vhttps://pbs.twimg.com/profile_images/592048982681112576/SVMNyU7A_400x400.jpg
+p202
+sg8
+I374121392
+sg9
+VChris Shaw
+p203
+sg11
+I529
+sg12
+Vdj_chrisshaw
+p204
+sg14
+S'http://www.soundcloud.com/djcjshaw'
+p205
+sg16
+VThu Sep 15 19:01:47 +0000 2011
+p206
+sg18
+I1130
+sg19
+I00
+sg20
+VNewcastle
+p207
+sg22
+I2
+sg23
+VChris Shaw
+p208
+sa(dp209
+g2
+I6702
+sg3
+VIntrapreneur @Hallmark. Former entrepreneur, tech consultant @Webbmedia, and attorney. Currently experimenting with @GoogleGlass and mobile.
+p210
+sg5
+I3556
+sg6
+Vhttps://pbs.twimg.com/profile_images/634533638009454592/SpZHoLnN_400x400.jpg
+p211
+sg8
+I115095051
+sg9
+VChris G. Shaw
+p212
+sg11
+I2857
+sg12
+VMOChrisShaw
+p213
+sg14
+S'http://chrisgshaw.com'
+p214
+sg16
+VWed Feb 17 16:00:18 +0000 2010
+p215
+sg18
+I5122
+sg19
+I00
+sg20
+VKansas City, Missouri
+p216
+sg22
+I1
+sg23
+S'Chris Shaw'
+p217
+sa(dp218
+g2
+I2023
+sg3
+VCompany Builder: Director of Talent at Meteor, Xoogler, former Sourcing Leader at Twitter.  Also a Spacenerd and GBP Fan
+p219
+sg5
+I564
+sg6
+Vhttps://pbs.twimg.com/profile_images/2753128518/91b257cdd7ce198b02af1f311373e4fa_400x400.jpeg
+p220
+sg8
+I15421071
+sg9
+VChris Shaw
+p221
+sg11
+I3427
+sg12
+VCShaw4
+p222
+sg14
+S'http://www.meteor.com'
+p223
+sg16
+VMon Jul 14 01:26:41 +0000 2008
+p224
+sg18
+I756
+sg19
+I00
+sg20
+VSF Bay Area
+p225
+sg22
+I2
+sg23
+VChris Shaw
+p226
+sa(dp227
+g2
+I2287
+sg3
+VTesco Night Manager, Mad Footi Fanatic, Easy Going, What More Can I Say !!!
+p228
+sg5
+I510
+sg6
+Vhttps://pbs.twimg.com/profile_images/378800000819103945/db2d8bc6a7c63807c31c78e7f2879675_400x400.jpeg
+p229
+sg8
+I290561396
+sg9
+VChris Shaw
+p230
+sg11
+I341
+sg12
+Vshawy1980
+p231
+sg14
+g15
+sg16
+VSat Apr 30 13:57:15 +0000 2011
+p232
+sg18
+I364
+sg19
+I00
+sg20
+VHuddersfield 
+p233
+sg22
+I2
+sg23
+VChris Shaw
+p234
+sa(dp235
+g2
+I14
+sg3
+VDomestic and Comercial Carpet Cleaning - Call/Text 07468419173 Email c5hwy@hotmail.co.uk
+p236
+sg5
+I36
+sg6
+Vhttps://pbs.twimg.com/profile_images/428064742549118976/83pXfXBR_400x400.jpeg
+p237
+sg8
+L2313783206L
+sg9
+Vchris shaw
+p238
+sg11
+I1
+sg12
+Vc5hwy_CCleans
+p239
+sg14
+g15
+sg16
+VMon Jan 27 14:53:00 +0000 2014
+p240
+sg18
+I28
+sg19
+I00
+sg20
+VHudds, West Yorkshire
+p241
+sg22
+I2
+sg23
+VChris Shaw
+p242
+sa(dp243
+g2
+I7266
+sg3
+VThey say life is a gift, and I say waking up everyday is an opportunity to live it. #SteelerNation
+p244
+sg5
+I693
+sg6
+Vhttps://pbs.twimg.com/profile_images/608891854721945600/Z0q7OODu_400x400.jpg
+p245
+sg8
+I223334675
+sg9
+VChris Shaw
+p246
+sg11
+I740
+sg12
+VChrisLShaw
+p247
+sg14
+g15
+sg16
+VMon Dec 06 02:46:39 +0000 2010
+p248
+sg18
+I4297
+sg19
+I00
+sg20
+VPhoenix, Arizona
+p249
+sg22
+I2
+sg23
+VChris Shaw
+p250
+sa(dp251
+g2
+I89
+sg3
+VSPO. with NPS Sussex.  All views and interests my own
+p252
+sg5
+I93
+sg6
+Vhttps://pbs.twimg.com/profile_images/1447469035/image_400x400.jpg
+p253
+sg8
+I149287430
+sg9
+Vchris shaw
+p254
+sg11
+I18
+sg12
+Vrainmerxj
+p255
+sg14
+g15
+sg16
+VFri May 28 22:33:50 +0000 2010
+p256
 sg18
 I22
 sg19
 I00
 sg20
-VOttawa
-p195
+g50
 sg22
-I1
+I2
 sg23
-S'Chris Herdman'
-p196
-sa(dp197
+VChris Shaw
+p257
+sa(dp258
 g2
 I37
 sg3
 VAssociate Prof at School of Interactive Arts & Technology, SFU
-p198
+p259
 sg5
 I16
 sg6
 Vhttps://pbs.twimg.com/profile_images/816066290/Chris_Shaw_400x400.jpg
-p199
+p260
 sg8
 I131981111
 sg9
 VChris D Shaw
-p200
+p261
 sg11
 I0
 sg12
 VCDShaw
-p201
+p262
 sg14
 S'http://www.sfu.ca/~shaw/'
-p202
+p263
 sg16
 VSun Apr 11 23:23:55 +0000 2010
-p203
+p264
 sg18
 I37
 sg19
 I00
 sg20
 VVancouver, BC
-p204
+p265
 sg22
 I1
 sg23
 S'Chris Shaw'
-p205
-sa(dp206
+p266
+sa(dp267
 g2
-I1235
+I61359
+sg3
+VFormer commercial lawyer. Now a PR, Media Relations, Economics & Business Development expert & mentor, with a passion for MTB-ing and cars...
+p268
+sg5
+I749
+sg6
+Vhttps://pbs.twimg.com/profile_images/588856938043179008/9Ja9DQWA_400x400.jpg
+p269
+sg8
+I149647740
+sg9
+VChris Shaw
+p270
+sg11
+I69378
+sg12
+VThe_ChrisShaw
+p271
+sg14
+S'http://www.suremediarelations.co.uk'
+p272
+sg16
+VSat May 29 21:04:54 +0000 2010
+p273
+sg18
+I2441
+sg19
+I00
+sg20
+VYorkshire
+p274
+sg22
+I2
+sg23
+VChris Shaw
+p275
+sa(dp276
+g2
+I2731
+sg3
+VBusiness Intelligence Developer, football fan, golfer.
+p277
+sg5
+I472
+sg6
+Vhttps://pbs.twimg.com/profile_images/378800000769076264/1e6f0c4b928000af9e54d7d345be58a0_400x400.jpeg
+p278
+sg8
+I122008400
+sg9
+VChris Shaw
+p279
+sg11
+I246
+sg12
+VChrisJohnShaw32
+p280
+sg14
+g15
+sg16
+VThu Mar 11 08:53:44 +0000 2010
+p281
+sg18
+I194
+sg19
+I00
+sg20
+g50
+sg22
+I2
+sg23
+VChris Shaw
+p282
+sa(dp283
+g2
+I18289
+sg3
+VNews and facts about Grasmere Village in the beautiful English Lake District. Wordsworth liked us. We hope you will too.
+p284
+sg5
+I6282
+sg6
+Vhttps://pbs.twimg.com/profile_images/3034330215/554b30ebb33c4e38670d2c08f0401eab_400x400.jpeg
+p285
+sg8
+I20940993
+sg9
+VChris Shaw
+p286
+sg11
+I34
+sg12
+Vgrasmerevillage
+p287
+sg14
+S'http://www.grasmere-village.co.uk'
+p288
+sg16
+VSun Feb 15 21:56:38 +0000 2009
+p289
+sg18
+I6867
+sg19
+I00
+sg20
+VLake District
+p290
+sg22
+I2
+sg23
+VChris Shaw
+p291
+sa(dp292
+g2
+I2408
+sg3
+VNews Editor at Liverpool Football Club's official website - @LFC. Views my own.
+p293
+sg5
+I355
+sg6
+Vhttps://pbs.twimg.com/profile_images/2185160349/_MG_1808_400x400.JPG
+p294
+sg8
+I182796956
+sg9
+VChris Shaw
+p295
+sg11
+I12
+sg12
+Vshawct
+p296
+sg14
+S'http://www.liverpoolfc.com'
+p297
+sg16
+VWed Aug 25 12:24:10 +0000 2010
+p298
+sg18
+I8156
+sg19
+I00
+sg20
+VLiverpool
+p299
+sg22
+I2
+sg23
+VChris Shaw
+p300
+sa(dp301
+g2
+I165
+sg3
+VDirector, IT for Intel Sales & Marketing in EMEA
+p302
+sg5
+I270
+sg6
+Vhttps://pbs.twimg.com/profile_images/2390724487/mo7d7btva163a3huahc7_400x400.jpeg
+p303
+sg8
+I633630602
+sg9
+VChris D. Shaw
+p304
+sg11
+I11
+sg12
+Vchris_d_shaw
+p305
+sg14
+S'http://www.intel.com'
+p306
+sg16
+VThu Jul 12 10:26:11 +0000 2012
+p307
+sg18
+I189
+sg19
+I00
+sg20
+VSwindon, UK
+p308
+sg22
+I1
+sg23
+S'Chris Shaw'
+p309
+sa(dp310
+g2
+I6050
+sg3
+VThe Two Degrees Dangerous Limit for Climate Change.\u000aPublic Understanding and Decision Making. https://t.co/DWeMsAOkk4
+p311
+sg5
+I1686
+sg6
+Vhttps://pbs.twimg.com/profile_images/621057487584759809/XXsXNm-E_400x400.jpg
+p312
+sg8
+I135488533
+sg9
+VChris Shaw
+p313
+sg11
+I470
+sg12
+Vkalahar1
+p314
+sg14
+g15
+sg16
+VWed Apr 21 12:58:40 +0000 2010
+p315
+sg18
+I1476
+sg19
+I00
+sg20
+VSeaford, England
+p316
+sg22
+I2
+sg23
+VChris Shaw
+p317
+sa(dp318
+g2
+I25427
+sg3
+VMy favourites - Textile design,  Arizona, Japanese language and culture. and last but not least the beautiful English Lake District.
+p319
+sg5
+I6783
+sg6
+Vhttps://pbs.twimg.com/profile_images/578294497068613632/sV3EpCfI_400x400.jpeg
+p320
+sg8
+I20612953
+sg9
+VChris Shaw
+p321
+sg11
+I94
+sg12
+Vcragchris
+p322
+sg14
+S'http://englishlakes.wordpress.com/'
+p323
+sg16
+VWed Feb 11 19:10:47 +0000 2009
+p324
+sg18
+I7164
+sg19
+I00
+sg20
+VLake District, Cumbria.
+p325
+sg22
+I2
+sg23
+VChris Shaw
+p326
+sa(dp327
+g2
+I1237
 sg3
 VAssistant Professor and Canada Research Chair in Linguistic Information Visualization at UOIT
-p207
+p328
 sg5
-I275
+I276
 sg6
 Vhttps://pbs.twimg.com/profile_images/861127999/collins-uoit-sm_400x400.jpg
-p208
+p329
 sg8
 I17519986
 sg9
 VChristopher Collins
-p209
+p330
 sg11
 I66
 sg12
 VChrisNF
-p210
+p331
 sg14
 S'http://vialab.science.uoit.ca'
-p211
+p332
 sg16
 VThu Nov 20 19:53:40 +0000 2008
-p212
+p333
 sg18
-I686
+I690
 sg19
 I00
 sg20
 VToronto, Ontario
-p213
+p334
 sg22
-I2
+I3
 sg23
-VChristopher Collins
-p214
-sa(dp215
+S'Christopher Collins'
+p335
+sa(dp336
 g2
-I0
-sg3
-g50
-sg5
-I1193
-sg6
-Vhttps://pbs.twimg.com/profile_images/1170867663/christ_400x400.jpg
-p216
-sg8
-I217469610
-sg9
-Vchristopher collins
-p217
-sg11
-I0
-sg12
-Vcollitop10
-p218
-sg14
-g15
-sg16
-VFri Nov 19 16:24:33 +0000 2010
-p219
-sg18
-I438
-sg19
-I00
-sg20
-Vunited kingdom
-p220
-sg22
-I2
-sg23
-VChristopher Collins
-p221
-sa(dp222
-g2
-I206
+I220
 sg3
 VComputer science professor at the University of Waterloo and frequent dabbler.
-p223
+p337
 sg5
 I127
 sg6
 Vhttps://pbs.twimg.com/profile_images/910617896/n630236254_3793_400x400.jpg
-p224
+p338
 sg8
 I145326665
 sg9
 VCraig S. Kaplan
-p225
+p339
 sg11
-I12
+I16
 sg12
 Vcs_kaplan
-p226
+p340
 sg14
 S'http://www.cgl.uwaterloo.ca/~csk/'
-p227
+p341
 sg16
 VTue May 18 17:56:51 +0000 2010
-p228
+p342
 sg18
-I216
+I219
 sg19
 I00
 sg20
 g50
 sg22
-I1
+I3
 sg23
 S'Craig Kaplan'
-p229
-sa(dp230
+p343
+sa(dp344
 g2
-I7299
+I7435
 sg3
 VME: I am the Swiss Army Knife of #edtech. What do I do? I make IT work. Interests: #EdTech #Hockey #Baseball #Football #Comedy #Austin #Music #CoC
-p231
+p345
 sg5
-I1995
+I1960
 sg6
 Vhttps://pbs.twimg.com/profile_images/589537850825125888/tCue4kFs_400x400.png
-p232
+p346
 sg8
 I44146675
 sg9
 VDan Vogel
-p233
+p347
 sg11
-I849
+I959
 sg12
 Vdhvmoon
-p234
+p348
 sg14
 S'https://www.linkedin.com/in/dhvmoon'
-p235
+p349
 sg16
 VTue Jun 02 16:09:48 +0000 2009
-p236
+p350
 sg18
-I958
+I968
 sg19
 I00
 sg20
 VAustin, Texas
-p237
+p351
 sg22
 I2
 sg23
 VDan Vogel
-p238
-sa(dp239
+p352
+sa(dp353
 g2
-I5984
+I6010
 sg3
 VEnglish Professor. (Co-)Founder: GlobalOutlook::DigitalHumanities, Lethbridge Journal Incubator, Digital Medievalist. Past Chair/President: CSDH-SCHN; TEI.
-p240
+p354
 sg5
 I1052
 sg6
 Vhttps://pbs.twimg.com/profile_images/1064991364/q837115214_4617_400x400.jpg
-p241
+p355
 sg8
 I41965769
 sg9
 VDaniel O'Donnell
-p242
+p356
 sg11
-I231
+I234
 sg12
 VDanielPaulOD
-p243
+p357
 sg14
 S'http://dpod.kakelbont.ca/'
-p244
+p358
 sg16
 VSat May 23 03:29:46 +0000 2009
-p245
+p359
 sg18
-I995
+I1001
 sg19
 I00
 sg20
 VLethbridge
-p246
+p360
 sg22
 I2
 sg23
 VDaniel O'Donnell
-p247
-sa(dp248
+p361
+sa(dp362
 g2
-I6
+I42757
 sg3
-g50
+VTechnical Arts + Production Coordinator for @sherwood_kids @sherwoodoakscc @onegirlconf | Jesus Follower | Marathon Runner | #kidmin #crtvmin #chsocm
+p363
 sg5
-I10
+I1077
 sg6
-Vhttps://abs.twimg.com/sticky/default_profile_images/default_profile_5_400x400.png
-p249
+Vhttps://pbs.twimg.com/profile_images/602629268254822401/eeE-FRIn_400x400.jpg
+p364
 sg8
-I126204853
+I24308803
 sg9
-Vdarren warburton
-p250
+VDavid Clark
+p365
 sg11
-I0
+I7
 sg12
-Vwarburtonlab
-p251
+Vdavidclark
+p366
 sg14
-g15
+S'http://instagram.com/davidrclark'
+p367
 sg16
-VThu Mar 25 03:59:42 +0000 2010
-p252
+VSat Mar 14 02:14:11 +0000 2009
+p368
 sg18
-I6
+I1277
 sg19
 I00
 sg20
-g50
+VBloomington, Indiana
+p369
 sg22
 I2
 sg23
-VDarren Warburton
-p253
-sa(dp254
-g2
-I15
-sg3
-g50
-sg5
-I57
-sg6
-Vhttps://pbs.twimg.com/profile_images/415991160444706816/PErZGCvN_400x400.jpeg
-p255
-sg8
-I119586900
-sg9
-VDavid Somiah Clark
-p256
-sg11
-I1
-sg12
-Vzomiah
-p257
-sg14
-g15
-sg16
-VThu Mar 04 02:34:18 +0000 2010
-p258
-sg18
-I23
-sg19
-I00
-sg20
-VMontreal
-p259
-sg22
-I1
-sg23
-S'David Clark'
-p260
-sa(dp261
-g2
-I620
-sg3
-VUrbanisme, société et politique. Étudiant à la maîtrise en urbanisme @UMontreal et chargé de projet @VoyagezFuteQC. \u000a\u000aMainly tweet in FR, occasionally EN & ES.
-p262
-sg5
-I379
-sg6
-Vhttps://pbs.twimg.com/profile_images/613000261624315905/0JDckIvK_400x400.jpg
-p263
-sg8
-I468603757
-sg9
-VDavid Alfaro Clark
-p264
-sg11
-I164
-sg12
-Vdalfaroclark
-p265
-sg14
-g15
-sg16
-VThu Jan 19 18:24:31 +0000 2012
-p266
-sg18
-I161
-sg19
-I00
-sg20
-VMontréal, Québec
-p267
-sg22
-I1
-sg23
-S'David Clark'
-p268
-sa(dp269
+VDavid Clark
+p370
+sa(dp371
 g2
 I4
 sg3
@@ -1206,22 +1638,22 @@ sg5
 I20
 sg6
 Vhttps://abs.twimg.com/sticky/default_profile_images/default_profile_6_400x400.png
-p270
+p372
 sg8
 I388548299
 sg9
 VDavid Clark
-p271
+p373
 sg11
 I0
 sg12
 VDavidClark51
-p272
+p374
 sg14
 g15
 sg16
 VMon Oct 10 22:59:15 +0000 2011
-p273
+p375
 sg18
 I2
 sg19
@@ -1232,32 +1664,522 @@ sg22
 I2
 sg23
 VDavid Clark
-p274
-sa(dp275
+p376
+sa(dp377
+g2
+I765
+sg3
+VUrbanisme, société et politique. Étudiant à la maîtrise en urbanisme @UMontreal et chargé de projet @VoyagezFuteQC. \u000a\u000aMainly tweet in FR, occasionally EN & ES.
+p378
+sg5
+I412
+sg6
+Vhttps://pbs.twimg.com/profile_images/613000261624315905/0JDckIvK_400x400.jpg
+p379
+sg8
+I468603757
+sg9
+VDavid Alfaro Clark
+p380
+sg11
+I226
+sg12
+Vdalfaroclark
+p381
+sg14
+g15
+sg16
+VThu Jan 19 18:24:31 +0000 2012
+p382
+sg18
+I180
+sg19
+I00
+sg20
+VMontréal, Québec
+p383
+sg22
+I1
+sg23
+S'David Clark'
+p384
+sa(dp385
+g2
+I695
+sg3
+VJazz, Politics, Wishmelucktrynathinkstraight
+p386
+sg5
+I1059
+sg6
+Vhttps://pbs.twimg.com/profile_images/378800000299954658/5b80dc9c1833bafccfa1011a4134c885_400x400.jpeg
+p387
+sg8
+I53824153
+sg9
+VDavid Clark
+p388
+sg11
+I41
+sg12
+Vbetwittbetween
+p389
+sg14
+g15
+sg16
+VSun Jul 05 03:08:06 +0000 2009
+p390
+sg18
+I166
+sg19
+I00
+sg20
+g50
+sg22
+I2
+sg23
+VDavid Clark
+p391
+sa(dp392
+g2
+I737
+sg3
+Vbeing a father of four girls there is nothing else to fear
+p393
+sg5
+I402
+sg6
+Vhttps://pbs.twimg.com/profile_images/2740280963/9c2f6afdca3be08991e02f0783304950_400x400.jpeg
+p394
+sg8
+I286350569
+sg9
+VDavid Donald Clark
+p395
+sg11
+I289
+sg12
+VDavid1968Clark
+p396
+sg14
+g15
+sg16
+VFri Apr 22 20:44:24 +0000 2011
+p397
+sg18
+I69
+sg19
+I00
+sg20
+Vwales haverfordwest
+p398
+sg22
+I1
+sg23
+S'David Clark'
+p399
+sa(dp400
+g2
+I15
+sg3
+g50
+sg5
+I57
+sg6
+Vhttps://pbs.twimg.com/profile_images/415991160444706816/PErZGCvN_400x400.jpeg
+p401
+sg8
+I119586900
+sg9
+VDavid Somiah Clark
+p402
+sg11
+I1
+sg12
+Vzomiah
+p403
+sg14
+g15
+sg16
+VThu Mar 04 02:34:18 +0000 2010
+p404
+sg18
+I24
+sg19
+I00
+sg20
+VMontreal
+p405
+sg22
+I1
+sg23
+S'David Clark'
+p406
+sa(dp407
+g2
+I658
+sg3
+VHusband,  Father, Homeowner, MACaddict,   LAMP developer & all around geek who happens to have a disability.
+p408
+sg5
+I298
+sg6
+Vhttps://pbs.twimg.com/profile_images/358973094/a511702922_1435782_9536_400x400.jpg
+p409
+sg8
+I619003
+sg9
+VDavid M Clark
+p410
+sg11
+I12
+sg12
+Vdmclark
+p411
+sg14
+S'http://www.linkedin.com/pub/david-m-clark/0/810/623'
+p412
+sg16
+VTue Jan 09 17:08:59 +0000 2007
+p413
+sg18
+I243
+sg19
+I00
+sg20
+VNewton, MA
+p414
+sg22
+I1
+sg23
+S'David Clark'
+p415
+sa(dp416
+g2
+I1
+sg3
+VFormerly @davidrogerc. Now @davidclark.
+p417
+sg5
+I1
+sg6
+Vhttps://pbs.twimg.com/profile_images/1227545569/twitter31_400x400.jpg
+p418
+sg8
+I243806090
+sg9
+VDavid Clark
+p419
+sg11
+I0
+sg12
+Vdavidrogerc
+p420
+sg14
+S'http://www.twitter.com/davidclark'
+p421
+sg16
+VThu Jan 27 21:17:23 +0000 2011
+p422
+sg18
+I3
+sg19
+I00
+sg20
+V@davidclark
+p423
+sg22
+I2
+sg23
+VDavid Clark
+p424
+sa(dp425
+g2
+I17
+sg3
+VApps Box Interactive is a young and but active App & Game Distributor for China Android market.
+p426
+sg5
+I857
+sg6
+Vhttps://pbs.twimg.com/profile_images/378800000234582127/32243c094e8271306b331cab1c0c6265_400x400.png
+p427
+sg8
+I1642634479
+sg9
+VDavid Clark
+p428
+sg11
+I17
+sg12
+VAndroidinchina
+p429
+sg14
+S'http://www.apps-box.cn/'
+p430
+sg16
+VSat Aug 03 11:06:22 +0000 2013
+p431
+sg18
+I22
+sg19
+I00
+sg20
+VChina
+p432
+sg22
+I2
+sg23
+VDavid Clark
+p433
+sa(dp434
+g2
+I22
+sg3
+g50
+sg5
+I51
+sg6
+Vhttps://pbs.twimg.com/profile_images/544899522024181761/oOLBtkHO_400x400.jpeg
+p435
+sg8
+I506749534
+sg9
+VDavid Clark
+p436
+sg11
+I80
+sg12
+Vgarlicdave
+p437
+sg14
+g15
+sg16
+VTue Feb 28 02:33:28 +0000 2012
+p438
+sg18
+I3
+sg19
+I00
+sg20
+g50
+sg22
+I2
+sg23
+VDavid Clark
+p439
+sa(dp440
+g2
+I917
+sg3
+Vone of seven billion or so. full stack generalizing specialist.
+p441
+sg5
+I1166
+sg6
+Vhttps://pbs.twimg.com/profile_images/3113287019/dd3610e384cdcabc9108abdb89fa0cf2_400x400.jpeg
+p442
+sg8
+I544592910
+sg9
+VDavid Clark
+p443
+sg11
+I748
+sg12
+VDavePClark
+p444
+sg14
+g15
+sg16
+VTue Apr 03 18:58:02 +0000 2012
+p445
+sg18
+I197
+sg19
+I00
+sg20
+g50
+sg22
+I2
+sg23
+VDavid Clark
+p446
+sa(dp447
+g2
+I102
+sg3
+g50
+sg5
+I195
+sg6
+Vhttps://pbs.twimg.com/profile_images/3077607259/e9dd06773b6457066bb80220c114e68b_400x400.png
+p448
+sg8
+I6844472
+sg9
+VDavid Clark
+p449
+sg11
+I12
+sg12
+Vbluedot
+p450
+sg14
+S'http://strangerecurringthemes.blogspot.com/'
+p451
+sg16
+VSat Jun 16 00:31:04 +0000 2007
+p452
+sg18
+I23
+sg19
+I00
+sg20
+g50
+sg22
+I2
+sg23
+VDavid Clark
+p453
+sa(dp454
+g2
+I2721
+sg3
+VVenture Capitalist, Angel Investor & Entrepreneur ~ I help shape ideas into high performing companies. http://t.co/ulQLwmUm6X  http://t.co/b1J1Ka3oFV
+p455
+sg5
+I6458
+sg6
+Vhttps://pbs.twimg.com/profile_images/460857605405962240/Rx3dspBe_400x400.jpeg
+p456
+sg8
+I28908736
+sg9
+VDavid L Clark
+p457
+sg11
+I75
+sg12
+VDLClark
+p458
+sg14
+S'http://about.me/David_L_Clark'
+p459
+sg16
+VSun Apr 05 01:02:33 +0000 2009
+p460
+sg18
+I17858
+sg19
+I00
+sg20
+VIndianapolis
+p461
+sg22
+I1
+sg23
+S'David Clark'
+p462
+sa(dp463
+g2
+I3
+sg3
+g50
+sg5
+I984
+sg6
+Vhttps://pbs.twimg.com/profile_images/560906011213828097/AMxoWZlJ_400x400.jpeg
+p464
+sg8
+L2864639727L
+sg9
+VDavid Clark
+p465
+sg11
+I4
+sg12
+Vdclark4d
+p466
+sg14
+g15
+sg16
+VThu Nov 06 22:40:57 +0000 2014
+p467
+sg18
+I211
+sg19
+I00
+sg20
+g50
+sg22
+I2
+sg23
+VDavid Clark
+p468
+sa(dp469
+g2
+I1758
+sg3
+VLivin for the moments!
+p470
+sg5
+I252
+sg6
+Vhttps://pbs.twimg.com/profile_images/378800000551159857/c320b78f8504031bf4b4a2ab4beb702f_400x400.jpeg
+p471
+sg8
+I180961306
+sg9
+VDavid Clark
+p472
+sg11
+I2344
+sg12
+VDavidClark04
+p473
+sg14
+g15
+sg16
+VFri Aug 20 23:13:26 +0000 2010
+p474
+sg18
+I269
+sg19
+I00
+sg20
+VValparaiso, NE
+p475
+sg22
+I2
+sg23
+VDavid Clark
+p476
+sa(dp477
 g2
 I825
 sg3
 g50
 sg5
-I329
+I331
 sg6
 Vhttps://pbs.twimg.com/profile_images/2554579761/image_400x400.jpg
-p276
+p478
 sg8
 I371576740
 sg9
 VDavid Andrew Fleet 
-p277
+p479
 sg11
-I192
+I194
 sg12
 VDav1d_F
-p278
+p480
 sg14
 g15
 sg16
 VSun Sep 11 03:42:29 +0000 2011
-p279
+p481
 sg18
 I170
 sg19
@@ -1268,36 +2190,36 @@ sg22
 I1
 sg23
 S'David Fleet'
-p280
-sa(dp281
+p482
+sa(dp483
 g2
 I1679
 sg3
 VDirector, Editing Modernism in Canada (@EMiC_project); Director, Agile Humanities Agency (@AgileHumanities); Associate Professor, Dalhousie University
-p282
+p484
 sg5
-I1258
+I1261
 sg6
 Vhttps://pbs.twimg.com/profile_images/601842329/Irvine_400x400.jpg
-p283
+p485
 sg8
 I19934239
 sg9
 VDean Irvine
-p284
+p486
 sg11
-I397
+I398
 sg12
 Virvined
-p285
+p487
 sg14
 S'http://editingmodernism.ca'
-p286
+p488
 sg16
 VMon Feb 02 21:30:16 +0000 2009
-p287
+p489
 sg18
-I1333
+I1337
 sg19
 I00
 sg20
@@ -1306,202 +2228,86 @@ sg22
 I2
 sg23
 VDean Irvine
-p288
-sa(dp289
+p490
+sa(dp491
 g2
 I98
 sg3
 VAssistant Professor at the University of Montreal and Co-director of the Computer Graphics Research Group.
-p290
+p492
 sg5
 I209
 sg6
 Vhttps://pbs.twimg.com/profile_images/481498379000631296/DPXogyvU_400x400.jpeg
-p291
+p493
 sg8
 L2284176285L
 sg9
 VDerek Nowrouzezahrai
-p292
+p494
 sg11
 I13
 sg12
 VDerekRenderling
-p293
+p495
 sg14
 S'http://www.iro.umontreal.ca/~derek'
-p294
+p496
 sg16
 VWed Jan 15 17:02:30 +0000 2014
-p295
+p497
 sg18
-I185
+I191
 sg19
 I00
 sg20
 VMontreal, Quebec, Canada
-p296
+p498
 sg22
 I2
 sg23
 VDerek Nowrouzezahrai
-p297
-sa(dp298
+p499
+sa(dp500
 g2
-I549
-sg3
-VFamily, nurse,politics and health. All tweets my own. Industrial Relations Officer, Irish Nurses & Midwives Organisation.
-p299
-sg5
-I1249
-sg6
-Vhttps://pbs.twimg.com/profile_images/428108127159218177/Xm-HuH0b_400x400.jpeg
-p300
-sg8
-I1864789970
-sg9
-VDerek Reilly
-p301
-sg11
-I224
-sg12
-Vderekreilly410
-p302
-sg14
-S'http://www.inmo.ie'
-p303
-sg16
-VSat Sep 14 19:48:42 +0000 2013
-p304
-sg18
-I364
-sg19
-I00
-sg20
-VKildare, Ireland
-p305
-sg22
-I2
-sg23
-VDerek Reilly
-p306
-sa(dp307
-g2
-I4476
-sg3
-VNetworking Expert, Author, Speaker and Trainer. I work as a BNI Managing Area Director. I'm a JCI Senator & EDC Councillor, Sci Fi Fan & World Record Holder
-p308
-sg5
-I1834
-sg6
-Vhttps://pbs.twimg.com/profile_images/582947581648568320/3hTE3VIj_400x400.jpg
-p309
-sg8
-I19080530
-sg9
-VDerek Reilly
-p310
-sg11
-I1077
-sg12
-Vderekreilly
-p311
-sg14
-S'http://www.linkedin.com/in/derekreilly'
-p312
-sg16
-VFri Jan 16 19:13:57 +0000 2009
-p313
-sg18
-I2404
-sg19
-I00
-sg20
-VMayo Ireland
-p314
-sg22
-I2
-sg23
-VDerek Reilly
-p315
-sa(dp316
-g2
-I896
+I899
 sg3
 VAssistant Prof in Human-Computer Interaction at Dalhousie University. I tweet mainly to chronicle my epic battle with MS Word.
-p317
+p501
 sg5
-I198
+I191
 sg6
 Vhttps://pbs.twimg.com/profile_images/616797184739160065/S1xs6yai_400x400.jpg
-p318
+p502
 sg8
 I24783306
 sg9
 VDerek Reilly
-p319
+p503
 sg11
-I176
+I179
 sg12
 Vderekfreilly
-p320
+p504
 sg14
 S'http://web.cs.dal.ca/~reilly/'
-p321
+p505
 sg16
 VMon Mar 16 22:23:10 +0000 2009
-p322
+p506
 sg18
-I196
+I194
 sg19
 I00
 sg20
 VHalifax
-p323
+p507
 sg22
-I2
-sg23
-VDerek Reilly
-p324
-sa(dp325
-g2
-I1820
-sg3
-VSomebody stepped inside your soul. Little by little they robbed and stole, till someone else was in control.  #snp
-p326
-sg5
-I841
-sg6
-Vhttps://pbs.twimg.com/profile_images/540631190559293440/97EhMr61_400x400.jpeg
-p327
-sg8
-I141876730
-sg9
-VDerek Reilly \uf8ff
-p328
-sg11
-I140
-sg12
-Vyankeebhoy
-p329
-sg14
-g15
-sg16
-VSun May 09 08:33:03 +0000 2010
-p330
-sg18
-I164
-sg19
-I00
-sg20
-VA place called Vertigo.
-p331
-sg22
-I1
+I3
 sg23
 S'Derek Reilly'
-p332
-sa(dp333
+p508
+sa(dp509
 g2
 I3
 sg3
@@ -1510,22 +2316,22 @@ sg5
 I11
 sg6
 Vhttps://abs.twimg.com/sticky/default_profile_images/default_profile_2_400x400.png
-p334
+p510
 sg8
 I184186585
 sg9
 VDr.Diane Gromala
-p335
+p511
 sg11
 I0
 sg12
 Vdrgromala
-p336
+p512
 sg14
 g15
 sg16
 VSat Aug 28 22:44:45 +0000 2010
-p337
+p513
 sg18
 I14
 sg19
@@ -1536,47 +2342,47 @@ sg22
 I1
 sg23
 S'Diane Gromala'
-p338
-sa(dp339
+p514
+sa(dp515
 g2
-I2456
+I2483
 sg3
 VProf at the University of Edinburgh, learning analyst, learning technologist, social computer scientist, semantics seeker, modeling enthusiast
-p340
+p516
 sg5
-I343
+I345
 sg6
 Vhttps://pbs.twimg.com/profile_images/471447291/gasevic_400x400.jpg
-p341
+p517
 sg8
 I69653552
 sg9
 VDragan Gasevic
-p342
+p518
 sg11
-I1250
+I1258
 sg12
 Vdgasevic
-p343
+p519
 sg14
 S'http://www.sfu.ca/~dgasevic'
-p344
+p520
 sg16
 VFri Aug 28 18:07:56 +0000 2009
-p345
+p521
 sg18
-I1147
+I1159
 sg19
 I00
 sg20
 VEdinburgh, UK
-p346
+p522
 sg22
 I2
 sg23
 VDragan Gasevic
-p347
-sa(dp348
+p523
+sa(dp524
 g2
 I368
 sg3
@@ -1585,152 +2391,152 @@ sg5
 I589
 sg6
 Vhttps://pbs.twimg.com/profile_images/2965535608/9bf35b974e318713e4015c625871d134_400x400.jpeg
-p349
+p525
 sg8
 I9270232
 sg9
 VElena Razlogova
-p350
+p526
 sg11
 I28
 sg12
 Verazlogo
-p351
+p527
 sg14
 S'http://elenarazlogova.org'
-p352
+p528
 sg16
 VFri Oct 05 20:23:08 +0000 2007
-p353
-sg18
-I430
-sg19
-I00
-sg20
-VMontreal
-p354
-sg22
-I2
-sg23
-VElena Razlogova
-p355
-sa(dp356
-g2
-I2716
-sg3
-Vtechnical woman, academic, mother, mentor,  social and parasocial being
-p357
-sg5
-I423
-sg6
-Vhttps://pbs.twimg.com/profile_images/922404287/Photo_57_400x400.jpg
-p358
-sg8
-I14160039
-sg9
-Veleni stroulia
-p359
-sg11
-I42
-sg12
-VEleni_Stroulia
-p360
-sg14
-S'http://ssrg.cs.ualberta.ca'
-p361
-sg16
-VSun Mar 16 23:19:25 +0000 2008
-p362
-sg18
-I578
-sg19
-I00
-sg20
-g50
-sg22
-I2
-sg23
-VEleni Stroulia
-p363
-sa(dp364
-g2
-I1101
-sg3
-Vmostly not here \u000a#academicANDfeminist
-p365
-sg5
-I328
-sg6
-Vhttps://pbs.twimg.com/profile_images/509014345712685056/fHDre-cf_400x400.jpeg
-p366
-sg8
-I570873281
-sg9
-Vemma westecott
-p367
-sg11
-I665
-sg12
-Vemmawestecott
-p368
-sg14
-S'http://www.shenerd.com'
-p369
-sg16
-VFri May 04 14:26:29 +0000 2012
-p370
+p529
 sg18
 I429
 sg19
 I00
 sg20
-Vtoronto
-p371
+VMontreal
+p530
 sg22
 I2
 sg23
-VEmma Westecott
-p372
-sa(dp373
+VElena Razlogova
+p531
+sa(dp532
+g2
+I2723
+sg3
+Vtechnical woman, academic, mother, mentor,  social and parasocial being
+p533
+sg5
+I429
+sg6
+Vhttps://pbs.twimg.com/profile_images/922404287/Photo_57_400x400.jpg
+p534
+sg8
+I14160039
+sg9
+Veleni stroulia
+p535
+sg11
+I44
+sg12
+VEleni_Stroulia
+p536
+sg14
+S'http://ssrg.cs.ualberta.ca'
+p537
+sg16
+VSun Mar 16 23:19:25 +0000 2008
+p538
+sg18
+I586
+sg19
+I00
+sg20
+g50
+sg22
+I3
+sg23
+S'Eleni Stroulia'
+p539
+sa(dp540
+g2
+I1107
+sg3
+Vmostly not here \u000a#academicANDfeminist
+p541
+sg5
+I329
+sg6
+Vhttps://pbs.twimg.com/profile_images/509014345712685056/fHDre-cf_400x400.jpeg
+p542
+sg8
+I570873281
+sg9
+Vemma westecott
+p543
+sg11
+I667
+sg12
+Vemmawestecott
+p544
+sg14
+S'http://www.shenerd.com'
+p545
+sg16
+VFri May 04 14:26:29 +0000 2012
+p546
+sg18
+I434
+sg19
+I00
+sg20
+Vtoronto
+p547
+sg22
+I3
+sg23
+S'Emma Westecott'
+p548
+sa(dp549
 g2
 I23
 sg3
 VProfessor, etc.
-p374
+p550
 sg5
 I9
 sg6
 Vhttps://pbs.twimg.com/profile_images/2138570394/eugene1small_400x400.jpg
-p375
+p551
 sg8
 I555416515
 sg9
 VEugene Fiume
-p376
+p552
 sg11
 I0
 sg12
 VEugeneFiume
-p377
+p553
 sg14
 S'http://www.dgp.toronto.edu/~elf'
-p378
+p554
 sg16
 VMon Apr 16 20:51:54 +0000 2012
-p379
+p555
 sg18
-I72
+I71
 sg19
 I00
 sg20
 VToronto
-p380
+p556
 sg22
 I2
 sg23
 VEugene Fiume
-p381
-sa(dp382
+p557
+sa(dp558
 g2
 I1
 sg3
@@ -1739,22 +2545,22 @@ sg5
 I19
 sg6
 Vhttps://abs.twimg.com/sticky/default_profile_images/default_profile_1_400x400.png
-p383
+p559
 sg8
 L2502553082L
 sg9
 VFaramarz Samavati
-p384
+p560
 sg11
 I1
 sg12
 Vfsamavati
-p385
+p561
 sg14
 g15
 sg16
 VSat May 17 21:22:21 +0000 2014
-p386
+p562
 sg18
 I8
 sg19
@@ -1765,8 +2571,8 @@ sg22
 I2
 sg23
 VFaramarz Samavati
-p387
-sa(dp388
+p563
+sa(dp564
 g2
 I0
 sg3
@@ -1775,22 +2581,22 @@ sg5
 I7
 sg6
 Vhttps://abs.twimg.com/sticky/default_profile_images/default_profile_0_400x400.png
-p389
+p565
 sg8
 I39851441
 sg9
 VFrank Maurer
-p390
+p566
 sg11
 I0
 sg12
 Vfrankmaurer
-p391
+p567
 sg14
 g15
 sg16
 VWed May 13 22:12:25 +0000 2009
-p392
+p568
 sg18
 I60
 sg19
@@ -1801,125 +2607,161 @@ sg22
 I2
 sg23
 VFrank Maurer
-p393
-sa(dp394
+p569
+sa(dp570
 g2
-I426
+I0
+sg3
+g50
+sg5
+I60
+sg6
+Vhttps://abs.twimg.com/sticky/default_profile_images/default_profile_4_400x400.png
+p571
+sg8
+L3222155073L
+sg9
+Vfrank maurer
+p572
+sg11
+I0
+sg12
+Vtarshan12
+p573
+sg14
+g15
+sg16
+VWed Apr 29 18:48:19 +0000 2015
+p574
+sg18
+I6
+sg19
+I00
+sg20
+g50
+sg22
+I2
+sg23
+VFrank Maurer
+p575
+sa(dp576
+g2
+I429
 sg3
 VRyerson University, School of Professional Communication
-p395
+p577
 sg5
 I238
 sg6
 Vhttps://pbs.twimg.com/profile_images/2682740150/4477afcac65d1ab61b1841454f76719b_400x400.jpeg
-p396
+p578
 sg8
 I42630061
 sg9
 VFrauke Zeller
-p397
+p579
 sg11
-I204
+I205
 sg12
 Vfraukezeller
-p398
+p580
 sg14
 S'http://fraukezeller.wordpress.com'
-p399
+p581
 sg16
 VTue May 26 14:05:07 +0000 2009
-p400
+p582
 sg18
-I526
+I534
 sg19
 I00
 sg20
 VToronto
-p401
+p583
 sg22
-I2
+I3
 sg23
-VFrauke Zeller
-p402
-sa(dp403
+S'Frauke Zeller'
+p584
+sa(dp585
 g2
 I29
 sg3
 VFred is Professor of Computing Science at SFU active in technology commercialization, and has worked with many companies in the technology industry and in NLP.
-p404
+p586
 sg5
 I16
 sg6
 Vhttps://pbs.twimg.com/profile_images/1256009300/IMG_6601_400x400.jpeg
-p405
+p587
 sg8
 I257953119
 sg9
 VFred Popowich
-p406
+p588
 sg11
 I0
 sg12
 Vfredpopowich
-p407
+p589
 sg14
 S'http://www.fredpopowich.com'
-p408
+p590
 sg16
 VSat Feb 26 16:56:54 +0000 2011
-p409
+p591
 sg18
 I57
 sg19
 I00
 sg20
 VVancouver
-p410
+p592
 sg22
 I2
 sg23
 VFred Popowich
-p411
-sa(dp412
+p593
+sa(dp594
 g2
-I2095
+I2149
 sg3
 VPhilosophy and Humanities Computing Prof at U of Alberta
-p413
+p595
 sg5
-I243
+I247
 sg6
 Vhttps://pbs.twimg.com/profile_images/599250992983445504/ODNBG2Ib_400x400.png
-p414
+p596
 sg8
 I21966494
 sg9
 VGeoffrey Rockwell
-p415
+p597
 sg11
 I16
 sg12
 VGeoffRockwell
-p416
+p598
 sg14
 S'http://theoreti.ca'
-p417
+p599
 sg16
 VThu Feb 26 03:49:43 +0000 2009
-p418
+p600
 sg18
-I1728
+I1752
 sg19
 I00
 sg20
 VEdmonton, Alberta, Canada
-p419
+p601
 sg22
-I2
+I3
 sg23
-VGeoffrey Rockwell
-p420
-sa(dp421
+S'Geoffrey Rockwell'
+p602
+sa(dp603
 g2
 I25
 sg3
@@ -1928,22 +2770,22 @@ sg5
 I11
 sg6
 Vhttps://abs.twimg.com/sticky/default_profile_images/default_profile_4_400x400.png
-p422
+p604
 sg8
 I75708735
 sg9
 VGeoffrey Shea
-p423
+p605
 sg11
 I1
 sg12
 VGeoffrey_Shea
-p424
+p606
 sg14
 g15
 sg16
 VSun Sep 20 03:20:31 +0000 2009
-p425
+p607
 sg18
 I10
 sg19
@@ -1954,124 +2796,86 @@ sg22
 I2
 sg23
 VGeoffrey Shea
-p426
-sa(dp427
+p608
+sa(dp609
 g2
 I71
 sg3
 VArtist
-p428
+p610
 sg5
 I40
 sg6
 Vhttps://pbs.twimg.com/profile_images/646595969/gshea_twitter_400x400.jpg
-p429
+p611
 sg8
 I107197125
 sg9
 VGeoffrey Shea
-p430
+p612
 sg11
 I0
 sg12
 VGeoffreyShea
-p431
+p613
 sg14
 S'http://geoffreyshea.com'
-p432
+p614
 sg16
 VThu Jan 21 20:36:56 +0000 2010
-p433
+p615
 sg18
 I60
 sg19
 I00
 sg20
 VCanada
-p434
+p616
 sg22
 I2
 sg23
 VGeoffrey Shea
-p435
-sa(dp436
+p617
+sa(dp618
 g2
-I1931
+I1934
 sg3
 VDesigner, futurist, director @OCADsLab + @DesignJamCA @OCAD U, teaching @ocadu_sfi & investigating #designthinking #systems #emergence #media. Opinions my own.
-p437
+p619
 sg5
-I1144
+I1148
 sg6
 Vhttps://pbs.twimg.com/profile_images/500491379974209540/1srlnW7J_400x400.jpeg
-p438
+p620
 sg8
 I16290466
 sg9
 VGreg Van Alstyne
-p439
+p621
 sg11
 I81
 sg12
 Vgregvan
-p440
+p622
 sg14
 S'http://gregvanalstyne.com'
-p441
+p623
 sg16
 VMon Sep 15 02:06:38 +0000 2008
-p442
+p624
 sg18
-I1106
+I1115
 sg19
 I00
 sg20
 VToronto
-p443
+p625
 sg22
 I1
 sg23
 S'Greg Alstyne'
-p444
-sa(dp445
-g2
-I54
-sg3
-VAssistant Professor and user engagement researcher, iSchool@UBC
-p446
-sg5
-I84
-sg6
-Vhttps://pbs.twimg.com/profile_images/524611536560480256/BzMs75WF_400x400.jpeg
-p447
-sg8
-I1573623500
-sg9
-VHeather O'Brien
-p448
-sg11
-I5
-sg12
-VHLOBrienUBC
-p449
-sg14
-S'http://faculty.arts.ubc.ca/hobrien/'
-p450
-sg16
-VSat Jul 06 20:44:01 +0000 2013
-p451
-sg18
-I89
-sg19
-I00
-sg20
-g50
-sg22
-I2
-sg23
-VHeather O'Brien
-p452
-sa(dp453
+p626
+sa(dp627
 g2
 I1
 sg3
@@ -2080,99 +2884,137 @@ sg5
 I21
 sg6
 Vhttps://abs.twimg.com/sticky/default_profile_images/default_profile_1_400x400.png
-p454
+p628
 sg8
 I133694695
 sg9
 VHeather O'Brien
-p455
+p629
 sg11
 I0
 sg12
 Vheathercob
-p456
+p630
 sg14
 g15
 sg16
 VFri Apr 16 11:56:32 +0000 2010
-p457
+p631
 sg18
 I11
 sg19
 I00
 sg20
 VSt. John's, NL
-p458
+p632
 sg22
 I2
 sg23
 VHeather O'Brien
-p459
-sa(dp460
+p633
+sa(dp634
 g2
 I55
 sg3
-VDesigner. Maker of things.
-p461
+VAssistant Professor and user engagement researcher, iSchool@UBC
+p635
 sg5
-I337
+I84
+sg6
+Vhttps://pbs.twimg.com/profile_images/524611536560480256/BzMs75WF_400x400.jpeg
+p636
+sg8
+I1573623500
+sg9
+VHeather O'Brien
+p637
+sg11
+I5
+sg12
+VHLOBrienUBC
+p638
+sg14
+S'http://faculty.arts.ubc.ca/hobrien/'
+p639
+sg16
+VSat Jul 06 20:44:01 +0000 2013
+p640
+sg18
+I88
+sg19
+I00
+sg20
+g50
+sg22
+I2
+sg23
+VHeather O'Brien
+p641
+sa(dp642
+g2
+I56
+sg3
+VDesigner. Maker of things.
+p643
+sg5
+I338
 sg6
 Vhttps://pbs.twimg.com/profile_images/350248261/J1024x768-02793_400x400.jpg
-p462
+p644
 sg8
 I26863068
 sg9
 VHelene Day Fraser
-p463
+p645
 sg11
-I2
+I3
 sg12
 Vhelenedayfraser
-p464
+p646
 sg14
 g15
 sg16
 VThu Mar 26 21:54:53 +0000 2009
-p465
+p647
 sg18
-I167
+I170
 sg19
 I00
 sg20
 VVancouver
-p466
+p648
 sg22
-I1
+I3
 sg23
 S'Helene Fraser'
-p467
-sa(dp468
+p649
+sa(dp650
 g2
-I107
+I110
 sg3
 g50
 sg5
 I46
 sg6
 Vhttps://abs.twimg.com/sticky/default_profile_images/default_profile_5_400x400.png
-p469
+p651
 sg8
 I309278471
 sg9
 VHolger Hoos
-p470
+p652
 sg11
 I1
 sg12
 VHolgerHoos
-p471
+p653
 sg14
 g15
 sg16
 VWed Jun 01 20:44:40 +0000 2011
-p472
+p654
 sg18
-I73
+I75
 sg19
 I00
 sg20
@@ -2181,34 +3023,34 @@ sg22
 I2
 sg23
 VHolger Hoos
-p473
-sa(dp474
+p655
+sa(dp656
 g2
 I0
 sg3
 VComputer and Biomedical Engineer \u2013 Assistant Professor
-p475
+p657
 sg5
 I11
 sg6
 Vhttps://pbs.twimg.com/profile_images/492013550840184832/d04DPJnf_400x400.jpeg
-p476
+p658
 sg8
 L2674683576L
 sg9
 VIan Stavness
-p477
+p659
 sg11
 I0
 sg12
 VIanStavness
-p478
+p660
 sg14
 S'http://www.cs.usask.ca/faculty/stavness/'
-p479
+p661
 sg16
 VWed Jul 23 18:16:50 +0000 2014
-p480
+p662
 sg18
 I17
 sg19
@@ -2219,235 +3061,239 @@ sg22
 I2
 sg23
 VIan Stavness
-p481
-sa(dp482
+p663
+sa(dp664
 g2
 I31
 sg3
 VComputing Science Professor
-p483
+p665
 sg5
-I68
+I71
 sg6
 Vhttps://pbs.twimg.com/profile_images/462231253974929408/5cfzjs-q_400x400.jpeg
-p484
+p666
 sg8
 L2464754221L
 sg9
 VIoanis Nikolaidis
-p485
+p667
 sg11
 I4
 sg12
 Vioanis_nik
-p486
+p668
 sg14
 g15
 sg16
 VSat Apr 26 15:01:49 +0000 2014
-p487
+p669
 sg18
-I42
+I43
 sg19
 I00
 sg20
 VEdmonton, Alberta
-p488
+p670
 sg22
 I2
 sg23
 VIoanis Nikolaidis
-p489
-sa(dp490
+p671
+sa(dp672
 g2
-I137
+I798
 sg3
-g50
+VUX Designer for Google. Previously UX for PostRank & TribeHR. Try to have my design fingers in many pies\u2026when not cheering on the Arsenal or riding a Triumph.
+p673
 sg5
-I19
+I426
 sg6
-Vhttps://pbs.twimg.com/profile_images/468094195249332226/XjObzEHB_400x400.jpeg
-p491
+Vhttps://pbs.twimg.com/profile_images/3105358251/5380d9e21d95be1b2437aef7435a3f60_400x400.jpeg
+p674
 sg8
-I1007428388
+I17900865
 sg9
 VJames Stewart
-p492
+p675
 sg11
-I0
+I27
 sg12
-VChrekols
-p493
+VJamesStewartUXD
+p676
 sg14
-g15
+S'http://www.stewartuxd.com/'
+p677
 sg16
-VWed Dec 12 22:14:43 +0000 2012
-p494
+VFri Dec 05 16:26:39 +0000 2008
+p678
 sg18
-I10
+I332
 sg19
 I00
 sg20
-VCalgary, AB
-p495
+VSF/Bay Area, CA
+p679
 sg22
 I2
 sg23
 VJames Stewart
-p496
-sa(dp497
+p680
+sa(dp681
 g2
-I3143
+I3207
 sg3
-VLead Data Scientist @RaytheonCyber.  All my #cybercrime opinion are belong to me.
-p498
+VFilm Director, Storyteller, 3D nerd, Activist. http://t.co/Dw3TZRfITP #1 on iTunes
+p682
 sg5
-I2290
+I19058
 sg6
-Vhttps://pbs.twimg.com/profile_images/476672215413321729/smO2WinI_400x400.jpeg
-p499
+Vhttps://pbs.twimg.com/profile_images/472102005096194051/0r6XsAZ3_400x400.png
+p683
 sg8
-I79747155
+I126742472
 sg9
 VJames Stewart
-p500
+p684
 sg11
-I2690
+I75
 sg12
-Vcrimeprophet
-p501
+Vjamesstewart3D
+p685
 sg14
-g15
+S'http://www.genevafilmco.com'
+p686
 sg16
-VSun Oct 04 14:55:53 +0000 2009
-p502
+VFri Mar 26 21:16:06 +0000 2010
+p687
 sg18
-I2345
+I107475
 sg19
 I00
 sg20
-VSaint John, NB
-p503
+VToronto, Canada and Elsewhere
+p688
 sg22
 I2
 sg23
 VJames Stewart
-p504
-sa(dp505
+p689
+sa(dp690
 g2
-I19
+I2184
 sg3
-Vaward winning producer,composer,  and all round deadly mixer. contact me for more details!
-p506
+VJournalism Lecturer
+p691
 sg5
-I5
+I336
 sg6
-Vhttps://pbs.twimg.com/profile_images/1173267595/DSC_3537-Editcrop_400x400.jpg
-p507
+Vhttps://pbs.twimg.com/profile_images/481432048024813570/ExVC_ZYk_400x400.jpeg
+p692
 sg8
-I45637951
+I34229972
 sg9
-Vjames stewart
-p508
+VJames Stewart
+p693
 sg11
-I0
+I261
 sg12
-Vboomixer
-p509
+Vjamestewart
+p694
 sg14
-g15
+S'http://www.cardiff.ac.uk/jomec/contactsandpeople/profiles/stewart-james.html'
+p695
 sg16
-VMon Jun 08 18:51:31 +0000 2009
-p510
+VWed Apr 22 09:30:22 +0000 2009
+p696
 sg18
-I14
+I501
 sg19
 I00
 sg20
-Vbritish columbia
-p511
+VCardiff
+p697
 sg22
 I2
 sg23
 VJames Stewart
-p512
-sa(dp513
+p698
+sa(dp699
 g2
 I173
 sg3
 VWhen i feel down I stop....and just be AWESOME instead
-p514
+p700
 sg5
 I125
 sg6
 Vhttps://pbs.twimg.com/profile_images/2556996697/vekxa21a973i32fdo3l7_400x400.jpeg
-p515
+p701
 sg8
 I787250155
 sg9
 VJames Stewart
-p516
+p702
 sg11
 I7
 sg12
 Vjfstewart66
-p517
+p703
 sg14
 g15
 sg16
 VTue Aug 28 15:27:51 +0000 2012
-p518
+p704
 sg18
 I47
 sg19
 I00
 sg20
 VOttawa
-p519
+p705
 sg22
 I2
 sg23
 VJames Stewart
-p520
-sa(dp521
+p706
+sa(dp707
 g2
-I3
+I5160
 sg3
-VLove gas powered models car/plans. Dedicated dad. Bored accountant
-p522
+g50
 sg5
-I8
+I177
 sg6
-Vhttps://pbs.twimg.com/profile_images/452885699646083072/gRF98jdf_400x400.jpeg
-p523
+Vhttps://pbs.twimg.com/profile_images/443203163039219714/M7VS95SN_400x400.jpeg
+p708
 sg8
-L2430877356L
+I21447925
 sg9
 VJames Stewart
-p524
+p709
 sg11
-I1
+I21
 sg12
-VJamesEStew
-p525
+Vjs7
+p710
 sg14
-g15
+S'http://www.js7.com'
+p711
 sg16
-VSun Apr 06 19:02:45 +0000 2014
-p526
+VFri Feb 20 23:53:37 +0000 2009
+p712
 sg18
-I0
+I275249
 sg19
 I00
 sg20
-VSpruce Grove
-p527
+VPlanet Seven
+p713
 sg22
 I2
 sg23
 VJames Stewart
-p528
-sa(dp529
+p714
+sa(dp715
 g2
 I1
 sg3
@@ -2456,22 +3302,22 @@ sg5
 I173
 sg6
 Vhttps://abs.twimg.com/sticky/default_profile_images/default_profile_2_400x400.png
-p530
+p716
 sg8
 L3031341273L
 sg9
 VJames Stewart
-p531
+p717
 sg11
 I4
 sg12
 Vstewartj2305
-p532
+p718
 sg14
 g15
 sg16
 VWed Feb 11 21:49:30 +0000 2015
-p533
+p719
 sg18
 I11
 sg19
@@ -2482,225 +3328,447 @@ sg22
 I2
 sg23
 VJames Stewart
-p534
-sa(dp535
+p720
+sa(dp721
 g2
-I5152
+I3193
 sg3
-g50
+VLead Data Scientist @RaytheonCyber.  All my #cybercrime opinion are belong to me.
+p722
 sg5
-I177
+I2321
 sg6
-Vhttps://pbs.twimg.com/profile_images/443203163039219714/M7VS95SN_400x400.jpeg
-p536
+Vhttps://pbs.twimg.com/profile_images/476672215413321729/smO2WinI_400x400.jpeg
+p723
 sg8
-I21447925
+I79747155
 sg9
 VJames Stewart
-p537
+p724
 sg11
-I20
+I2749
 sg12
-Vjs7
-p538
+Vcrimeprophet
+p725
 sg14
-S'http://www.js7.com'
-p539
+g15
 sg16
-VFri Feb 20 23:53:37 +0000 2009
-p540
+VSun Oct 04 14:55:53 +0000 2009
+p726
 sg18
-I274324
+I2374
 sg19
 I00
 sg20
-VPlanet Seven
-p541
+VSaint John, NB
+p727
 sg22
 I2
 sg23
 VJames Stewart
-p542
-sa(dp543
+p728
+sa(dp729
 g2
-I1989
+I3
+sg3
+VLove gas powered models car/plans. Dedicated dad. Bored accountant
+p730
+sg5
+I8
+sg6
+Vhttps://pbs.twimg.com/profile_images/452885699646083072/gRF98jdf_400x400.jpeg
+p731
+sg8
+L2430877356L
+sg9
+VJames Stewart
+p732
+sg11
+I1
+sg12
+VJamesEStew
+p733
+sg14
+g15
+sg16
+VSun Apr 06 19:02:45 +0000 2014
+p734
+sg18
+I0
+sg19
+I00
+sg20
+VSpruce Grove
+p735
+sg22
+I2
+sg23
+VJames Stewart
+p736
+sa(dp737
+g2
+I1993
 sg3
 Vinnovation internet crowd digital mobile social research policy data inclusion games work care culture place media Edinburgh Sevilla family bike tango bass
-p544
+p738
 sg5
 I2001
 sg6
 Vhttps://pbs.twimg.com/profile_images/19913042/jamesweemee_400x400.jpg
-p545
+p739
 sg8
 I2810231
 sg9
 VJames Stewart
-p546
+p740
 sg11
-I587
+I592
 sg12
 Vjamesks
-p547
+p741
 sg14
 S'http://www.linkedin.com/in/jamesks'
-p548
+p742
 sg16
 VThu Mar 29 08:26:49 +0000 2007
-p549
+p743
 sg18
-I772
+I775
 sg19
 I00
 sg20
 VEdinburgh
-p550
+p744
 sg22
 I2
 sg23
 VJames Stewart
-p551
-sa(dp552
+p745
+sa(dp746
 g2
-I3204
+I137
 sg3
-VFilm Director, Storyteller, 3D nerd, Activist. http://t.co/Dw3TZRfITP #1 on iTunes
-p553
+g50
 sg5
-I18972
+I19
 sg6
-Vhttps://pbs.twimg.com/profile_images/472102005096194051/0r6XsAZ3_400x400.png
-p554
+Vhttps://pbs.twimg.com/profile_images/468094195249332226/XjObzEHB_400x400.jpeg
+p747
 sg8
-I126742472
+I1007428388
 sg9
 VJames Stewart
-p555
+p748
 sg11
-I75
+I0
 sg12
-Vjamesstewart3D
-p556
+VChrekols
+p749
 sg14
-S'http://www.genevafilmco.com'
-p557
+g15
 sg16
-VFri Mar 26 21:16:06 +0000 2010
-p558
+VWed Dec 12 22:14:43 +0000 2012
+p750
 sg18
-I107572
+I10
 sg19
 I00
 sg20
-VToronto, Canada and Elsewhere
-p559
+VCalgary, AB
+p751
 sg22
 I2
 sg23
 VJames Stewart
-p560
-sa(dp561
+p752
+sa(dp753
 g2
 I189
 sg3
 Videas and emotions within constraints
-p562
+p754
 sg5
-I410
+I411
 sg6
 Vhttps://pbs.twimg.com/profile_images/74982528/jcsped_Affect_400x400.jpg
-p563
+p755
 sg8
 I19956017
 sg9
 VJason Camlot
-p564
+p756
 sg11
-I17
+I18
 sg12
 Vjcsped
-p565
+p757
 sg14
 S'http://www.jasoncamlot.com'
-p566
+p758
 sg16
 VTue Feb 03 05:22:28 +0000 2009
-p567
+p759
 sg18
 I375
 sg19
 I00
 sg20
 VMontreal
-p568
+p760
+sg22
+I3
+sg23
+S'Jason Camlot'
+p761
+sa(dp762
+g2
+I124
+sg3
+VLooking For Genuine Guidance To Help You Build A Successful Online Business? Visit http://t.co/ujaJRd90 And Learn Everything You Need To Know - For Free!
+p763
+sg5
+I10800
+sg6
+Vhttps://pbs.twimg.com/profile_images/1103474215/My_Profile_Pic__warrior__400x400.jpg
+p764
+sg8
+I83841493
+sg9
+VJason Lewis
+p765
+sg11
+I0
+sg12
+Vjasonelewis
+p766
+sg14
+S'http://www.JasonLewis-Online.com'
+p767
+sg16
+VTue Oct 20 13:16:35 +0000 2009
+p768
+sg18
+I8719
+sg19
+I00
+sg20
+VNew England, USA
+p769
 sg22
 I2
 sg23
-VJason Camlot
-p569
-sa(dp570
+VJason Lewis
+p770
+sa(dp771
 g2
 I365
 sg3
 VA Newfoundlander completing a M.Sc in biology at the University of Windsor
-p571
+p772
 sg5
 I1048
 sg6
 Vhttps://pbs.twimg.com/profile_images/378800000658205635/5f02a445e69ea5c74b1a536004d2a75e_400x400.jpeg
-p572
+p773
 sg8
 I158919718
 sg9
 VJason Lewis
-p573
+p774
 sg11
 I221
 sg12
 Vjasonlewis04
-p574
+p775
 sg14
 g15
 sg16
 VThu Jun 24 00:41:28 +0000 2010
-p575
+p776
 sg18
 I80
 sg19
 I00
 sg20
 VWindsor, Ontario
-p576
+p777
 sg22
 I2
 sg23
 VJason Lewis
-p577
-sa(dp578
+p778
+sa(dp779
+g2
+I1
+sg3
+g50
+sg5
+I204
+sg6
+Vhttps://abs.twimg.com/sticky/default_profile_images/default_profile_0_400x400.png
+p780
+sg8
+I1862816312
+sg9
+VJason Lewis
+p781
+sg11
+I2
+sg12
+VJason_Lfc21
+p782
+sg14
+g15
+sg16
+VSat Sep 14 05:55:47 +0000 2013
+p783
+sg18
+I6
+sg19
+I00
+sg20
+g50
+sg22
+I2
+sg23
+VJason Lewis
+p784
+sa(dp785
 g2
 I0
 sg3
 g50
 sg5
-I328
+I78
+sg6
+Vhttps://pbs.twimg.com/profile_images/1556649909/image_400x400.jpg
+p786
+sg8
+I363696049
+sg9
+VJason Lewis
+p787
+sg11
+I0
+sg12
+Vjaysablueboy
+p788
+sg14
+g15
+sg16
+VSun Aug 28 14:53:35 +0000 2011
+p789
+sg18
+I5
+sg19
+I00
+sg20
+g50
+sg22
+I2
+sg23
+VJason Lewis
+p790
+sa(dp791
+g2
+I176
+sg3
+g50
+sg5
+I398
+sg6
+Vhttps://pbs.twimg.com/profile_images/2156670967/image_400x400.jpg
+p792
+sg8
+I197597985
+sg9
+VJason Lewis
+p793
+sg11
+I2
+sg12
+VKrowsihkid
+p794
+sg14
+g15
+sg16
+VFri Oct 01 23:03:34 +0000 2010
+p795
+sg18
+I144
+sg19
+I00
+sg20
+g50
+sg22
+I2
+sg23
+VJason Lewis
+p796
+sa(dp797
+g2
+I396
+sg3
+VText-obsessed new media artist and researcher.
+p798
+sg5
+I30
+sg6
+Vhttps://pbs.twimg.com/profile_images/29250782/fez_400x400.jpg
+p799
+sg8
+I5966462
+sg9
+VJason Lewis
+p800
+sg11
+I54
+sg12
+Vjaspernotwell
+p801
+sg14
+S'http://www.obxlabs.net'
+p802
+sg16
+VFri May 11 16:14:18 +0000 2007
+p803
+sg18
+I51
+sg19
+I01
+sg20
+V45.488358, -73.570343
+p804
+sg22
+I2
+sg23
+VJason Lewis
+p805
+sa(dp806
+g2
+I0
+sg3
+g50
+sg5
+I329
 sg6
 Vhttps://abs.twimg.com/sticky/default_profile_images/default_profile_1_400x400.png
-p579
+p807
 sg8
 I26247425
 sg9
 VJason Lewis
-p580
+p808
 sg11
 I2
 sg12
 Vjasonlewis_nf
-p581
+p809
 sg14
 g15
 sg16
 VTue Mar 24 14:33:23 +0000 2009
-p582
+p810
 sg18
 I33
 sg19
@@ -2711,86 +3779,122 @@ sg22
 I2
 sg23
 VJason Lewis
-p583
-sa(dp584
+p811
+sa(dp812
 g2
-I396
+I717
 sg3
-VText-obsessed new media artist and researcher.
-p585
+Vdiscovered the world of ultras at 40,im now hooked!!
+p813
 sg5
-I30
+I354
 sg6
-Vhttps://pbs.twimg.com/profile_images/29250782/fez_400x400.jpg
-p586
+Vhttps://pbs.twimg.com/profile_images/526765418439249920/nvWwOMgI_400x400.jpeg
+p814
 sg8
-I5966462
+I396775210
 sg9
-VJason Lewis
-p587
+VJason lewis
+p815
 sg11
-I54
+I23
 sg12
-Vjaspernotwell
-p588
+VJasonlewis40
+p816
 sg14
-S'http://www.obxlabs.net'
-p589
+g15
 sg16
-VFri May 11 16:14:18 +0000 2007
-p590
+VSun Oct 23 19:09:37 +0000 2011
+p817
 sg18
-I51
+I224
 sg19
-I01
+I00
 sg20
-V45.488358, -73.570343
-p591
+g50
 sg22
 I2
 sg23
 VJason Lewis
-p592
-sa(dp593
+p818
+sa(dp819
 g2
-I25175
+I25304
 sg3
 VI'm autistic.  Director of @ReLabRye & @edgelab & PI of @adaptint (@gchallenges) project @ryersonu. jnolan@ryerson.ca
-p594
+p820
 sg5
-I137
+I146
 sg6
 Vhttps://pbs.twimg.com/profile_images/581875402064310272/RUlIgXLN_400x400.jpg
-p595
+p821
 sg8
 I9529232
 sg9
 VJason Nolan
-p596
+p822
 sg11
-I457
+I491
 sg12
 Vjasonnolan
-p597
+p823
 sg14
-S'http://edgelab.ryerson.ca'
-p598
+S'http://relab.ryerson.ca'
+p824
 sg16
 VThu Oct 18 20:38:08 +0000 2007
-p599
+p825
 sg18
-I137
+I147
 sg19
 I00
 sg20
 VCanada
-p600
+p826
 sg22
-I2
+I3
 sg23
-VJason Nolan
-p601
-sa(dp602
+S'Jason Nolan'
+p827
+sa(dp828
+g2
+I1573
+sg3
+VAssuming the identity of Sheep Professor
+p829
+sg5
+I237
+sg6
+Vhttps://pbs.twimg.com/profile_images/1433628087/ludicjunk_400x400.jpg
+p830
+sg8
+I194350424
+sg9
+VJen Jenson
+p831
+sg11
+I587
+sg12
+VLudic_Junk
+p832
+sg14
+g15
+sg16
+VThu Sep 23 22:42:08 +0000 2010
+p833
+sg18
+I445
+sg19
+I00
+sg20
+V3.1600S 60.0300W
+p834
+sg22
+I3
+sg23
+S'Jennifer Jenson'
+p835
+sa(dp836
 g2
 I0
 sg3
@@ -2799,24 +3903,24 @@ sg5
 I1
 sg6
 Vhttps://abs.twimg.com/sticky/default_profile_images/default_profile_0_400x400.png
-p603
+p837
 sg8
 I182405783
 sg9
 VJeremy Birnholtz
-p604
+p838
 sg11
 I0
 sg12
 Vjbirnholtz2450
-p605
+p839
 sg14
 g15
 sg16
 VTue Aug 24 14:37:40 +0000 2010
-p606
+p840
 sg18
-I30
+I29
 sg19
 I00
 sg20
@@ -2825,84 +3929,123 @@ sg22
 I2
 sg23
 VJeremy Birnholtz
-p607
-sa(dp608
+p841
+sa(dp842
 g2
 I23
 sg3
 VProfessor of Electrical and Computer Engineering @McGillU, consumer rights advocate, and crusader for academic integrity.
-p609
+p843
 sg5
 I5
 sg6
 Vhttps://pbs.twimg.com/profile_images/1893508312/jeremy06_400x400.jpg
-p610
+p844
 sg8
 I522998256
 sg9
 VJeremy Cooperstock
-p611
+p845
 sg11
 I1
 sg12
 Vjcooperstock
-p612
+p846
 sg14
 S'http://www.cim.mcgill.ca/~jer'
-p613
+p847
 sg16
 VTue Mar 13 07:44:36 +0000 2012
-p614
+p848
 sg18
-I47
+I48
 sg19
 I00
 sg20
 VMontreal, QC
-p615
+p849
 sg22
 I2
 sg23
 VJeremy Cooperstock
-p616
-sa(dp617
+p850
+sa(dp851
 g2
-I402
+I21716
+sg3
+Vburidan is jeremy hunsinger and he is currently being grumpy about hacklabs/hackerspaces and other topics that he is researching and writing.
+p852
+sg5
+I827
+sg6
+Vhttps://pbs.twimg.com/profile_images/867021431/4255025943_7056103a44_b_400x400.jpg
+p853
+sg8
+I14396027
+sg9
+Vburidan
+p854
+sg11
+I38
+sg12
+Vburidan
+p855
+sg14
+S'http://www.tmttlt.com'
+p856
+sg16
+VTue Apr 15 12:47:22 +0000 2008
+p857
+sg18
+I865
+sg19
+I00
+sg20
+VKitchener/Waterloo mostly
+p858
+sg22
+I3
+sg23
+S'Jeremy Hunsinger'
+p859
+sa(dp860
+g2
+I404
 sg3
 g50
 sg5
 I96
 sg6
 Vhttps://pbs.twimg.com/profile_images/920256709/Kong_Fu_Panda_400x400.PNG
-p618
+p861
 sg8
 I146562720
 sg9
 VJian Pei
-p619
+p862
 sg11
 I3
 sg12
 Vjian_pei
-p620
+p863
 sg14
 S'http://www.cs.sfu.ca/~jpei/'
-p621
+p864
 sg16
 VFri May 21 19:15:13 +0000 2010
-p622
+p865
 sg18
-I427
+I429
 sg19
 I00
 sg20
 g50
 sg22
-I2
+I3
 sg23
-VJian Pei
-p623
-sa(dp624
+S'Jian Pei'
+p866
+sa(dp867
 g2
 I1
 sg3
@@ -2911,22 +4054,22 @@ sg5
 I2
 sg6
 Vhttps://abs.twimg.com/sticky/default_profile_images/default_profile_1_400x400.png
-p625
+p868
 sg8
 I106601223
 sg9
 VJill Didur
-p626
+p869
 sg11
 I0
 sg12
 Vjdidur
-p627
+p870
 sg14
 g15
 sg16
 VWed Jan 20 02:32:59 +0000 2010
-p628
+p871
 sg18
 I4
 sg19
@@ -2937,47 +4080,47 @@ sg22
 I2
 sg23
 VJill Didur
-p629
-sa(dp630
+p872
+sa(dp873
 g2
-I35
+I38
 sg3
 VJoanna is the founder and research director of XS Labs, a design research studio that innovates in the area of electronic textiles and responsive garments.
-p631
+p874
 sg5
-I39
+I42
 sg6
 Vhttps://pbs.twimg.com/profile_images/1841503301/joey_5538_sm_400x400.jpg
-p632
+p875
 sg8
 I115161526
 sg9
 VJoanna Berzowska
-p633
+p876
 sg11
-I15
+I16
 sg12
 Vberzowska
-p634
+p877
 sg14
 S'http://www.berzowska.com'
-p635
+p878
 sg16
 VWed Feb 17 20:22:30 +0000 2010
-p636
+p879
 sg18
-I133
+I142
 sg19
 I00
 sg20
 VMontreal
-p637
+p880
 sg22
 I2
 sg23
 VJoanna Berzowska
-p638
-sa(dp639
+p881
+sa(dp882
 g2
 I0
 sg3
@@ -2986,22 +4129,22 @@ sg5
 I1
 sg6
 Vhttps://abs.twimg.com/sticky/default_profile_images/default_profile_3_400x400.png
-p640
+p883
 sg8
 I34821839
 sg9
 VJoanna McGrenere
-p641
+p884
 sg11
 I0
 sg12
 Vjmcgrenere
-p642
+p885
 sg14
 g15
 sg16
 VFri Apr 24 02:45:17 +0000 2009
-p643
+p886
 sg18
 I15
 sg19
@@ -3012,267 +4155,112 @@ sg22
 I2
 sg23
 VJoanna Mcgrenere
-p644
-sa(dp645
+p887
+sa(dp888
 g2
 I149
 sg3
 VAssistant Professor of Industrial Relations and Human Resources.  Interested in video game development, knowledge workers, pension governance and coworking!
-p646
+p889
 sg5
 I139
 sg6
 Vhttps://pbs.twimg.com/profile_images/604335793163776000/56nDDQTW_400x400.png
-p647
+p890
 sg8
 I259513786
 sg9
 VJohanna Weststar
-p648
+p891
 sg11
 I4
 sg12
 Vjweststar
-p649
+p892
 sg14
 S'http://bit.ly/weststar'
-p650
+p893
 sg16
 VWed Mar 02 01:59:41 +0000 2011
-p651
+p894
 sg18
-I86
+I85
 sg19
 I00
 sg20
 VLondon, ON
-p652
+p895
 sg22
-I2
+I3
 sg23
-VJohanna Weststar
-p653
-sa(dp654
+S'Johanna Weststar'
+p896
+sa(dp897
 g2
-I286
-sg3
-VPhD Student in HCDE @ University of Washington. Collaborative visual analytics. Crisis workers. Emergent social collaboration.
-p655
-sg5
-I708
-sg6
-Vhttps://pbs.twimg.com/profile_images/577363939362639873/KG84dAbs_400x400.jpeg
-p656
-sg8
-I90497936
-sg9
-VJohn Robinson
-p657
-sg11
-I69
-sg12
-Vgeosoco
-p658
-sg14
-g15
-sg16
-VMon Nov 16 22:14:30 +0000 2009
-p659
-sg18
-I140
-sg19
-I00
-sg20
-VSeattle, WA
-p660
-sg22
-I2
-sg23
-VJohn Robinson
-p661
-sa(dp662
-g2
-I1996
+I1999
 sg3
 VSmokey Bear at @theTunnelBear. Marketing, privacy and analytics Nerd. I also eat and cook delicious food.
-p663
+p898
 sg5
 I172
 sg6
 Vhttps://pbs.twimg.com/profile_images/378800000156469616/c2466ea5f999b72697e549590e54f497_400x400.png
-p664
+p899
 sg8
 I17301403
 sg9
 VJohn Robinson
-p665
+p900
 sg11
-I324
+I323
 sg12
 Vjohnsrobinson
-p666
+p901
 sg14
 S'http://www.johnsrobinson.com'
-p667
+p902
 sg16
 VTue Nov 11 02:53:13 +0000 2008
-p668
+p903
 sg18
-I324
+I321
 sg19
 I00
 sg20
 VToronto, ON
-p669
+p904
 sg22
 I2
 sg23
 VJohn Robinson
-p670
-sa(dp671
+p905
+sa(dp906
 g2
-I108
+I1743
 sg3
-VJust a regular working dad!
-p672
+g50
 sg5
-I922
+I434
 sg6
-Vhttps://pbs.twimg.com/profile_images/378800000685204448/c39cabf2718526516b5f8272843c609e_400x400.jpeg
-p673
+Vhttps://pbs.twimg.com/profile_images/552224710227152896/CCY0dFjg_400x400.jpeg
+p907
 sg8
-I351370082
+I300772706
 sg9
-Vjohn robinson
-p674
+VJohn Robinson
+p908
 sg11
-I804
+I465
 sg12
-Vjohn_dealmaker
-p675
+Vlatchyfowler
+p909
 sg14
 g15
 sg16
-VTue Aug 09 04:38:18 +0000 2011
-p676
+VWed May 18 10:16:41 +0000 2011
+p910
 sg18
-I57
-sg19
-I01
-sg20
-VFarmington Missouri
-p677
-sg22
-I2
-sg23
-VJohn Robinson
-p678
-sa(dp679
-g2
-I28435
-sg3
-VFormer editor of the News & Record. Now teaching at UNC. He's strolled all alone through a fallout zone and come out with his soul untouched.
-p680
-sg5
-I1527
-sg6
-Vhttps://pbs.twimg.com/profile_images/488266455821979648/lRbKNaUj_400x400.jpeg
-p681
-sg8
-I11687752
-sg9
-VJohn Robinson
-p682
-sg11
-I3613
-sg12
-Vjohnrobinson
-p683
-sg14
-S'http://johnlrobinson.com'
-p684
-sg16
-VMon Dec 31 13:29:59 +0000 2007
-p685
-sg18
-I4760
-sg19
-I00
-sg20
-VGreensboro, NC
-p686
-sg22
-I2
-sg23
-VJohn Robinson
-p687
-sa(dp688
-g2
-I46608
-sg3
-VHigh School Principal, Long-Time HS English Teacher, Avid Reader, Public School Advocate, Blogger. Views expressed here are my own.
-p689
-sg5
-I5042
-sg6
-Vhttps://pbs.twimg.com/profile_images/530792816746586113/sSyx97fh_400x400.jpeg
-p690
-sg8
-I14147479
-sg9
-VJohn Robinson
-p691
-sg11
-I83
-sg12
-V21stprincipal
-p692
-sg14
-S'http://the21stcenturyprincipal.blogspot.com/'
-p693
-sg16
-VFri Mar 14 15:55:16 +0000 2008
-p694
-sg18
-I17144
-sg19
-I00
-sg20
-VNorth Carolina
-p695
-sg22
-I2
-sg23
-VJohn Robinson
-p696
-sa(dp697
-g2
-I3893
-sg3
-VMSU Bears Student. I talk about sports, comics and other things you don't care about. I work for the Standard but this isn't a reflection of what they think
-p698
-sg5
-I1090
-sg6
-Vhttps://pbs.twimg.com/profile_images/1568245965/297412_2245965262944_1062518211_32247681_180538893_n_400x400.jpg
-p699
-sg8
-I383330020
-sg9
-VJohn Robinson
-p700
-sg11
-I4322
-sg12
-VSaxmanJohn
-p701
-sg14
-g15
-sg16
-VSat Oct 01 17:47:17 +0000 2011
-p702
-sg18
-I234
+I79
 sg19
 I00
 sg20
@@ -3281,314 +4269,883 @@ sg22
 I2
 sg23
 VJohn Robinson
-p703
-sa(dp704
+p911
+sa(dp912
 g2
-I65
+I286
 sg3
-VMy wife and I own 3 retail operations. We promote & sell the use of van Gogh Fossil paint the best paint in the world and the only Canadian made chalk paint.
-p705
+VPhD Student in HCDE @ University of Washington. Collaborative visual analytics. Crisis workers. Emergent social collaboration.
+p913
 sg5
-I254
+I711
 sg6
-Vhttps://pbs.twimg.com/profile_images/477512959619387392/Gt7iXVxc_400x400.jpeg
-p706
+Vhttps://pbs.twimg.com/profile_images/577363939362639873/KG84dAbs_400x400.jpeg
+p914
 sg8
-I48790606
+I90497936
 sg9
 VJohn Robinson
-p707
+p915
 sg11
-I0
+I69
 sg12
-VJohnRobinson777
-p708
+Vgeosoco
+p916
 sg14
-S'http://www.johnrobinson.ca'
-p709
+g15
 sg16
-VFri Jun 19 18:48:00 +0000 2009
-p710
+VMon Nov 16 22:14:30 +0000 2009
+p917
 sg18
-I151
+I137
 sg19
 I00
 sg20
-VSparta, Ontario. Canada
-p711
+VSeattle, WA
+p918
 sg22
 I2
 sg23
 VJohn Robinson
-p712
-sa(dp713
+p919
+sa(dp920
 g2
-I487
+I290
+sg3
+VQ1 specializes in Software Development, Business Consulting and Technology Integration.
+p921
+sg5
+I921
+sg6
+Vhttps://abs.twimg.com/sticky/default_profile_images/default_profile_4_400x400.png
+p922
+sg8
+I809475776
+sg9
+VJohn Robinson
+p923
+sg11
+I0
+sg12
+VJohnRob71312425
+p924
+sg14
+S'http://www.q1tech.com/'
+p925
+sg16
+VFri Sep 07 19:42:23 +0000 2012
+p926
+sg18
+I63
+sg19
+I00
+sg20
+VChicagoland
+p927
+sg22
+I2
+sg23
+VJohn Robinson
+p928
+sa(dp929
+g2
+I3375
+sg3
+V#WeGoAgain
+p930
+sg5
+I671
+sg6
+Vhttps://pbs.twimg.com/profile_images/630786902338215938/EeyuuRMl_400x400.jpg
+p931
+sg8
+I305081700
+sg9
+VJohn Robinson
+p932
+sg11
+I301
+sg12
+Vjohnrobinsonlfc
+p933
+sg14
+g15
+sg16
+VWed May 25 16:17:58 +0000 2011
+p934
+sg18
+I252
+sg19
+I00
+sg20
+VWirral
+p935
+sg22
+I2
+sg23
+VJohn Robinson
+p936
+sa(dp937
+g2
+I28804
+sg3
+VFormer editor of the News & Record. Now teaching at UNC. He's strolled all alone through a fallout zone and come out with his soul untouched.
+p938
+sg5
+I1537
+sg6
+Vhttps://pbs.twimg.com/profile_images/488266455821979648/lRbKNaUj_400x400.jpeg
+p939
+sg8
+I11687752
+sg9
+VJohn Robinson
+p940
+sg11
+I3768
+sg12
+Vjohnrobinson
+p941
+sg14
+S'http://johnlrobinson.com'
+p942
+sg16
+VMon Dec 31 13:29:59 +0000 2007
+p943
+sg18
+I4785
+sg19
+I00
+sg20
+VGreensboro, NC
+p944
+sg22
+I2
+sg23
+VJohn Robinson
+p945
+sa(dp946
+g2
+I65
+sg3
+VMy wife and I own 3 retail operations. We promote & sell the use of van Gogh Fossil paint the best paint in the world and the only Canadian made chalk paint.
+p947
+sg5
+I254
+sg6
+Vhttps://pbs.twimg.com/profile_images/477512959619387392/Gt7iXVxc_400x400.jpeg
+p948
+sg8
+I48790606
+sg9
+VJohn Robinson
+p949
+sg11
+I0
+sg12
+VJohnRobinson777
+p950
+sg14
+S'http://www.johnrobinson.ca'
+p951
+sg16
+VFri Jun 19 18:48:00 +0000 2009
+p952
+sg18
+I150
+sg19
+I00
+sg20
+VSparta, Ontario. Canada
+p953
+sg22
+I2
+sg23
+VJohn Robinson
+p954
+sa(dp955
+g2
+I3912
+sg3
+VMSU Bears Student. I talk about sports, comics and other things you don't care about. I work for the Standard but this isn't a reflection of what they think
+p956
+sg5
+I1104
+sg6
+Vhttps://pbs.twimg.com/profile_images/1568245965/297412_2245965262944_1062518211_32247681_180538893_n_400x400.jpg
+p957
+sg8
+I383330020
+sg9
+VJohn Robinson
+p958
+sg11
+I4386
+sg12
+VSaxmanJohn
+p959
+sg14
+g15
+sg16
+VSat Oct 01 17:47:17 +0000 2011
+p960
+sg18
+I242
+sg19
+I00
+sg20
+g50
+sg22
+I2
+sg23
+VJohn Robinson
+p961
+sa(dp962
+g2
+I46779
+sg3
+VHigh School Principal, Long-Time HS English Teacher, Avid Reader, Public School Advocate, Blogger. Views expressed here are my own.
+p963
+sg5
+I5040
+sg6
+Vhttps://pbs.twimg.com/profile_images/530792816746586113/sSyx97fh_400x400.jpeg
+p964
+sg8
+I14147479
+sg9
+VJohn Robinson
+p965
+sg11
+I85
+sg12
+V21stprincipal
+p966
+sg14
+S'http://the21stcenturyprincipal.blogspot.com/'
+p967
+sg16
+VFri Mar 14 15:55:16 +0000 2008
+p968
+sg18
+I17209
+sg19
+I00
+sg20
+VNorth Carolina
+p969
+sg22
+I2
+sg23
+VJohn Robinson
+p970
+sa(dp971
+g2
+I112
+sg3
+VJust a regular working dad!
+p972
+sg5
+I956
+sg6
+Vhttps://pbs.twimg.com/profile_images/378800000685204448/c39cabf2718526516b5f8272843c609e_400x400.jpeg
+p973
+sg8
+I351370082
+sg9
+Vjohn robinson
+p974
+sg11
+I850
+sg12
+Vjohn_dealmaker
+p975
+sg14
+g15
+sg16
+VTue Aug 09 04:38:18 +0000 2011
+p976
+sg18
+I60
+sg19
+I01
+sg20
+VFarmington Missouri
+p977
+sg22
+I2
+sg23
+VJohn Robinson
+p978
+sa(dp979
+g2
+I544
+sg3
+VDirector, Health Design Lab; Associate Professor, Communication Design, Emily Carr University of Art and Design
+p980
+sg5
+I198
+sg6
+Vhttps://pbs.twimg.com/profile_images/1238959683/jonathan_BW_400x400.jpg
+p981
+sg8
+I20393692
+sg9
+VJonathan Aitken
+p982
+sg11
+I16
+sg12
+Vjonathanaitken
+p983
+sg14
+S'http://www.jonathanaitken.ca'
+p984
+sg16
+VSun Feb 08 21:19:52 +0000 2009
+p985
+sg18
+I277
+sg19
+I00
+sg20
+VVancouver
+p986
+sg22
+I2
+sg23
+VJonathan Aitken
+p987
+sa(dp988
+g2
+I512
 sg3
 VInconclusively undefined, positively chaotic & likely to ramble on. Once a PhD, now Postdoc. Autonomous control, jazz & standup. Herein, my own views.
-p714
+p989
 sg5
-I541
+I561
 sg6
 Vhttps://pbs.twimg.com/profile_images/1674304638/168843_624512107794_222303283_6877261_6873228_n_400x400.jpg
-p715
+p990
 sg8
 I428630206
 sg9
 VJonathan Aitken
-p716
+p991
 sg11
-I72
+I94
 sg12
 Vjon_aitken
-p717
+p992
 sg14
 g15
 sg16
 VMon Dec 05 00:29:02 +0000 2011
-p718
+p993
+sg18
+I179
+sg19
+I00
+sg20
+g50
+sg22
+I2
+sg23
+VJonathan Aitken
+p994
+sa(dp995
+g2
+I1025
+sg3
+Vlululemon, RFID, Soccer Coach, Cancer, Wedgewood Cycling, Run, Bike, Tech, Project Mgt, Stanford, MBA, IT, Oracle, Management, Canadian, American, British
+p996
+sg5
+I342
+sg6
+Vhttps://pbs.twimg.com/profile_images/1408991331/image_400x400.jpg
+p997
+sg8
+I14552080
+sg9
+VJonathan Aitken
+p998
+sg11
+I16
+sg12
+Vjaitken
+p999
+sg14
+g15
+sg16
+VSat Apr 26 21:57:47 +0000 2008
+p1000
 sg18
 I170
 sg19
 I00
 sg20
-g50
-sg22
-I2
-sg23
-VJonathan Aitken
-p719
-sa(dp720
-g2
-I544
-sg3
-VDirector, Health Design Lab; Associate Professor, Communication Design, Emily Carr University of Art and Design
-p721
-sg5
-I197
-sg6
-Vhttps://pbs.twimg.com/profile_images/1238959683/jonathan_BW_400x400.jpg
-p722
-sg8
-I20393692
-sg9
-VJonathan Aitken
-p723
-sg11
-I16
-sg12
-Vjonathanaitken
-p724
-sg14
-S'http://www.jonathanaitken.ca'
-p725
-sg16
-VSun Feb 08 21:19:52 +0000 2009
-p726
-sg18
-I278
-sg19
-I00
-sg20
-VVancouver
-p727
-sg22
-I2
-sg23
-VJonathan Aitken
-p728
-sa(dp729
-g2
-I1025
-sg3
-Vlululemon, RFID, Soccer Coach, Cancer, Wedgewood Cycling, Run, Bike, Tech, Project Mgt, Stanford, MBA, IT, Oracle, Management, Canadian, American, British
-p730
-sg5
-I342
-sg6
-Vhttps://pbs.twimg.com/profile_images/1408991331/image_400x400.jpg
-p731
-sg8
-I14552080
-sg9
-VJonathan Aitken
-p732
-sg11
-I16
-sg12
-Vjaitken
-p733
-sg14
-g15
-sg16
-VSat Apr 26 21:57:47 +0000 2008
-p734
-sg18
-I164
-sg19
-I00
-sg20
 VWest Coast, West Side
-p735
+p1001
 sg22
 I2
 sg23
 VJonathan Aitken
-p736
-sa(dp737
+p1002
+sa(dp1003
 g2
 I6
 sg3
 VDean of Science and Professor (Computing Science), University of Alberta. Personal interests: artificial intelligence, games, polar, antiques, rare books.
-p738
+p1004
 sg5
 I14
 sg6
 Vhttps://pbs.twimg.com/profile_images/3366922386/4b2386bc57e8ee8f6456b5acdb038538_400x400.jpeg
-p739
+p1005
 sg8
 I422315744
 sg9
 VJonathan Schaeffer
-p740
+p1006
 sg11
 I0
 sg12
 V_JSchaeffer
-p741
+p1007
 sg14
 S'http://www.jonathanschaeffer.blogspot.ca'
-p742
+p1008
 sg16
 VSun Nov 27 03:32:34 +0000 2011
-p743
+p1009
 sg18
-I128
+I131
 sg19
 I00
 sg20
 VEdmonton, Alberta, Canada
-p744
+p1010
 sg22
 I2
 sg23
 VJonathan Schaeffer
-p745
-sa(dp746
+p1011
+sa(dp1012
 g2
-I58
+I59
 sg3
 VProfessor and Director Inclusive Design Research Centre, OCAD University
-p747
+p1013
 sg5
 I75
 sg6
 Vhttps://pbs.twimg.com/profile_images/250798845/jutta2_400x400.jpg
-p748
+p1014
 sg8
 I17087663
 sg9
 Vjutta treviranus
-p749
+p1015
 sg11
 I4
 sg12
 Vjuttatrevira
-p750
+p1016
 sg14
 S'http://idrc.ocadu.ca'
-p751
+p1017
 sg16
 VFri Oct 31 16:36:58 +0000 2008
-p752
+p1018
 sg18
-I346
+I349
 sg19
 I00
 sg20
 VToronto, Canada
-p753
+p1019
 sg22
 I2
 sg23
 VJutta Treviranus
-p754
-sa(dp755
+p1020
+sa(dp1021
 g2
-I619
+I10916
+sg3
+VRuler of the world. Admirer of Derren Brown. Eater of butter chicken. (Comes in one 6 ft 1 inch size, no variations)
+p1022
+sg5
+I140
+sg6
+Vhttps://pbs.twimg.com/profile_images/378800000585775632/8203bf7c843711ead1b86dd7af65f23d_400x400.jpeg
+p1023
+sg8
+I158643403
+sg9
+VKaran Singh
+p1024
+sg11
+I565
+sg12
+Vkaransinghmagic
+p1025
+sg14
+S'http://karansinghmagic.blogspot.com/'
+p1026
+sg16
+VWed Jun 23 06:30:21 +0000 2010
+p1027
+sg18
+I858
+sg19
+I00
+sg20
+VLook behind you.
+p1028
+sg22
+I2
+sg23
+VKaran Singh
+p1029
+sa(dp1030
+g2
+I4
+sg3
+g50
+sg5
+I650
+sg6
+Vhttps://abs.twimg.com/sticky/default_profile_images/default_profile_5_400x400.png
+p1031
+sg8
+I1425815809
+sg9
+VKARAN SINGH
+p1032
+sg11
+I5
+sg12
+Vkaransi75564028
+p1033
+sg14
+g15
+sg16
+VMon May 13 16:01:17 +0000 2013
+p1034
+sg18
+I1
+sg19
+I01
+sg20
+VPunjab 
+p1035
+sg22
+I2
+sg23
+VKaran Singh
+p1036
+sa(dp1037
+g2
+I9182
+sg3
+VAustralian artist and illustrator Instagram: http://t.co/0ID9fe0hUd
+p1038
+sg5
+I484
+sg6
+Vhttps://pbs.twimg.com/profile_images/508498887322005504/izNggxHG_400x400.jpeg
+p1039
+sg8
+I26500565
+sg9
+VKaran Singh
+p1040
+sg11
+I729
+sg12
+Vwakeupmrsingh
+p1041
+sg14
+S'http://www.wakeupmrsingh.com'
+p1042
+sg16
+VWed Mar 25 13:51:15 +0000 2009
+p1043
+sg18
+I2077
+sg19
+I00
+sg20
+VTokyo, Japan
+p1044
+sg22
+I2
+sg23
+VKaran Singh
+p1045
+sa(dp1046
+g2
+I624
 sg3
 VAspiring to be Faithful ..... \u0a2e\u0a70\u0a28\u0a48 \u0a2e\u0a17\u0a41 \u0a28 \u0a1a\u0a32\u0a48 \u0a2a\u0a70\u0a25\u0a41\u0965 \u0a2e\u0a70\u0a28\u0a48 \u0a27\u0a30\u0a2e \u0a38\u0a47\u0a24\u0a40 \u0a38\u0a28\u0a2c\u0a70\u0a27\u0a41 || Faithful do not follow status-quo, they always stick to the Just Path.
-p756
+p1047
 sg5
 I44
 sg6
 Vhttps://pbs.twimg.com/profile_images/2151031207/SikhPanth_1__400x400.jpg
-p757
+p1048
 sg8
 I124349298
 sg9
 VDr Singh
-p758
+p1049
 sg11
-I49
+I51
 sg12
 V1Panth
-p759
+p1050
 sg14
 g15
 sg16
 VFri Mar 19 03:27:14 +0000 2010
-p760
+p1051
 sg18
 I90
 sg19
 I00
 sg20
 VGuru Nanak
-p761
+p1052
 sg22
 I1
 sg23
 S'Karan Singh'
-p762
-sa(dp763
+p1053
+sa(dp1054
 g2
-I26
+I0
 sg3
 g50
 sg5
-I259
+I2
 sg6
-Vhttps://pbs.twimg.com/profile_images/576359334738812928/qO6EriAS_400x400.jpeg
-p764
+Vhttps://abs.twimg.com/sticky/default_profile_images/default_profile_3_400x400.png
+p1055
 sg8
-I843027457
+I1083081457
 sg9
-VKaran Singh
-p765
+VKaran singh
+p1056
 sg11
-I4
+I0
 sg12
-Vkaransik
-p766
+VKaranRaja96
+p1057
 sg14
 g15
 sg16
-VMon Sep 24 05:50:06 +0000 2012
-p767
+VSat Jan 12 14:05:48 +0000 2013
+p1058
 sg18
-I19
+I0
 sg19
 I00
 sg20
-VStuden BE
-p768
+g50
 sg22
 I2
 sg23
 VKaran Singh
-p769
-sa(dp770
+p1059
+sa(dp1060
+g2
+I9
+sg3
+g50
+sg5
+I1
+sg6
+Vhttps://abs.twimg.com/sticky/default_profile_images/default_profile_4_400x400.png
+p1061
+sg8
+I92121551
+sg9
+VKaran Singh
+p1062
+sg11
+I0
+sg12
+VMITfinnovation
+p1063
+sg14
+g15
+sg16
+VMon Nov 23 21:44:01 +0000 2009
+p1064
+sg18
+I1
+sg19
+I00
+sg20
+g50
+sg22
+I2
+sg23
+VKaran Singh
+p1065
+sa(dp1066
+g2
+I861
+sg3
+VCo-founder @Ginger_io. @Cal, @MITSloan, 1/2 @HarvardMed. Building digital mental health platform. Lover of burritos (& tacos).
+p1067
+sg5
+I1365
+sg6
+Vhttps://pbs.twimg.com/profile_images/557572106204872705/MgsusJQP_400x400.jpeg
+p1068
+sg8
+I14818867
+sg9
+VKaran Singh
+p1069
+sg11
+I97
+sg12
+Vkvsingh
+p1070
+sg14
+S'http://www.linkedin.com/in/karanvsingh'
+p1071
+sg16
+VSun May 18 07:39:03 +0000 2008
+p1072
+sg18
+I2403
+sg19
+I00
+sg20
+VSan Francisco
+p1073
+sg22
+I2
+sg23
+VKaran Singh
+p1074
+sa(dp1075
+g2
+I20
+sg3
+Vvel its a bit tough 2 define ma self in 140 wrds follw me n let me knw u / u knw me its simple like abc
+p1076
+sg5
+I60
+sg6
+Vhttps://pbs.twimg.com/profile_images/3127887187/ad9bc3a0959a6f6d29925d88d1ebc3fe_400x400.jpeg
+p1077
+sg8
+I62035802
+sg9
+Vkaran singh
+p1078
+sg11
+I4
+sg12
+Vkskaran
+p1079
+sg14
+S'http://twitter.com'
+p1080
+sg16
+VSat Aug 01 13:45:20 +0000 2009
+p1081
+sg18
+I24
+sg19
+I00
+sg20
+Vmumbai : india
+p1082
+sg22
+I2
+sg23
+VKaran Singh
+p1083
+sa(dp1084
+g2
+I1
+sg3
+g50
+sg5
+I2
+sg6
+Vhttps://abs.twimg.com/sticky/default_profile_images/default_profile_2_400x400.png
+p1085
+sg8
+I85851621
+sg9
+Vkaran singh
+p1086
+sg11
+I0
+sg12
+Villusionmagic19
+p1087
+sg14
+g15
+sg16
+VWed Oct 28 16:18:00 +0000 2009
+p1088
+sg18
+I1
+sg19
+I00
+sg20
+g50
+sg22
+I2
+sg23
+VKaran Singh
+p1089
+sa(dp1090
+g2
+I0
+sg3
+g50
+sg5
+I19
+sg6
+Vhttps://pbs.twimg.com/profile_images/1891531280/justin-bieber_400x400.jpg
+p1091
+sg8
+I522349483
+sg9
+Vkaran singh
+p1092
+sg11
+I0
+sg12
+Vkaransi20816476
+p1093
+sg14
+g15
+sg16
+VMon Mar 12 15:39:56 +0000 2012
+p1094
+sg18
+I0
+sg19
+I00
+sg20
+Vindia
+p1095
+sg22
+I2
+sg23
+VKaran Singh
+p1096
+sa(dp1097
 g2
 I13
 sg3
@@ -3597,22 +5154,22 @@ sg5
 I66
 sg6
 Vhttps://pbs.twimg.com/profile_images/497232185/logo_400x400.gif
-p771
+p1098
 sg8
 I86134193
 sg9
 Vkaran singh
-p772
+p1099
 sg11
 I0
 sg12
 Vcompetitionq
-p773
+p1100
 sg14
 g15
 sg16
 VThu Oct 29 18:46:00 +0000 2009
-p774
+p1101
 sg18
 I19
 sg19
@@ -3623,44 +5180,84 @@ sg22
 I2
 sg23
 VKaran Singh
-p775
-sa(dp776
+p1102
+sa(dp1103
 g2
-I0
+I1313
+sg3
+VOxford-LSE Educated | Entrepreneur- Political Strategy Consulting I Innovation Consulting | Educator | Columnist | Influencer | Blogger
+p1104
+sg5
+I236
+sg6
+Vhttps://pbs.twimg.com/profile_images/436069031703891969/tX_-y4Sb_400x400.jpeg
+p1105
+sg8
+I479372154
+sg9
+VKARAN SINGH
+p1106
+sg11
+I16
+sg12
+VKSingh_India
+p1107
+sg14
+S'http://www.nsightconsulting.in/'
+p1108
+sg16
+VTue Jan 31 09:34:33 +0000 2012
+p1109
+sg18
+I959
+sg19
+I00
+sg20
+VIndia
+p1110
+sg22
+I2
+sg23
+VKaran Singh
+p1111
+sa(dp1112
+g2
+I1
 sg3
 g50
 sg5
-I1
+I10
 sg6
-Vhttps://abs.twimg.com/sticky/default_profile_images/default_profile_4_400x400.png
-p777
+Vhttps://pbs.twimg.com/profile_images/1787181486/image_400x400.jpg
+p1113
 sg8
-L2908461504L
+I476773209
 sg9
-VKaron MacLean
-p778
+Vkaran singh
+p1114
 sg11
 I0
 sg12
-Vkaron_twit
-p779
+VKaranMarahar
+p1115
 sg14
 g15
 sg16
-VSun Nov 23 22:14:33 +0000 2014
-p780
+VSat Jan 28 13:38:24 +0000 2012
+p1116
 sg18
 I1
 sg19
 I00
 sg20
-g50
+Vraikot
+p1117
 sg22
 I2
 sg23
-VKaron Maclean
-p781
-sa(dp782
+VKaran Singh
+p1118
+sa(dp1119
 g2
 I3
 sg3
@@ -3669,23 +5266,23 @@ sg5
 I1
 sg6
 Vhttps://pbs.twimg.com/profile_images/2391229897/k3acjp13yj0j32n114k8_400x400.jpeg
-p783
+p1120
 sg8
 I133378235
 sg9
 VKaryn Moffatt 
-p784
+p1121
 sg11
 I0
 sg12
 Vkarynmoffatt
-p785
+p1122
 sg14
 S'http://act.mcgill.ca/karyn'
-p786
+p1123
 sg16
 VThu Apr 15 16:40:43 +0000 2010
-p787
+p1124
 sg18
 I9
 sg19
@@ -3693,112 +5290,113 @@ I00
 sg20
 g50
 sg22
-I1
+I2
 sg23
-S'Karyn Moffatt'
-p788
-sa(dp789
+VKaryn Moffatt
+p1125
+sa(dp1126
 g2
-I183
+I841
+sg3
+g50
+sg5
+I220
+sg6
+Vhttps://pbs.twimg.com/profile_images/1365402443/kate_squared_400x400.jpg
+p1127
+sg8
+I14521359
+sg9
+Vkatehartman
+p1128
+sg11
+I301
+sg12
+Vkatehartman
+p1129
+sg14
+S'http://www.katehartman.com'
+p1130
+sg16
+VFri Apr 25 02:34:09 +0000 2008
+p1131
+sg18
+I1844
+sg19
+I00
+sg20
+g50
+sg22
+I3
+sg23
+S'Kate Hartman'
+p1132
+sa(dp1133
+g2
+I196
 sg3
 VAssistant Professor specializing in Media, Simon Fraser University, School of Interactive Arts and Technology. Art and anthropology, digital heritage ++
-p790
+p1134
 sg5
-I251
+I274
 sg6
 Vhttps://pbs.twimg.com/profile_images/1593551115/2010KateHennessy_400x400.jpg
-p791
+p1135
 sg8
 I17891072
 sg9
 VKate Hennessy
-p792
+p1136
 sg11
-I52
+I57
 sg12
 Vkatehennessy
-p793
+p1137
 sg14
 S'http://hennessy.iat.sfu.ca/mcl'
-p794
+p1138
 sg16
 VFri Dec 05 05:22:21 +0000 2008
-p795
+p1139
 sg18
-I230
+I250
 sg19
 I00
 sg20
 VVancouver
-p796
+p1140
 sg22
 I2
 sg23
 VKate Hennessy
-p797
-sa(dp798
+p1141
+sa(dp1142
 g2
-I21
-sg3
-g50
-sg5
-I14
-sg6
-Vhttps://pbs.twimg.com/profile_images/378800000688802935/947243b29d61c578621ed2f1c6c4a5fb_400x400.jpeg
-p799
-sg8
-L2166503639L
-sg9
-VKelly Lyons
-p800
-sg11
-I36
-sg12
-VK3llyons
-p801
-sg14
-g15
-sg16
-VSun Nov 03 15:28:24 +0000 2013
-p802
-sg18
-I4
-sg19
-I00
-sg20
-g50
-sg22
-I2
-sg23
-VKelly Lyons
-p803
-sa(dp804
-g2
-I1658
+I1666
 sg3
 VI'm a faculty member in the iSchool at Toronto (Faculty of Information) who joined after a 22 year career at IBM #lovingIt Note: opinions expressed are my own.
-p805
+p1143
 sg5
-I614
+I616
 sg6
 Vhttps://pbs.twimg.com/profile_images/1895022537/110907-0359-kellylyons-web_400x400.jpg
-p806
+p1144
 sg8
 I17993404
 sg9
 Vprof_lyons
-p807
+p1145
 sg11
-I259
+I260
 sg12
 Vprof_lyons
-p808
+p1146
 sg14
 S'http://individual.utoronto.ca/klyons/'
-p809
+p1147
 sg16
 VTue Dec 09 15:37:47 +0000 2008
-p810
+p1148
 sg18
 I644
 sg19
@@ -3806,11 +5404,11 @@ I00
 sg20
 g50
 sg22
-I1
+I3
 sg23
 S'Kelly Lyons'
-p811
-sa(dp812
+p1149
+sa(dp1150
 g2
 I476
 sg3
@@ -3819,24 +5417,24 @@ sg5
 I164
 sg6
 Vhttps://pbs.twimg.com/profile_images/3550680726/1839643f7fadcaca0373dd5ed085fa93_400x400.jpeg
-p813
+p1151
 sg8
 I434500468
 sg9
 VKendall Ho
-p814
+p1152
 sg11
 I61
 sg12
 VKHo8888
-p815
+p1153
 sg14
 g15
 sg16
 VSun Dec 11 23:13:46 +0000 2011
-p816
+p1154
 sg18
-I445
+I448
 sg19
 I00
 sg20
@@ -3845,111 +5443,111 @@ sg22
 I2
 sg23
 VKendall Ho
-p817
-sa(dp818
+p1155
+sa(dp1156
 g2
 I321
 sg3
 VAssociate Vice-President Research (Social Sciences and Humanities) and Canada Research Chair in Digital Humanities at Brock University
-p819
+p1157
 sg5
 I42
 sg6
 Vhttps://pbs.twimg.com/profile_images/589063644979204097/UzR_Y4Pn_400x400.jpg
-p820
+p1158
 sg8
 I116478672
 sg9
 VKevin Kee
-p821
+p1159
 sg11
 I33
 sg12
 Vkevinbkee
-p822
+p1160
 sg14
 S'http://kevinkee.ca'
-p823
+p1161
 sg16
 VMon Feb 22 16:09:06 +0000 2010
-p824
+p1162
 sg18
 I387
 sg19
 I00
 sg20
 VNiagara, Canada
-p825
+p1163
 sg22
 I2
 sg23
 VKevin Kee
-p826
-sa(dp827
+p1164
+sa(dp1165
 g2
-I9669
+I9722
 sg3
-VGames User Researcher \u2666 User Experience Designer \u2666 Associate Professor. #GameDesign, #HCI, #GamesUR, #UX, #PhysioCom, #GamePsych. Suits, Buttons, Dice, Go.
-p828
+VUser Experience Designer \u2666 Associate Professor @hcigamesgroup \u2666 Games User Researcher  #GameDesign, #HCI, #GamesUR, #UX, #PhysioCom, #GamePsych. Suits! Dice!
+p1166
 sg5
-I504
+I508
 sg6
 Vhttps://pbs.twimg.com/profile_images/513527905926651905/erQv7Km1_400x400.jpeg
-p829
+p1167
 sg8
 I16707495
 sg9
 VLennart Nacke
-p830
+p1168
 sg11
-I848
+I854
 sg12
 Vacagamic
-p831
+p1169
 sg14
 S'http://www.acagamic.com/lennart-nacke'
-p832
+p1170
 sg16
 VSun Oct 12 13:31:09 +0000 2008
-p833
+p1171
 sg18
-I1664
+I1678
 sg19
 I00
 sg20
 VWaterloo, ON, Canada
-p834
+p1172
 sg22
-I2
+I3
 sg23
-VLennart Nacke
-p835
-sa(dp836
+S'Lennart Nacke'
+p1173
+sa(dp1174
 g2
 I22
 sg3
 VBuilding energy, occupants, Canada, urban planning, business
-p837
+p1175
 sg5
-I56
+I61
 sg6
 Vhttps://pbs.twimg.com/profile_images/435192126440087553/uAAiPbyP_400x400.jpeg
-p838
+p1176
 sg8
 L2347558758L
 sg9
 VLiam O'Brien
-p839
+p1177
 sg11
 I2
 sg12
 VProfLiamOBrien
-p840
+p1178
 sg14
 g15
 sg16
 VSun Feb 16 23:06:41 +0000 2014
-p841
+p1179
 sg18
 I38
 sg19
@@ -3960,44 +5558,8 @@ sg22
 I2
 sg23
 VLiam O'Brien
-p842
-sa(dp843
-g2
-I9
-sg3
-g50
-sg5
-I5
-sg6
-Vhttps://pbs.twimg.com/profile_images/512748504284790784/PeCzPZRs_400x400.jpeg
-p844
-sg8
-I267798269
-sg9
-VLinda Li
-p845
-sg11
-I12
-sg12
-Vlindali__
-p846
-sg14
-g15
-sg16
-VThu Mar 17 15:19:04 +0000 2011
-p847
-sg18
-I5
-sg19
-I00
-sg20
-g50
-sg22
-I2
-sg23
-VLinda Li
-p848
-sa(dp849
+p1180
+sa(dp1181
 g2
 I0
 sg3
@@ -4006,22 +5568,22 @@ sg5
 I11
 sg6
 Vhttps://abs.twimg.com/sticky/default_profile_images/default_profile_2_400x400.png
-p850
+p1182
 sg8
 L2153714838L
 sg9
 VLinda Viola Li
-p851
+p1183
 sg11
 I0
 sg12
 VLindaViolaLi
-p852
+p1184
 sg14
 g15
 sg16
 VThu Oct 24 21:56:57 +0000 2013
-p853
+p1185
 sg18
 I1
 sg19
@@ -4032,73 +5594,113 @@ sg22
 I1
 sg23
 S'Linda Li'
-p854
-sa(dp855
+p1186
+sa(dp1187
 g2
-I517
+I1517
 sg3
-VHealth services researcher, physiotherapist at University of British Columbia and Arthritis Research Canada.
-p856
+VArthritis, Joint Health & Knowledge Translation Research Program, led by Dr. Linda Li @LLi_1. #arthritis #eHealth #hcsm #rheum #DigitalHealth
+p1188
 sg5
-I34
+I931
 sg6
-Vhttps://pbs.twimg.com/profile_images/1568674641/Linda_Li_UBC_small_file_400x400.jpg
-p857
+Vhttps://pbs.twimg.com/profile_images/378800000826570565/af72b77c640bde48de5a8b5cbc6147c3_400x400.png
+p1189
 sg8
-I345616835
+I382297591
 sg9
-VLinda Li
-p858
+VArthritis KTResearch
+p1190
 sg11
-I283
+I224
 sg12
-VLLi_1
-p859
+VArthritis_UBC
+p1191
 sg14
-S'http://arthritis.rehab.med.ubc.ca/'
-p860
+S'http://www.arthritis.rehab.med.ubc.ca'
+p1192
 sg16
-VSat Jul 30 22:11:40 +0000 2011
-p861
+VThu Sep 29 20:38:54 +0000 2011
+p1193
 sg18
-I165
+I1137
 sg19
 I00
 sg20
-g50
+VVancouver, Canada
+p1194
 sg22
-I2
+I3
 sg23
-VLinda Li
-p862
-sa(dp863
+S'Linda Li'
+p1195
+sa(dp1196
 g2
-I12
+I3583
+sg3
+VNew Media/Journalism prof at Concordia U Montreal; 2014 fellow, Princeton Center for Information Tech Policy, 2015 fellow, Yale Information Society Project.
+p1197
+sg5
+I1421
+sg6
+Vhttps://pbs.twimg.com/profile_images/428584865819156481/exQmMrxQ_400x400.jpeg
+p1198
+sg8
+I15649736
+sg9
+VLisa Lynch
+p1199
+sg11
+I4896
+sg12
+Vlisallynch
+p1200
+sg14
+S'http://lisalynch.org'
+p1201
+sg16
+VTue Jul 29 19:00:30 +0000 2008
+p1202
+sg18
+I1311
+sg19
+I00
+sg20
+VMontreal/New Jersey
+p1203
+sg22
+I3
+sg23
+S'Lisa Lynch'
+p1204
+sa(dp1205
+g2
+I13
 sg3
 g50
 sg5
-I94
+I101
 sg6
 Vhttps://pbs.twimg.com/profile_images/455128872451719168/FriQX0KL_400x400.jpeg
-p864
+p1206
 sg8
 I16578625
 sg9
 VLisa Yamagata-Lynch
-p865
+p1207
 sg11
 I0
 sg12
 Vlisayl
-p866
+p1208
 sg14
 S'http://lisayamagatalynch.net'
-p867
+p1209
 sg16
 VFri Oct 03 14:53:49 +0000 2008
-p868
+p1210
 sg18
-I51
+I52
 sg19
 I00
 sg20
@@ -4107,72 +5709,33 @@ sg22
 I1
 sg23
 S'Lisa Lynch'
-p869
-sa(dp870
+p1211
+sa(dp1212
 g2
-I3582
-sg3
-VNew Media/Journalism prof at Concordia U Montreal; 2014 fellow, Princeton Center for Information Tech Policy, 2015 fellow, Yale Information Society Project.
-p871
-sg5
-I1419
-sg6
-Vhttps://pbs.twimg.com/profile_images/428584865819156481/exQmMrxQ_400x400.jpeg
-p872
-sg8
-I15649736
-sg9
-VLisa Lynch
-p873
-sg11
-I4894
-sg12
-Vlisallynch
-p874
-sg14
-S'http://lisalynch.org'
-p875
-sg16
-VTue Jul 29 19:00:30 +0000 2008
-p876
-sg18
-I1311
-sg19
-I00
-sg20
-VMontreal/New Jersey
-p877
-sg22
-I2
-sg23
-VLisa Lynch
-p878
-sa(dp879
-g2
-I134
+I135
 sg3
 g50
 sg5
 I91
 sg6
 Vhttps://pbs.twimg.com/profile_images/1634854034/luanne_400x400.jpg
-p880
+p1213
 sg8
 I89090373
 sg9
 VLuanne Freund
-p881
+p1214
 sg11
 I18
 sg12
 Vfreundlu
-p882
+p1215
 sg14
 S'http://faculty.arts.ubc.ca/lfreund/'
-p883
+p1216
 sg16
 VWed Nov 11 02:53:43 +0000 2009
-p884
+p1217
 sg18
 I125
 sg19
@@ -4180,48 +5743,48 @@ I00
 sg20
 g50
 sg22
-I2
+I3
 sg23
-VLuanne Freund
-p885
-sa(dp886
+S'Luanne Freund'
+p1218
+sa(dp1219
 g2
-I53
+I56
 sg3
 g50
 sg5
 I32
 sg6
 Vhttps://pbs.twimg.com/profile_images/62695957/lyn2005_400x400.jpg
-p887
+p1220
 sg8
 I14936432
 sg9
 VLyn Bartram
-p888
+p1221
 sg11
 I0
 sg12
 Vlynbartram
-p889
+p1222
 sg14
 g15
 sg16
 VWed May 28 18:36:55 +0000 2008
-p890
+p1223
 sg18
-I34
+I35
 sg19
 I00
 sg20
 VVancouver
-p891
+p1224
 sg22
 I2
 sg23
 VLyn Bartram
-p892
-sa(dp893
+p1225
+sa(dp1226
 g2
 I0
 sg3
@@ -4230,22 +5793,22 @@ sg5
 I4
 sg6
 Vhttps://abs.twimg.com/sticky/default_profile_images/default_profile_2_400x400.png
-p894
+p1227
 sg8
 L2272497439L
 sg9
 VMarek Hatala
-p895
+p1228
 sg11
 I0
 sg12
 Vm_hatala
-p896
+p1229
 sg14
 g15
 sg16
 VThu Jan 02 04:45:51 +0000 2014
-p897
+p1230
 sg18
 I10
 sg19
@@ -4256,86 +5819,86 @@ sg22
 I2
 sg23
 VMarek Hatala
-p898
-sa(dp899
+p1231
+sa(dp1232
 g2
-I233
+I235
 sg3
 VDirector of Research, Emily Carr University of Art + Design
-p900
+p1233
 sg5
 I616
 sg6
 Vhttps://pbs.twimg.com/profile_images/3415645471/c23a0415ba30f9856288085be084d733_400x400.jpeg
-p901
+p1234
 sg8
 I88061368
 sg9
 VMaria Lantin
-p902
+p1235
 sg11
 I10
 sg12
 Vdrmarypop
-p903
+p1236
 sg14
 S'http://marialantin.blogspot.com'
-p904
+p1237
 sg16
 VFri Nov 06 23:27:09 +0000 2009
-p905
+p1238
 sg18
 I376
 sg19
 I00
 sg20
 VVancouver
-p906
+p1239
 sg22
 I2
 sg23
 VMaria Lantin
-p907
-sa(dp908
+p1240
+sa(dp1241
 g2
-I406
+I413
 sg3
 VAugmented Reality Expert, Professor, Interface Research
-p909
+p1242
 sg5
 I121
 sg6
 Vhttps://pbs.twimg.com/profile_images/378800000494960023/781730bdf44e6d82d1e2b8aea1e57ad9_400x400.jpeg
-p910
+p1243
 sg8
 I85120266
 sg9
 Vmark billinghurst
-p911
+p1244
 sg11
 I4
 sg12
 Vmarknb00
-p912
+p1245
 sg14
 S'http://www.markbillinghurst.com/'
-p913
+p1246
 sg16
 VSun Oct 25 17:06:04 +0000 2009
-p914
+p1247
 sg18
-I471
+I476
 sg19
 I00
 sg20
 VChristchurch, New Zealand
-p915
+p1248
 sg22
 I2
 sg23
 VMark Billinghurst
-p916
-sa(dp917
+p1249
+sa(dp1250
 g2
 I3
 sg3
@@ -4344,24 +5907,24 @@ sg5
 I4
 sg6
 Vhttps://pbs.twimg.com/profile_images/1304822876/IML_Logo_400x400.png
-p918
+p1251
 sg8
 I279235383
 sg9
 VMark Chignell
-p919
+p1252
 sg11
 I0
 sg12
 Vinteraktivlabs
-p920
+p1253
 sg14
 g15
 sg16
 VFri Apr 08 21:29:40 +0000 2011
-p921
+p1254
 sg18
-I41
+I42
 sg19
 I00
 sg20
@@ -4370,34 +5933,34 @@ sg22
 I2
 sg23
 VMark Chignell
-p922
-sa(dp923
+p1255
+sa(dp1256
 g2
 I1
 sg3
 g50
 sg5
-I90
+I91
 sg6
 Vhttps://pbs.twimg.com/profile_images/495490053/mark-headshot_400x400.png
-p924
+p1257
 sg8
 I16204000
 sg9
 VMark Hancock
-p925
+p1258
 sg11
 I0
 sg12
 Vmshancock
-p926
+p1259
 sg14
 g15
 sg16
 VTue Sep 09 15:42:39 +0000 2008
-p927
+p1260
 sg18
-I82
+I84
 sg19
 I00
 sg20
@@ -4406,74 +5969,111 @@ sg22
 I2
 sg23
 VMark Hancock
-p928
-sa(dp929
+p1261
+sa(dp1262
+g2
+I11575
+sg3
+VCopywriter/producer. You kill it, I'll bring the spade. http://t.co/f18I1KdP3g http://t.co/X9XPCHieXv\u000ahttps://t.co/kWzeYyFpVI
+p1263
+sg5
+I719
+sg6
+Vhttps://pbs.twimg.com/profile_images/623594512917655552/ykRqdVue_400x400.jpg
+p1264
+sg8
+I20508752
+sg9
+VMark Hancock
+p1265
+sg11
+I3629
+sg12
+VMarkRHancock
+p1266
+sg14
+g15
+sg16
+VTue Feb 10 12:05:02 +0000 2009
+p1267
+sg18
+I468
+sg19
+I00
+sg20
+g50
+sg22
+I2
+sg23
+VMark Hancock
+p1268
+sa(dp1269
 g2
 I15
 sg3
 VProfessor of interaction design, mobile researcher, studying for my PhD in communication and technology
-p930
+p1270
 sg5
 I22
 sg6
 Vhttps://pbs.twimg.com/profile_images/56908161/Marthaforesight_400x400.jpg
-p931
+p1271
 sg8
 I15494461
 sg9
 VMartha Ladly
-p932
+p1272
 sg11
 I0
 sg12
 Vmarthaladly
-p933
+p1273
 sg14
 S'http://mobilenation.ca'
-p934
+p1274
 sg16
 VSat Jul 19 18:55:12 +0000 2008
-p935
+p1275
 sg18
 I207
 sg19
 I00
 sg20
 VToronto, Canada, Florence, Ita
-p936
+p1276
 sg22
-I2
+I3
 sg23
-VMartha Ladly
-p937
-sa(dp938
+S'Martha Ladly'
+p1277
+sa(dp1278
 g2
-I453
+I455
 sg3
 Vlover of the sea and the ski; art and theater admirer; pacifist to the extreme; sarcastic ginger; loyal to the Oil; Canada #yeg
-p939
+p1279
 sg5
-I348
+I353
 sg6
 Vhttps://pbs.twimg.com/profile_images/3476583945/6f5f6f92b3682ad2b0e7decf05351cd1_400x400.jpeg
-p940
+p1280
 sg8
 I1327407816
 sg9
 VMary Cavanagh
-p941
+p1281
 sg11
-I897
+I951
 sg12
 VMarycavanaghf
-p942
+p1282
 sg14
 g15
 sg16
 VThu Apr 04 17:27:47 +0000 2013
-p943
+p1283
 sg18
-I144
+I145
 sg19
 I00
 sg20
@@ -4482,190 +6082,600 @@ sg22
 I2
 sg23
 VMary Cavanagh
-p944
-sa(dp945
+p1284
+sa(dp1285
+g2
+I1591
+sg3
+VAssistant Professor and Director, Humanities Computing, University of Alberta.  Unauthorized muckraker, tech junky, idea addict, teacher.
+p1286
+sg5
+I851
+sg6
+Vhttps://pbs.twimg.com/profile_images/1189903309/mo_400x400.jpg
+p1287
+sg8
+I224734204
+sg9
+VMo Engel
+p1288
+sg11
+I76
+sg12
+Vmoengel
+p1289
+sg14
+S'http://edmontonpipelines.org'
+p1290
+sg16
+VThu Dec 09 18:51:11 +0000 2010
+p1291
+sg18
+I536
+sg19
+I00
+sg20
+g50
+sg22
+I3
+sg23
+S'Maureen Engel'
+p1292
+sa(dp1293
 g2
 I1
 sg3
 VVisualization researcher, HCI enthusiast.
-p946
+p1294
 sg5
 I16
 sg6
 Vhttps://pbs.twimg.com/profile_images/378800000325227056/ae9ab01022177d7f4abacd1de3dd2b0f_400x400.jpeg
-p947
+p1295
 sg8
 I1684160599
 sg9
 VMelanie Tory
-p948
+p1296
 sg11
 I0
 sg12
 VToryMelanieK
-p949
+p1297
 sg14
 S'http://www.cs.uvic.ca/~mtory'
-p950
+p1298
 sg16
 VMon Aug 19 20:35:29 +0000 2013
-p951
+p1299
 sg18
-I19
+I21
 sg19
 I00
 sg20
 VVictoria, BC, Canada
-p952
+p1300
 sg22
 I2
 sg23
 VMelanie Tory
-p953
-sa(dp954
+p1301
+sa(dp1302
 g2
-I9152
+I9162
 sg3
 VI'm a Professor and Canada Research Chair in Game Studies and Design at Concordia University in Montreal. Past occupation: stern kid on my dad's lobsterboat.
-p955
+p1303
 sg5
-I612
+I613
 sg6
 Vhttps://pbs.twimg.com/profile_images/444999890058240000/73bVl9pb_400x400.jpeg
-p956
+p1304
 sg8
 I3451281
 sg9
 VMia Consalvo
-p957
+p1305
 sg11
 I101
 sg12
 VmiaC
-p958
+p1306
 sg14
 S'http://about.me/miaconsalvo'
-p959
+p1307
 sg16
 VWed Apr 04 19:09:41 +0000 2007
-p960
+p1308
 sg18
-I2894
+I2906
 sg19
 I00
 sg20
 VMontreal
-p961
+p1309
+sg22
+I3
+sg23
+S'Mia Consalvo'
+p1310
+sa(dp1311
+g2
+I12
+sg3
+g50
+sg5
+I92
+sg6
+Vhttps://pbs.twimg.com/profile_images/501108961815171073/o02wZ7s-_400x400.jpeg
+p1312
+sg8
+I28886726
+sg9
+VMichael McNally
+p1313
+sg11
+I4
+sg12
+VMichaelEMcNally
+p1314
+sg14
+g15
+sg16
+VSat Apr 04 22:42:49 +0000 2009
+p1315
+sg18
+I53
+sg19
+I00
+sg20
+VChicago, IL
+p1316
 sg22
 I2
 sg23
-VMia Consalvo
-p962
-sa(dp963
+VMichael Mcnally
+p1317
+sa(dp1318
 g2
-I894
+I701
+sg3
+g50
+sg5
+I236
+sg6
+Vhttps://pbs.twimg.com/profile_images/538560260177674242/4Bl-bdre_400x400.jpeg
+p1319
+sg8
+I108152129
+sg9
+Vmichael mcnally 
+p1320
+sg11
+I149
+sg12
+Vmcnally19
+p1321
+sg14
+g15
+sg16
+VMon Jan 25 01:14:17 +0000 2010
+p1322
+sg18
+I272
+sg19
+I00
+sg20
+g50
+sg22
+I2
+sg23
+VMichael Mcnally
+p1323
+sa(dp1324
+g2
+I415
+sg3
+V#ukemplaw #HR commercial employment solicitor helping business
+p1325
+sg5
+I847
+sg6
+Vhttps://pbs.twimg.com/profile_images/555865147437510656/aU6dp0FT_400x400.jpeg
+p1326
+sg8
+I559026314
+sg9
+VMichael McNally
+p1327
+sg11
+I97
+sg12
+V_hrlawyer
+p1328
+sg14
+g15
+sg16
+VFri Apr 20 23:36:56 +0000 2012
+p1329
+sg18
+I505
+sg19
+I00
+sg20
+VNorth West, UK
+p1330
+sg22
+I2
+sg23
+VMichael Mcnally
+p1331
+sa(dp1332
+g2
+I157
+sg3
+VCisco Collaboration Contact Center Sr Dir SW Devel. Interests: CC, UC, social, mobile, high perf teams, green tech, photography. All tweets are my own musings!
+p1333
+sg5
+I1244
+sg6
+Vhttps://pbs.twimg.com/profile_images/378800000375403587/5d4e1e65000385dd8d5b0482261714b2_400x400.jpeg
+p1334
+sg8
+I9438572
+sg9
+VMichael McNally
+p1335
+sg11
+I17
+sg12
+Vmichaelmcnally
+p1336
+sg14
+S'http://www.linkedin.com/in/mcnally'
+p1337
+sg16
+VSun Oct 14 15:03:03 +0000 2007
+p1338
+sg18
+I655
+sg19
+I00
+sg20
+VBoston Burbs
+p1339
+sg22
+I2
+sg23
+VMichael Mcnally
+p1340
+sa(dp1341
+g2
+I12
+sg3
+g50
+sg5
+I952
+sg6
+Vhttps://pbs.twimg.com/profile_images/2904254521/10f02290d9cc3258a053cd02cd13004d_400x400.jpeg
+p1342
+sg8
+I974875650
+sg9
+Vmichael mcnally
+p1343
+sg11
+I0
+sg12
+Vmichaelmcnall15
+p1344
+sg14
+g15
+sg16
+VTue Nov 27 22:42:50 +0000 2012
+p1345
+sg18
+I130
+sg19
+I00
+sg20
+g50
+sg22
+I2
+sg23
+VMichael Mcnally
+p1346
+sa(dp1347
+g2
+I1550
+sg3
+VIf I had to describe myself in one word, it would be bad at following directions
+p1348
+sg5
+I235
+sg6
+Vhttps://pbs.twimg.com/profile_images/443483435818958848/piQcqjtc_400x400.jpeg
+p1349
+sg8
+I65768936
+sg9
+VMichael McNally
+p1350
+sg11
+I29
+sg12
+Vmcmike7347
+p1351
+sg14
+g15
+sg16
+VFri Aug 14 23:41:03 +0000 2009
+p1352
+sg18
+I110
+sg19
+I00
+sg20
+g50
+sg22
+I2
+sg23
+VMichael Mcnally
+p1353
+sa(dp1354
+g2
+I479
+sg3
+g50
+sg5
+I134
+sg6
+Vhttps://pbs.twimg.com/profile_images/3101037458/4986c2393a95c34002d674f2af4135d2_400x400.jpeg
+p1355
+sg8
+I613051907
+sg9
+VMichael McNally
+p1356
+sg11
+I734
+sg12
+Vgingermcnally69
+p1357
+sg14
+g15
+sg16
+VWed Jun 20 02:21:18 +0000 2012
+p1358
+sg18
+I173
+sg19
+I00
+sg20
+g50
+sg22
+I2
+sg23
+VMichael Mcnally
+p1359
+sa(dp1360
+g2
+I1132
+sg3
+VBrand Strategist, PR, Partnerships, Events & Content Marketing Pro for LEGO Systems though my opinions here are my own
+p1361
+sg5
+I119
+sg6
+Vhttps://pbs.twimg.com/profile_images/81778712/untitled1_400x400.jpg
+p1362
+sg8
+I15982555
+sg9
+VMichael McNally
+p1363
+sg11
+I406
+sg12
+Vmcbrickpr
+p1364
+sg14
+S'http://www.LEGO.com'
+p1365
+sg16
+VMon Aug 25 15:22:09 +0000 2008
+p1366
+sg18
+I794
+sg19
+I00
+sg20
+VConnecticut
+p1367
+sg22
+I2
+sg23
+VMichael Mcnally
+p1368
+sa(dp1369
+g2
+I949
+sg3
+VProud SAFC fan.
+p1370
+sg5
+I216
+sg6
+Vhttps://pbs.twimg.com/profile_images/540935294728806400/H64UVp7Q_400x400.jpeg
+p1371
+sg8
+I296738262
+sg9
+VMichael McNally
+p1372
+sg11
+I123
+sg12
+VMichaelMcNally1
+p1373
+sg14
+g15
+sg16
+VWed May 11 09:49:05 +0000 2011
+p1374
+sg18
+I89
+sg19
+I00
+sg20
+VDurham, UK
+p1375
+sg22
+I2
+sg23
+VMichael Mcnally
+p1376
+sa(dp1377
+g2
+I0
+sg3
+g50
+sg5
+I2
+sg6
+Vhttps://abs.twimg.com/sticky/default_profile_images/default_profile_5_400x400.png
+p1378
+sg8
+I361379072
+sg9
+Vmichael mcnally
+p1379
+sg11
+I0
+sg12
+Voxy125
+p1380
+sg14
+g15
+sg16
+VWed Aug 24 18:03:26 +0000 2011
+p1381
+sg18
+I0
+sg19
+I00
+sg20
+g50
+sg22
+I2
+sg23
+VMichael Mcnally
+p1382
+sa(dp1383
+g2
+I902
 sg3
 V19th-c Digital Humanist, President (French) of CSDH/SCHN
-p964
+p1384
 sg5
-I472
+I471
 sg6
 Vhttps://pbs.twimg.com/profile_images/3608436532/98146447946a69410571c246bdeda4b1_400x400.jpeg
-p965
+p1385
 sg8
 I50182356
 sg9
 VMichael E. Sinatra
-p966
+p1386
 sg11
-I15
+I16
 sg12
 Vmesinatra
-p967
+p1387
 sg14
 S'http://michaelsinatra.org'
-p968
+p1388
 sg16
 VWed Jun 24 02:16:24 +0000 2009
-p969
+p1389
 sg18
-I649
+I652
 sg19
 I00
 sg20
 VMontreal
-p970
+p1390
 sg22
 I1
 sg23
 S'Michael Sinatra'
-p971
-sa(dp972
+p1391
+sa(dp1392
 g2
 I21
 sg3
 VProfessor at University of Waterloo
-p973
+p1393
 sg5
 I1
 sg6
 Vhttps://pbs.twimg.com/profile_images/200900499/headshot_400x400.jpg
-p974
+p1394
 sg8
 I38288971
 sg9
 VMichael Terry
-p975
+p1395
 sg11
 I0
 sg12
 Vmichaelterry_uw
-p976
+p1396
 sg14
 S'http://hci.uwaterloo.ca/faculty/mterry'
-p977
+p1397
 sg16
 VWed May 06 22:05:44 +0000 2009
-p978
+p1398
 sg18
 I56
 sg19
 I00
 sg20
 VWaterloo
-p979
+p1399
 sg22
 I2
 sg23
 VMichael Terry
-p980
-sa(dp981
+p1400
+sa(dp1401
 g2
-I321
+I337
 sg3
 g50
 sg5
-I546
+I551
 sg6
 Vhttps://pbs.twimg.com/profile_images/2382402821/v2uy22ld32jvldrig30x_400x400.jpeg
-p982
+p1402
 sg8
 I49532037
 sg9
 VMichael Terry
-p983
+p1403
 sg11
-I289
+I302
 sg12
 Vmichael_a_terry
-p984
+p1404
 sg14
 g15
 sg16
 VMon Jun 22 04:08:53 +0000 2009
-p985
+p1405
 sg18
-I148
+I149
 sg19
 I00
 sg20
@@ -4674,8 +6684,47 @@ sg22
 I2
 sg23
 VMichael Terry
-p986
-sa(dp987
+p1406
+sa(dp1407
+g2
+I6861
+sg3
+VChristian. Husband. Father. Musician. Educator. MA student @LSTheology. All views my own. Retweets not endorsements.
+p1408
+sg5
+I152
+sg6
+Vhttps://pbs.twimg.com/profile_images/502934711724175360/lBh3aqMo_400x400.jpeg
+p1409
+sg8
+I1295050602
+sg9
+VMichael Roca-Terry
+p1410
+sg11
+I2892
+sg12
+VMikeRoca
+p1411
+sg14
+S'http://mikeroca.wordpress.com'
+p1412
+sg16
+VSun Mar 24 12:19:32 +0000 2013
+p1413
+sg18
+I237
+sg19
+I00
+sg20
+VCambridge, UK
+p1414
+sg22
+I1
+sg23
+S'Michael Terry'
+p1415
+sa(dp1416
 g2
 I3
 sg3
@@ -4684,22 +6733,22 @@ sg5
 I13
 sg6
 Vhttps://pbs.twimg.com/profile_images/3335243514/353901b275cf68bd476e00ec53a7b3fe_400x400.jpeg
-p988
+p1417
 sg8
 I1240028228
 sg9
 VMichiel van de Panne
-p989
+p1418
 sg11
 I0
 sg12
 VMvandepanne
-p990
+p1419
 sg14
 g15
 sg16
 VSun Mar 03 22:57:08 +0000 2013
-p991
+p1420
 sg18
 I39
 sg19
@@ -4710,34 +6759,34 @@ sg22
 I1
 sg23
 S'Michiel Panne'
-p992
-sa(dp993
+p1421
+sa(dp1422
 g2
-I4
+I5
 sg3
 g50
 sg5
 I20
 sg6
 Vhttps://pbs.twimg.com/profile_images/533315153639395328/SJV83iJr_400x400.jpeg
-p994
+p1423
 sg8
 L2539740660L
 sg9
 VMike Carbonaro
-p995
+p1424
 sg11
 I0
 sg12
 Vmikedotmike
-p996
+p1425
 sg14
 g15
 sg16
 VSun Jun 01 14:37:52 +0000 2014
-p997
+p1426
 sg18
-I6
+I8
 sg19
 I00
 sg20
@@ -4746,46 +6795,46 @@ sg22
 I2
 sg23
 VMike Carbonaro
-p998
-sa(dp999
+p1427
+sa(dp1428
 g2
-I2679
+I2699
 sg3
 VProfessor in Information Management, Dalhousie University. Computer scientist. Researcher in cloud computing, open information, research communities, and more.
-p1000
+p1429
 sg5
-I164
+I165
 sg6
 Vhttps://pbs.twimg.com/profile_images/3668335142/5ef6f445e55cee9283ff9ebd43dc1e05_400x400.png
-p1001
+p1430
 sg8
 I41768588
 sg9
 VMike Smit
-p1002
+p1431
 sg11
-I532
+I534
 sg12
 Vmichael_smit
-p1003
+p1432
 sg14
 S'http://mikesmit.com'
-p1004
+p1433
 sg16
 VFri May 22 06:47:10 +0000 2009
-p1005
+p1434
 sg18
-I382
+I388
 sg19
 I00
 sg20
 g50
 sg22
-I2
+I3
 sg23
-VMike Smit
-p1006
-sa(dp1007
+S'Mike Smit'
+p1435
+sa(dp1436
 g2
 I5
 sg3
@@ -4794,22 +6843,22 @@ sg5
 I8
 sg6
 Vhttps://abs.twimg.com/sticky/default_profile_images/default_profile_2_400x400.png
-p1008
+p1437
 sg8
 I50879859
 sg9
 VMinglun Gong
-p1009
+p1438
 sg11
 I0
 sg12
 Vgongml
-p1010
+p1439
 sg14
 g15
 sg16
 VFri Jun 26 02:16:02 +0000 2009
-p1011
+p1440
 sg18
 I4
 sg19
@@ -4820,36 +6869,36 @@ sg22
 I2
 sg23
 VMinglun Gong
-p1012
-sa(dp1013
+p1441
+sa(dp1442
 g2
-I689
+I697
 sg3
 VAssociate Professor at the University of Denver. AI and Games Researcher. Part-time developer. Games: Dome Wars, Dragon Age: Origins, Rith
-p1014
+p1443
 sg5
-I175
+I178
 sg6
 Vhttps://pbs.twimg.com/profile_images/443786502762287104/CGEI-WIM_400x400.jpeg
-p1015
+p1444
 sg8
 I102880264
 sg9
 VNathan Sturtevant
-p1016
+p1445
 sg11
-I126
+I128
 sg12
 Vnathansttt
-p1017
+p1446
 sg14
 S'http://ns-software.com/'
-p1018
+p1447
 sg16
 VFri Jan 08 04:05:04 +0000 2010
-p1019
+p1448
 sg18
-I328
+I338
 sg19
 I00
 sg20
@@ -4858,111 +6907,71 @@ sg22
 I2
 sg23
 VNathan Sturtevant
-p1020
-sa(dp1021
+p1449
+sa(dp1450
 g2
-I2130
+I56
 sg3
-VStay-at-home father; freelance writer, editor, publicist, and spin instructor.
-p1022
+g50
 sg5
-I2001
+I72
 sg6
-Vhttps://pbs.twimg.com/profile_images/448251289235771392/fS2L4OF6_400x400.jpeg
-p1023
+Vhttps://pbs.twimg.com/profile_images/534179125783580672/Oixkv_LZ_400x400.png
+p1451
 sg8
-I55614218
+I460728068
 sg9
-VNicholas Graham
-p1024
+VNick Graham
+p1452
 sg11
-I2437
+I36
 sg12
-Vgrahampub
-p1025
-sg14
-S'http://www.linkedin.com/myprofile?trk=hb_tab_pro'
-p1026
-sg16
-VFri Jul 10 17:17:52 +0000 2009
-p1027
-sg18
-I1022
-sg19
-I00
-sg20
-VHalifax, Canada
-p1028
-sg22
-I2
-sg23
-VNicholas Graham
-p1029
-sa(dp1030
-g2
-I197
-sg3
-VFounder, Hidden Creek Communications LLC; former newspaper editor/journalist, corporate spokesperson, senior Capitol Hill staff aide, PR agency exec
-p1031
-sg5
-I456
-sg6
-Vhttps://pbs.twimg.com/profile_images/420033618786803713/-A_ufcb7_400x400.jpeg
-p1032
-sg8
-I14236457
-sg9
-VNicholas Graham
-p1033
-sg11
-I20
-sg12
-Vnicholasgraham
-p1034
+Vtcngraham
+p1453
 sg14
 g15
 sg16
-VThu Mar 27 16:17:33 +0000 2008
-p1035
+VWed Jan 11 02:11:22 +0000 2012
+p1454
 sg18
-I544
+I50
 sg19
 I00
 sg20
-VLoudoun, VA!
-p1036
+VKingston, Canada
+p1455
 sg22
-I2
+I3
 sg23
-VNicholas Graham
-p1037
-sa(dp1038
+S'Nicholas Graham'
+p1456
+sa(dp1457
 g2
 I2
 sg3
 VAssistant Professor at the University of Waterloo
-p1039
+p1458
 sg5
 I23
 sg6
 Vhttps://abs.twimg.com/sticky/default_profile_images/default_profile_1_400x400.png
-p1040
+p1459
 sg8
 L2463947053L
 sg9
 VParmit Chilana
-p1041
+p1460
 sg11
 I10
 sg12
 Vparmitchilana
-p1042
+p1461
 sg14
 S'http://www.mansci.uwaterloo.ca/~pchilana/'
-p1043
+p1462
 sg16
 VSat Apr 26 02:11:50 +0000 2014
-p1044
+p1463
 sg18
 I9
 sg19
@@ -4973,8 +6982,8 @@ sg22
 I2
 sg23
 VParmit Chilana
-p1045
-sa(dp1046
+p1464
+sa(dp1465
 g2
 I54
 sg3
@@ -4983,25 +6992,25 @@ sg5
 I273
 sg6
 Vhttps://pbs.twimg.com/profile_images/1241442739/auto-portrait-48px_400x400.jpg
-p1047
+p1466
 sg8
 I51836718
 sg9
 VPatricio Davila
-p1048
+p1467
 sg11
 I42
 sg12
 Vdavilapatricio
-p1049
+p1468
 sg14
 S'http://patriciodavila.com'
-p1050
+p1469
 sg16
 VSun Jun 28 20:40:26 +0000 2009
-p1051
+p1470
 sg18
-I106
+I105
 sg19
 I00
 sg20
@@ -5010,8 +7019,8 @@ sg22
 I2
 sg23
 VPatricio Davila
-p1052
-sa(dp1053
+p1471
+sa(dp1472
 g2
 I33
 sg3
@@ -5020,75 +7029,113 @@ sg5
 I10
 sg6
 Vhttps://pbs.twimg.com/profile_images/378800000235996832/df5a8e03b541ab435aa0418eef891a83_400x400.jpeg
-p1054
+p1473
 sg8
 I237884410
 sg9
 VPaul Kry
-p1055
+p1474
 sg11
 I3
 sg12
 Vpaulkry
-p1056
+p1475
 sg14
 S'http://www.cs.mcgill.ca/~kry'
-p1057
+p1476
 sg16
 VThu Jan 13 21:31:32 +0000 2011
-p1058
+p1477
 sg18
 I6
 sg19
 I00
 sg20
 VMontreal
-p1059
+p1478
 sg22
-I2
+I3
 sg23
-VPaul Kry
-p1060
-sa(dp1061
+S'Paul Kry'
+p1479
+sa(dp1480
 g2
-I19
+I20
 sg3
-VNew media researcher, collaborative art practitioner, science and technology questioner. Co-director OCAD University Mobile Lab.
-p1062
+VNew media researcher, collaborative art practitioner, science and technology questioner. Asper Research Chair in Communication, McMaster University
+p1481
 sg5
 I87
 sg6
 Vhttps://pbs.twimg.com/profile_images/1377736289/bio_paula_400x400.jpg
-p1063
+p1482
 sg8
 I37021814
 sg9
 VPaula Gardner
-p1064
+p1483
 sg11
 I1
 sg12
 Vpaulamgardner
-p1065
+p1484
 sg14
 S'http://mobilelab.ca'
-p1066
+p1485
 sg16
 VFri May 01 19:40:34 +0000 2009
-p1067
+p1486
 sg18
-I62
+I63
 sg19
 I00
 sg20
 VToronto
-p1068
+p1487
+sg22
+I3
+sg23
+S'Paula Gardner'
+p1488
+sa(dp1489
+g2
+I863
+sg3
+VProfessor in Marine Ecology, Arctic and biodiversity research, AE for PLOSONE
+p1490
+sg5
+I245
+sg6
+Vhttps://pbs.twimg.com/profile_images/2248845706/Phil_Arctic-web_400x400.jpg
+p1491
+sg8
+I590004017
+sg9
+VPhilippe Archambault
+p1492
+sg11
+I34
+sg12
+Vphilbenthos
+p1493
+sg14
+S'http://www.uqar.ca/ecologie-benthique/'
+p1494
+sg16
+VFri May 25 13:45:09 +0000 2012
+p1495
+sg18
+I305
+sg19
+I00
+sg20
+g50
 sg22
 I2
 sg23
-VPaula Gardner
-p1069
-sa(dp1070
+VPhilippe Archambault
+p1496
+sa(dp1497
 g2
 I0
 sg3
@@ -5097,22 +7144,22 @@ sg5
 I6
 sg6
 Vhttps://abs.twimg.com/sticky/default_profile_images/default_profile_0_400x400.png
-p1071
+p1498
 sg8
 L2891486024L
 sg9
 Vpierre poulin
-p1072
+p1499
 sg11
 I0
 sg12
 VPierrePpoulin
-p1073
+p1500
 sg14
 g15
 sg16
 VThu Nov 06 01:48:20 +0000 2014
-p1074
+p1501
 sg18
 I0
 sg19
@@ -5123,8 +7170,8 @@ sg22
 I2
 sg23
 VPierre Poulin
-p1075
-sa(dp1076
+p1502
+sa(dp1503
 g2
 I61
 sg3
@@ -5133,22 +7180,22 @@ sg5
 I4
 sg6
 Vhttps://abs.twimg.com/sticky/default_profile_images/default_profile_6_400x400.png
-p1077
+p1504
 sg8
 L2174696460L
 sg9
 VPourang Irani
-p1078
+p1505
 sg11
 I0
 sg12
 VPourangIrani
-p1079
+p1506
 sg14
 g15
 sg16
 VMon Nov 04 20:24:16 +0000 2013
-p1080
+p1507
 sg18
 I32
 sg19
@@ -5159,8 +7206,46 @@ sg22
 I2
 sg23
 VPourang Irani
-p1081
-sa(dp1082
+p1508
+sa(dp1509
+g2
+I456
+sg3
+VDr Cole is a new, effective yet affordable range of skincare products designed to make life that little bit easier.
+p1510
+sg5
+I1115
+sg6
+Vhttps://pbs.twimg.com/profile_images/280164557/shutterstock_5865481_400x400.jpg
+p1511
+sg8
+I50302314
+sg9
+VDr Cole
+p1512
+sg11
+I2
+sg12
+VDr_Cole
+p1513
+sg14
+g15
+sg16
+VWed Jun 24 13:20:37 +0000 2009
+p1514
+sg18
+I652
+sg19
+I00
+sg20
+VManchester, England
+p1515
+sg22
+I1
+sg23
+S'Ray Cole'
+p1516
+sa(dp1517
 g2
 I19
 sg3
@@ -5169,24 +7254,24 @@ sg5
 I81
 sg6
 Vhttps://pbs.twimg.com/profile_images/525291586977267712/vXbsIMFP_400x400.jpeg
-p1083
+p1518
 sg8
 I215053616
 sg9
 VRegan Mandryk
-p1084
+p1519
 sg11
 I25
 sg12
 Vreganmandryk
-p1085
+p1520
 sg14
 g15
 sg16
 VFri Nov 12 21:57:08 +0000 2010
-p1086
+p1521
 sg18
-I93
+I97
 sg19
 I00
 sg20
@@ -5195,47 +7280,47 @@ sg22
 I2
 sg23
 VRegan Mandryk
-p1087
-sa(dp1088
+p1522
+sa(dp1523
 g2
-I327
+I329
 sg3
 VResearching and teaching the social consequences of new media - and having fun in the process.
-p1089
+p1524
 sg5
-I93
+I95
 sg6
 Vhttps://pbs.twimg.com/profile_images/1269155389/Rhona_McEwen_92_8x10-1_400x400.jpg
-p1090
+p1525
 sg8
 I39177183
 sg9
 VRhonda McEwen
-p1091
+p1526
 sg11
-I18
+I19
 sg12
 Vrhondamcewen
-p1092
+p1527
 sg14
 S'http://individual.utoronto.ca/rmcewen'
-p1093
+p1528
 sg16
 VMon May 11 03:00:53 +0000 2009
-p1094
+p1529
 sg18
-I605
+I609
 sg19
 I00
 sg20
 VCanada
-p1095
+p1530
 sg22
 I2
 sg23
 VRhonda Mcewen
-p1096
-sa(dp1097
+p1531
+sa(dp1532
 g2
 I11
 sg3
@@ -5244,24 +7329,24 @@ sg5
 I72
 sg6
 Vhttps://pbs.twimg.com/profile_images/1651477267/image_400x400.jpg
-p1098
+p1533
 sg8
 I28514910
 sg9
 VRick Kopak
-p1099
+p1534
 sg11
 I2
 sg12
 VFraaErasmus
-p1100
+p1535
 sg14
 g15
 sg16
 VFri Apr 03 06:06:12 +0000 2009
-p1101
+p1536
 sg18
-I7
+I8
 sg19
 I00
 sg20
@@ -5270,47 +7355,47 @@ sg22
 I2
 sg23
 VRick Kopak
-p1102
-sa(dp1103
+p1537
+sa(dp1538
 g2
 I59
 sg3
-VInteraction Design Researcher * Professor  Simon Fraser University at School of Interactive Arts & Technology * Co-Editor-in-Chief ACM interactions magazine
-p1104
+VInteraction Design Researcher * Professor, SIAT, Simon Fraser University * Professor, ID, TU/e * Co-Editor-in-Chief ACM interactions magazine
+p1539
 sg5
 I85
 sg6
 Vhttps://pbs.twimg.com/profile_images/2921600386/a418d16513b7df0218465064a3ae5033_400x400.jpeg
-p1105
+p1540
 sg8
 I981137582
 sg9
 VRon Wakkary
-p1106
+p1541
 sg11
-I8
+I9
 sg12
 Vronwakkary
-p1107
+p1542
 sg14
 S'http://www.sfu.ca/~rwakkary'
-p1108
+p1543
 sg16
 VFri Nov 30 20:06:11 +0000 2012
-p1109
+p1544
 sg18
-I134
+I142
 sg19
 I00
 sg20
 VVancouver, BC
-p1110
+p1545
 sg22
 I2
 sg23
 VRon Wakkary
-p1111
-sa(dp1112
+p1546
+sa(dp1547
 g2
 I20
 sg3
@@ -5319,22 +7404,22 @@ sg5
 I9
 sg6
 Vhttps://pbs.twimg.com/profile_images/104813933/repic_400x400.jpg
-p1113
+p1548
 sg8
 I25504204
 sg9
 VRoy Eagleson
-p1114
+p1549
 sg11
 I0
 sg12
 Vroyeagleson
-p1115
+p1550
 sg14
 g15
 sg16
 VFri Mar 20 13:41:43 +0000 2009
-p1116
+p1551
 sg18
 I17
 sg19
@@ -5345,162 +7430,198 @@ sg22
 I2
 sg23
 VRoy Eagleson
-p1117
-sa(dp1118
+p1552
+sa(dp1553
 g2
-I903
+I393
+sg3
+g50
+sg5
+I546
+sg6
+Vhttps://pbs.twimg.com/profile_images/2321700614/image_400x400.jpg
+p1554
+sg8
+I253265972
+sg9
+VRyan Hayward
+p1555
+sg11
+I15
+sg12
+Vryan__hayward
+p1556
+sg14
+g15
+sg16
+VWed Feb 16 22:09:50 +0000 2011
+p1557
+sg18
+I115
+sg19
+I00
+sg20
+g50
+sg22
+I2
+sg23
+VRyan Hayward
+p1558
+sa(dp1559
+g2
+I905
 sg3
 VBusiness Manager at @CANArtsConnect \u2022 Musician \u2022 Manager at @BakerStStation
-p1119
+p1560
 sg5
-I342
+I341
 sg6
 Vhttps://pbs.twimg.com/profile_images/3593816359/4bcaa866771f63de9efef6a930b12c01_400x400.jpeg
-p1120
+p1561
 sg8
 I24563750
 sg9
 VRyan Drew Hayward
-p1121
+p1562
 sg11
 I16
 sg12
 VRyanDrewHayward
-p1122
+p1563
 sg14
 S'http://RyanDrewHayward.tumblr.com/'
-p1123
+p1564
 sg16
 VSun Mar 15 18:37:35 +0000 2009
-p1124
+p1565
 sg18
 I238
 sg19
 I00
 sg20
 VToronto & Guelph, Canada
-p1125
+p1566
 sg22
 I1
 sg23
 S'Ryan Hayward'
-p1126
-sa(dp1127
+p1567
+sa(dp1568
 g2
-I1596
+I1598
 sg3
 VInterests include: #RedWings #NHL #GoT #CANADA #WillFerrell #Dinosaurs #Simpsons #Geography #Cookies #Tolkien #Splintercell #JamesBond
-p1128
+p1569
 sg5
 I110
 sg6
 Vhttps://pbs.twimg.com/profile_images/486703502995906560/7OMCPXKp_400x400.jpeg
-p1129
+p1570
 sg8
 I208098420
 sg9
 VSam Fisher
-p1130
+p1571
 sg11
-I165
+I170
 sg12
 VSamFisher19
-p1131
+p1572
 sg14
 g15
 sg16
 VTue Oct 26 16:41:38 +0000 2010
-p1132
+p1573
 sg18
 I74
 sg19
 I00
 sg20
 VMontreal
-p1133
+p1574
 sg22
 I2
 sg23
 VSam Fisher
-p1134
-sa(dp1135
+p1575
+sa(dp1576
 g2
-I3634
+I3877
 sg3
 VAssociate Professor at UWO FIMS and Law,  working at the intersection of information law & policy, librarianship and digital media.
-p1136
+p1577
 sg5
-I212
+I236
 sg6
 Vhttps://pbs.twimg.com/profile_images/1860248704/strosow_400x400.jpg
-p1137
+p1578
 sg8
 I494732315
 sg9
 VSamuel Trosow
-p1138
+p1579
 sg11
-I18
+I23
 sg12
 Vstrosow
-p1139
+p1580
 sg14
 S'http://samtrosow.wordpress.com'
-p1140
+p1581
 sg16
 VFri Feb 17 06:12:23 +0000 2012
-p1141
+p1582
 sg18
-I693
+I713
 sg19
 I00
 sg20
 VLondon, Ontario
-p1142
+p1583
 sg22
 I2
 sg23
 VSamuel Trosow
-p1143
-sa(dp1144
+p1584
+sa(dp1585
 g2
-I5609
+I5610
 sg3
 VAssociate Professor at the iSchool, University of Toronto, researching kids' digital culture, digital games, technology + play. Opinions expressed are my own.
-p1145
+p1586
 sg5
-I1657
+I1661
 sg6
 Vhttps://pbs.twimg.com/profile_images/3333849780/783f59b71effc819ed40efa5c70838f8_400x400.jpeg
-p1146
+p1587
 sg8
 I49084636
 sg9
 VSara M Grimes
-p1147
+p1588
 sg11
-I188
+I190
 sg12
 Vsmgrimes
-p1148
+p1589
 sg14
 S'http://gamineexpedition.blogspot.com/'
-p1149
+p1590
 sg16
 VSat Jun 20 19:00:39 +0000 2009
-p1150
+p1591
 sg18
-I2703
+I2712
 sg19
 I00
 sg20
 g50
 sg22
-I1
+I3
 sg23
 S'Sara Grimes'
-p1151
-sa(dp1152
+p1592
+sa(dp1593
 g2
 I0
 sg3
@@ -5509,24 +7630,24 @@ sg5
 I4
 sg6
 Vhttps://abs.twimg.com/sticky/default_profile_images/default_profile_5_400x400.png
-p1153
+p1594
 sg8
 L2422628017L
 sg9
 VSaul Greenberg
-p1154
+p1595
 sg11
 I0
 sg12
 VSaulGreenberg2
-p1155
+p1596
 sg14
 g15
 sg16
 VTue Apr 01 20:11:33 +0000 2014
-p1156
+p1597
 sg18
-I18
+I20
 sg19
 I00
 sg20
@@ -5535,83 +7656,86 @@ sg22
 I2
 sg23
 VSaul Greenberg
-p1157
-sa(dp1158
+p1598
+sa(dp1599
 g2
-I112
+I567
 sg3
-g50
+Vassistant professor at unb. researching human-computer interaction, collaborative and social computing, information seeking and visualization.
+p1600
 sg5
-I139
+I353
 sg6
-Vhttps://pbs.twimg.com/profile_images/3246319648/acd87bda52475fb55f533423eb1b099f_400x400.jpeg
-p1159
+Vhttps://pbs.twimg.com/profile_images/2912059996/bbe087cb91bd7c73249bd68ac1b25b66_400x400.png
+p1601
 sg8
-I22739189
+I14054890
 sg9
-VScott Bateman
-p1160
+Vscottbateman
+p1602
 sg11
-I4
+I148
 sg12
-Vsc70tt
-p1161
+Vscottbateman
+p1603
 sg14
-g15
+S'http://scottbateman.ca'
+p1604
 sg16
-VWed Mar 04 05:37:36 +0000 2009
-p1162
+VThu Feb 28 14:49:06 +0000 2008
+p1605
 sg18
-I7
+I333
 sg19
-I01
+I00
 sg20
-g50
+VFredericton, New Brunswick
+p1606
 sg22
-I2
+I3
 sg23
-VScott Bateman
-p1163
-sa(dp1164
+S'Scott Bateman'
+p1607
+sa(dp1608
 g2
 I107
 sg3
 VProfessor, partner, father, geek.
-p1165
+p1609
 sg5
 I80
 sg6
 Vhttps://pbs.twimg.com/profile_images/1750688253/Railroad_400x400.jpg
-p1166
+p1610
 sg8
 I462320341
 sg9
 VSean Gouglas
-p1167
+p1611
 sg11
 I12
 sg12
 VSeanGouglas
-p1168
+p1612
 sg14
 S'http://www.ualberta.ca/~sgouglas'
-p1169
+p1613
 sg16
 VThu Jan 12 20:43:02 +0000 2012
-p1170
+p1614
 sg18
 I146
 sg19
 I00
 sg20
 VEdmonton
-p1171
+p1615
 sg22
 I2
 sg23
 VSean Gouglas
-p1172
-sa(dp1173
+p1616
+sa(dp1617
 g2
 I6
 sg3
@@ -5620,22 +7744,22 @@ sg5
 I28
 sg6
 Vhttps://pbs.twimg.com/profile_images/378800000607967469/9e0da8fed73aad9ee8218d075acfe4f9_400x400.jpeg
-p1174
+p1618
 sg8
 I398803128
 sg9
 VSharla King
-p1175
+p1619
 sg11
 I1
 sg12
 VSharlaKing
-p1176
+p1620
 sg14
 g15
 sg16
 VWed Oct 26 15:28:33 +0000 2011
-p1177
+p1621
 sg18
 I40
 sg19
@@ -5646,33 +7770,33 @@ sg22
 I2
 sg23
 VSharla King
-p1178
-sa(dp1179
+p1622
+sa(dp1623
 g2
 I790
 sg3
 VLivin the dream, without all that success and money getting in my way
-p1180
+p1624
 sg5
 I310
 sg6
 Vhttps://pbs.twimg.com/profile_images/3318028920/66f6fc744e39caf8a07a5b4747c876b1_400x400.jpeg
-p1181
+p1625
 sg8
 I306942768
 sg9
 VStacey Scott
-p1182
+p1626
 sg11
 I15
 sg12
 Vstaceyscott17
-p1183
+p1627
 sg14
 g15
 sg16
 VSat May 28 18:31:47 +0000 2011
-p1184
+p1628
 sg18
 I71
 sg19
@@ -5683,34 +7807,35 @@ sg22
 I2
 sg23
 VStacey Scott
-p1185
-sa(dp1186
+p1629
+sa(dp1630
 g2
-I3
+I1882
 sg3
-g50
+VThere is always a lighthouse ...\u000a\u000aAll opinions my own not those of employers (except by coincidence).
+p1631
 sg5
-I5
+I161
 sg6
-Vhttps://abs.twimg.com/sticky/default_profile_images/default_profile_0_400x400.png
-p1187
+Vhttps://pbs.twimg.com/profile_images/500268094724399104/0D19WLly_400x400.jpeg
+p1632
 sg8
-I534559256
+I17903233
 sg9
 VStephen Brooks
-p1188
+p1633
 sg11
-I0
+I38
 sg12
-VStephenBrooks17
-p1189
+Vstephenmbrooks
+p1634
 sg14
 g15
 sg16
-VFri Mar 23 17:54:25 +0000 2012
-p1190
+VFri Dec 05 17:58:58 +0000 2008
+p1635
 sg18
-I0
+I74
 sg19
 I00
 sg20
@@ -5719,74 +7844,265 @@ sg22
 I2
 sg23
 VStephen Brooks
-p1191
-sa(dp1192
+p1636
+sa(dp1637
+g2
+I128
+sg3
+VI'm a Records Manager dealing with documents and records at all points of their life cycle
+p1638
+sg5
+I84
+sg6
+Vhttps://pbs.twimg.com/profile_images/2830668937/1ee1f15f1fed7e6379d3fdbc086db398_400x400.jpeg
+p1639
+sg8
+I444617198
+sg9
+VStephen Brooks
+p1640
+sg11
+I0
+sg12
+VStephen_Brooks_
+p1641
+sg14
+g15
+sg16
+VFri Dec 23 13:02:36 +0000 2011
+p1642
+sg18
+I44
+sg19
+I00
+sg20
+VLancashire
+p1643
+sg22
+I2
+sg23
+VStephen Brooks
+p1644
+sa(dp1645
 g2
 I132
 sg3
 VAuthor, Visualizing #ClimateChange, guide to visually communicating local climate change/solutions. UBC prof, CALP Director, research+outreach lowcarbon future.
-p1193
+p1646
 sg5
 I107
 sg6
 Vhttps://pbs.twimg.com/profile_images/416762713226760192/ZMc144Do_400x400.jpeg
-p1194
+p1647
 sg8
 L2176322215L
 sg9
 VStephen Sheppard
-p1195
+p1648
 sg11
 I26
 sg12
 VVisualizingCC
-p1196
+p1649
 sg14
 S'http://visualizingclimatechange.ca'
-p1197
+p1650
 sg16
 VTue Nov 05 15:44:41 +0000 2013
-p1198
+p1651
 sg18
-I149
+I148
 sg19
 I00
 sg20
 VCanada
-p1199
+p1652
 sg22
 I2
 sg23
 VStephen Sheppard
-p1200
-sa(dp1201
+p1653
+sa(dp1654
 g2
-I573
+I151162
+sg3
+VI love my God, my family,country music, football, hockey, babies, puppies, rabbits. I like good friends & good food. Enjoy having fun and being creative
+p1655
+sg5
+I676
+sg6
+Vhttps://pbs.twimg.com/profile_images/535592535511408640/1F4pmRvA_400x400.jpeg
+p1656
+sg8
+I67171090
+sg9
+VSusan Brown
+p1657
+sg11
+I10126
+sg12
+VOkTykester
+p1658
+sg14
+g15
+sg16
+VThu Aug 20 00:16:35 +0000 2009
+p1659
+sg18
+I729
+sg19
+I00
+sg20
+VFlorida
+p1660
+sg22
+I2
+sg23
+VSusan Brown
+p1661
+sa(dp1662
+g2
+I11
+sg3
+VI'm a mom. a wife.\u000aLove being me.\u000a\u000aThanks for checking me out. I hope my Krazy Karfting ideas are of interest to you, share your story, too...
+p1663
+sg5
+I872
+sg6
+Vhttps://pbs.twimg.com/profile_images/1196753560/suz_brown_400x400.jpg
+p1664
+sg8
+I229655372
+sg9
+VSusan Brown
+p1665
+sg11
+I0
+sg12
+Vsuz_brown
+p1666
+sg14
+S'http://www.CraftingSecrets.com'
+p1667
+sg16
+VThu Dec 23 00:04:46 +0000 2010
+p1668
+sg18
+I683
+sg19
+I00
+sg20
+VGreenville, SC
+p1669
+sg22
+I2
+sg23
+VSusan Brown
+p1670
+sa(dp1671
+g2
+I33
+sg3
+g50
+sg5
+I255
+sg6
+Vhttps://pbs.twimg.com/profile_images/512051921889538048/ZaYFh9su_400x400.jpeg
+p1672
+sg8
+I397475506
+sg9
+Vsusan brown
+p1673
+sg11
+I1
+sg12
+VSusieEliza
+p1674
+sg14
+g15
+sg16
+VMon Oct 24 18:55:56 +0000 2011
+p1675
+sg18
+I25
+sg19
+I00
+sg20
+Vcloud nine
+p1676
+sg22
+I2
+sg23
+VSusan Brown
+p1677
+sa(dp1678
+g2
+I351
+sg3
+VFree Lead Scraper Creates Cash...
+p1679
+sg5
+I1878
+sg6
+Vhttps://pbs.twimg.com/profile_images/455992581/redhairgirl_400x400.jpg
+p1680
+sg8
+I80210205
+sg9
+VSusan Brown
+p1681
+sg11
+I2
+sg12
+Vredheadsuz
+p1682
+sg14
+S'http://is.gd/FMs72d'
+p1683
+sg16
+VTue Oct 06 04:02:48 +0000 2009
+p1684
+sg18
+I1504
+sg19
+I00
+sg20
+VHome working
+p1685
+sg22
+I2
+sg23
+VSusan Brown
+p1686
+sa(dp1687
+g2
+I595
 sg3
 VNurse, Manager, Mother, Very proud grandmother
-p1202
+p1688
 sg5
-I112
+I113
 sg6
 Vhttps://pbs.twimg.com/profile_images/544280775361720320/vqWa4x2X_400x400.jpeg
-p1203
+p1689
 sg8
 I715231904
 sg9
 VSusan Brown
-p1204
+p1690
 sg11
-I81
+I89
 sg12
 VSusanBr14882279
-p1205
+p1691
 sg14
 g15
 sg16
 VWed Jul 25 01:16:38 +0000 2012
-p1206
+p1692
 sg18
-I37
+I41
 sg19
 I00
 sg20
@@ -5795,147 +8111,70 @@ sg22
 I2
 sg23
 VSusan Brown
-p1207
-sa(dp1208
-g2
-I351
-sg3
-VFree Lead Scraper Creates Cash...
-p1209
-sg5
-I1879
-sg6
-Vhttps://pbs.twimg.com/profile_images/455992581/redhairgirl_400x400.jpg
-p1210
-sg8
-I80210205
-sg9
-VSusan Brown
-p1211
-sg11
-I2
-sg12
-Vredheadsuz
-p1212
-sg14
-S'http://is.gd/FMs72d'
-p1213
-sg16
-VTue Oct 06 04:02:48 +0000 2009
-p1214
-sg18
-I1510
-sg19
-I00
-sg20
-VHome working
-p1215
-sg22
-I2
-sg23
-VSusan Brown
-p1216
-sa(dp1217
+p1693
+sa(dp1694
 g2
 I89
 sg3
 VDigital artist, creative director, troubleshooter, Mac techie
-p1218
+p1695
 sg5
 I107
 sg6
 Vhttps://pbs.twimg.com/profile_images/65508190/SHBtwitterSQ4_400x400.png
-p1219
+p1696
 sg8
 I17408813
 sg9
 VSusan Brown
-p1220
+p1697
 sg11
 I68
 sg12
 Vby_susanbrown
-p1221
+p1698
 sg14
 g15
 sg16
 VSat Nov 15 15:43:35 +0000 2008
-p1222
+p1699
 sg18
 I41
 sg19
 I00
 sg20
 VTexas
-p1223
+p1700
 sg22
 I2
 sg23
 VSusan Brown
-p1224
-sa(dp1225
+p1701
+sa(dp1702
 g2
-I525
-sg3
-VU of Guelph & U of Alberta; Direct Orlando http://t.co/EHGKo1EkOj; Lead CWRC http://t.co/oxzdtXwx2e; Co-president CSDH/SCHN http://t.co/MwDtRPFpxi.
-p1226
-sg5
-I620
-sg6
-Vhttps://pbs.twimg.com/profile_images/1409775849/Susan-Brown-cropped_400x400.jpg
-p1227
-sg8
-I50022680
-sg9
-VSusan Brown
-p1228
-sg11
-I157
-sg12
-Vsusanirenebrown
-p1229
-sg14
-g15
-sg16
-VTue Jun 23 16:27:48 +0000 2009
-p1230
-sg18
-I794
-sg19
-I00
-sg20
-VU of Guelph, U of Alberta
-p1231
-sg22
-I2
-sg23
-VSusan Brown
-p1232
-sa(dp1233
-g2
-I5096
+I5106
 sg3
 g50
 sg5
 I324
 sg6
 Vhttps://pbs.twimg.com/profile_images/412493012858454016/65zXUZEM_400x400.jpeg
-p1234
+p1703
 sg8
 I61804360
 sg9
 VSusan Brown
-p1235
+p1704
 sg11
-I2827
+I2831
 sg12
 VSeahawksrock
-p1236
+p1705
 sg14
 g15
 sg16
 VFri Jul 31 16:06:48 +0000 2009
-p1237
+p1706
 sg18
 I131
 sg19
@@ -5946,188 +8185,143 @@ sg22
 I2
 sg23
 VSusan Brown
-p1238
-sa(dp1239
+p1707
+sa(dp1708
 g2
-I33
+I141
 sg3
 g50
 sg5
-I257
+I158
 sg6
-Vhttps://pbs.twimg.com/profile_images/512051921889538048/ZaYFh9su_400x400.jpeg
-p1240
+Vhttps://pbs.twimg.com/profile_images/530130608195129344/Iz9UhcY0_400x400.jpeg
+p1709
 sg8
-I397475506
+I1479521858
 sg9
-Vsusan brown
-p1241
+VSusan Brown
+p1710
 sg11
-I1
+I12
 sg12
-VSusieEliza
-p1242
+Vsubrown4h
+p1711
 sg14
 g15
 sg16
-VMon Oct 24 18:55:56 +0000 2011
-p1243
+VMon Jun 03 11:47:37 +0000 2013
+p1712
 sg18
-I25
+I102
 sg19
 I00
 sg20
-Vcloud nine
-p1244
+g50
 sg22
 I2
 sg23
 VSusan Brown
-p1245
-sa(dp1246
+p1713
+sa(dp1714
 g2
-I276
+I129
 sg3
-VLaughter yoga teacher, self-help coach, teacher, tour guide, 60 something madwoman with 3 beautiful daughters and many wonderful friends throughout the world.
-p1247
+g50
 sg5
-I1792
+I163
 sg6
-Vhttps://pbs.twimg.com/profile_images/517703940/susan-at-home_400x400.jpg
-p1248
+Vhttps://pbs.twimg.com/profile_images/378800000173933250/537d68dbc0991a717407f0de1c5b9616_400x400.jpeg
+p1715
 sg8
-I8136282
+I316832424
 sg9
-VSusan Brown
-p1249
+Vsusan brown
+p1716
 sg11
-I5
+I1
 sg12
-Vletslaugh
-p1250
+Vsusanbunnies
+p1717
 sg14
-S'http://letslaugh.net/'
-p1251
+g15
 sg16
-VSun Aug 12 07:23:23 +0000 2007
-p1252
+VTue Jun 14 01:22:13 +0000 2011
+p1718
 sg18
-I1304
+I70
 sg19
 I00
 sg20
-VSunshine Coast, Australia.
-p1253
+g50
 sg22
 I2
 sg23
 VSusan Brown
-p1254
-sa(dp1255
+p1719
+sa(dp1720
 g2
-I2141
+I261
 sg3
-VCertified life/career coach specializing in maximizing work and life satisfaction..
-p1256
+g50
 sg5
-I1378
+I93
 sg6
-Vhttps://pbs.twimg.com/profile_images/378800000602085853/f4ea8347da6305e9b1c08a8ccf40011a_400x400.png
-p1257
+Vhttps://pbs.twimg.com/profile_images/378800000324797165/4a47f9b6a61c4651468ede3b5f65d3af_400x400.jpeg
+p1721
 sg8
-I24728793
+I118430920
 sg9
-VSusan Brown
-p1258
+VSusan M. Brown
+p1722
 sg11
-I37
+I6
 sg12
-Vsusan_brown
-p1259
+Vsusanmariebrown
+p1723
 sg14
-S'http://impactcoaching423.com'
-p1260
+g15
 sg16
-VMon Mar 16 17:20:29 +0000 2009
-p1261
+VSun Feb 28 17:31:57 +0000 2010
+p1724
 sg18
-I1443
+I33
 sg19
 I00
 sg20
-VAtlanta, Georgia
-p1262
+VÜT: 53.201944,-105.724441
+p1725
 sg22
-I2
+I1
 sg23
-VSusan Brown
-p1263
-sa(dp1264
-g2
-I779
-sg3
-VLiving and working in the Highlands of Scotland - beautiful place and people! Church of Scotland minister: Dornoch Cathedral
-p1265
-sg5
-I138
-sg6
-Vhttps://pbs.twimg.com/profile_images/408383457/twitterProfilePhoto_400x400.jpg
-p1266
-sg8
-I21386232
-sg9
-VSusan Brown
-p1267
-sg11
-I7
-sg12
-VVicarofDornoch
-p1268
-sg14
-S'http://www.dornoch-cathedral.com'
-p1269
-sg16
-VFri Feb 20 09:42:48 +0000 2009
-p1270
-sg18
-I278
-sg19
-I00
-sg20
-VDornoch, Highlands of Scotland
-p1271
-sg22
-I2
-sg23
-VSusan Brown
-p1272
-sa(dp1273
+S'Susan Brown'
+p1726
+sa(dp1727
 g2
 I562
 sg3
 g50
 sg5
-I1128
+I1129
 sg6
 Vhttps://pbs.twimg.com/profile_images/1779948953/image_400x400.jpg
-p1274
+p1728
 sg8
 I27310578
 sg9
 VSUSAN BROWN
-p1275
+p1729
 sg11
 I167
 sg12
 VLive4Jesusan
-p1276
+p1730
 sg14
 g15
 sg16
 VSat Mar 28 21:18:03 +0000 2009
-p1277
+p1731
 sg18
-I201
+I209
 sg19
 I00
 sg20
@@ -6136,187 +8330,301 @@ sg22
 I2
 sg23
 VSusan Brown
-p1278
-sa(dp1279
-g2
-I11
-sg3
-VI'm a mom. a wife.\u000aLove being me.\u000a\u000aThanks for checking me out. I hope my Krazy Karfting ideas are of interest to you, share your story, too...
-p1280
-sg5
-I872
-sg6
-Vhttps://pbs.twimg.com/profile_images/1196753560/suz_brown_400x400.jpg
-p1281
-sg8
-I229655372
-sg9
-VSusan Brown
-p1282
-sg11
-I0
-sg12
-Vsuz_brown
-p1283
-sg14
-S'http://www.CraftingSecrets.com'
-p1284
-sg16
-VThu Dec 23 00:04:46 +0000 2010
-p1285
-sg18
-I683
-sg19
-I00
-sg20
-VGreenville, SC
-p1286
-sg22
-I2
-sg23
-VSusan Brown
-p1287
-sa(dp1288
-g2
-I1468
-sg3
-VFounding member of the KaBooM Writing Collective; religion teacher; exploring the places where art and spirit meet
-p1289
-sg5
-I1257
-sg6
-Vhttps://pbs.twimg.com/profile_images/440035653/cropped_scb_5-21-04__2__400x400.jpg
-p1290
-sg8
-I77887327
-sg9
-VSusan C Brown
-p1291
-sg11
-I27
-sg12
-Vscbwrites
-p1292
-sg14
-S'http://mildlymystical.com/'
-p1293
-sg16
-VMon Sep 28 01:23:12 +0000 2009
-p1294
-sg18
-I653
-sg19
-I00
-sg20
-VLexington, Kentucky, USA
-p1295
-sg22
-I1
-sg23
-S'Susan Brown'
-p1296
-sa(dp1297
+p1732
+sa(dp1733
 g2
 I21
 sg3
 Vheart for social justice, musician, artist, deep thinker
-p1298
+p1734
 sg5
 I11
 sg6
 Vhttps://pbs.twimg.com/profile_images/285137152/Photo_42_400x400.jpg
-p1299
+p1735
 sg8
 I51284289
 sg9
 VSusan E. Brown
-p1300
+p1736
 sg11
 I2
 sg12
 VSuziBAcoustic
-p1301
+p1737
 sg14
 g15
 sg16
 VSat Jun 27 00:10:34 +0000 2009
-p1302
+p1738
 sg18
 I18
 sg19
 I00
 sg20
 VAll over the place!
-p1303
+p1739
 sg22
 I1
 sg23
 S'Susan Brown'
-p1304
-sa(dp1305
+p1740
+sa(dp1741
 g2
-I3458
+I3469
 sg3
 VProud mother of 3 great children and 1 GRANDson and  1 GRANDdaughter . Passion:  Designer/Decorator and Project Management
-p1306
+p1742
 sg5
-I1028
+I1030
 sg6
 Vhttps://pbs.twimg.com/profile_images/378800000044067580/cf3021b7e8f838cbcf58d8f9239feb95_400x400.jpeg
-p1307
+p1743
 sg8
 I43743523
 sg9
 VSusan Brown
-p1308
+p1744
 sg11
 I2
 sg12
 VDeeStager
-p1309
+p1745
 sg14
 S'http://ahouzbecomesahome.blogspot.com/'
-p1310
+p1746
 sg16
 VSun May 31 19:52:11 +0000 2009
-p1311
+p1747
 sg18
-I468
+I470
 sg19
 I00
 sg20
 VNorth Carolina
-p1312
+p1748
 sg22
 I2
 sg23
 VSusan Brown
-p1313
-sa(dp1314
+p1749
+sa(dp1750
+g2
+I1473
+sg3
+VFounding member of the KaBooM Writing Collective; religion teacher; exploring the places where art and spirit meet
+p1751
+sg5
+I1258
+sg6
+Vhttps://pbs.twimg.com/profile_images/440035653/cropped_scb_5-21-04__2__400x400.jpg
+p1752
+sg8
+I77887327
+sg9
+VSusan C Brown
+p1753
+sg11
+I28
+sg12
+Vscbwrites
+p1754
+sg14
+S'http://mildlymystical.com/'
+p1755
+sg16
+VMon Sep 28 01:23:12 +0000 2009
+p1756
+sg18
+I658
+sg19
+I00
+sg20
+VLexington, Kentucky, USA
+p1757
+sg22
+I1
+sg23
+S'Susan Brown'
+p1758
+sa(dp1759
+g2
+I2148
+sg3
+VCertified life/career coach specializing in maximizing work and life satisfaction..
+p1760
+sg5
+I1377
+sg6
+Vhttps://pbs.twimg.com/profile_images/378800000602085853/f4ea8347da6305e9b1c08a8ccf40011a_400x400.png
+p1761
+sg8
+I24728793
+sg9
+VSusan Brown
+p1762
+sg11
+I37
+sg12
+Vsusan_brown
+p1763
+sg14
+S'http://impactcoaching423.com'
+p1764
+sg16
+VMon Mar 16 17:20:29 +0000 2009
+p1765
+sg18
+I1441
+sg19
+I00
+sg20
+VAtlanta, Georgia
+p1766
+sg22
+I2
+sg23
+VSusan Brown
+p1767
+sa(dp1768
+g2
+I974
+sg3
+VHistorian, Prof. Researching 18thC London theatre history Exploring local food, music & art
+p1769
+sg5
+I201
+sg6
+Vhttps://pbs.twimg.com/profile_images/1573982822/Rowlandson-Drury-Lane-audience-1785_crop_400x400.jpg
+p1770
+sg8
+I335982046
+sg9
+VSusan Brown
+p1771
+sg11
+I516
+sg12
+VSuebrownpei
+p1772
+sg14
+g15
+sg16
+VFri Jul 15 15:19:32 +0000 2011
+p1773
+sg18
+I151
+sg19
+I00
+sg20
+VCharlottetown, PEI, Canada
+p1774
+sg22
+I2
+sg23
+VSusan Brown
+p1775
+sa(dp1776
+g2
+I276
+sg3
+VLaughter yoga teacher, self-help coach, teacher, tour guide, 60 something madwoman with 3 beautiful daughters and many wonderful friends throughout the world.
+p1777
+sg5
+I1788
+sg6
+Vhttps://pbs.twimg.com/profile_images/517703940/susan-at-home_400x400.jpg
+p1778
+sg8
+I8136282
+sg9
+VSusan Brown
+p1779
+sg11
+I5
+sg12
+Vletslaugh
+p1780
+sg14
+S'http://letslaugh.net/'
+p1781
+sg16
+VSun Aug 12 07:23:23 +0000 2007
+p1782
+sg18
+I1303
+sg19
+I00
+sg20
+VSunshine Coast, Australia.
+p1783
+sg22
+I2
+sg23
+VSusan Brown
+p1784
+sa(dp1785
+g2
+I26
+sg3
+g50
+sg5
+I13
+sg6
+Vhttps://pbs.twimg.com/profile_images/2634225889/5cd7947aea87b26447bc52c642f1b8d2_400x400.jpeg
+p1786
+sg8
+I246737550
+sg9
+VSusan Brown
+p1787
+sg11
+I0
+sg12
+Vblendingtolearn
+p1788
+sg14
+S'http://nasusnworb.com'
+p1789
+sg16
+VThu Feb 03 11:05:16 +0000 2011
+p1790
+sg18
+I60
+sg19
+I00
+sg20
+g50
+sg22
+I2
+sg23
+VSusan Brown
+p1791
+sa(dp1792
 g2
 I156
 sg3
 g50
 sg5
-I464
+I467
 sg6
 Vhttps://pbs.twimg.com/profile_images/620563713549053952/dgDkqybp_400x400.jpg
-p1315
+p1793
 sg8
 I40324577
 sg9
 Vsusan brown
-p1316
+p1794
 sg11
 I2
 sg12
 Vcreakings
-p1317
+p1795
 sg14
 g15
 sg16
 VFri May 15 20:24:25 +0000 2009
-p1318
+p1796
 sg18
 I83
 sg19
@@ -6327,157 +8635,85 @@ sg22
 I2
 sg23
 VSusan Brown
-p1319
-sa(dp1320
+p1797
+sa(dp1798
 g2
-I261
+I780
 sg3
-g50
+VLiving and working in the Highlands of Scotland - beautiful place and people! Church of Scotland minister: Dornoch Cathedral
+p1799
 sg5
-I93
+I138
 sg6
-Vhttps://pbs.twimg.com/profile_images/378800000324797165/4a47f9b6a61c4651468ede3b5f65d3af_400x400.jpeg
-p1321
+Vhttps://pbs.twimg.com/profile_images/408383457/twitterProfilePhoto_400x400.jpg
+p1800
 sg8
-I118430920
-sg9
-VSusan M. Brown
-p1322
-sg11
-I6
-sg12
-Vsusanmariebrown
-p1323
-sg14
-g15
-sg16
-VSun Feb 28 17:31:57 +0000 2010
-p1324
-sg18
-I33
-sg19
-I00
-sg20
-VÜT: 53.201944,-105.724441
-p1325
-sg22
-I1
-sg23
-S'Susan Brown'
-p1326
-sa(dp1327
-g2
-I150667
-sg3
-VI love my God, my family,country music, football, hockey, babies, puppies, rabbits. I like good friends & good food. Enjoy having fun and being creative
-p1328
-sg5
-I674
-sg6
-Vhttps://pbs.twimg.com/profile_images/535592535511408640/1F4pmRvA_400x400.jpeg
-p1329
-sg8
-I67171090
+I21386232
 sg9
 VSusan Brown
-p1330
+p1801
 sg11
-I10116
+I7
 sg12
-VOkTykester
-p1331
+VVicarofDornoch
+p1802
 sg14
-g15
+S'http://www.dornoch-cathedral.com'
+p1803
 sg16
-VThu Aug 20 00:16:35 +0000 2009
-p1332
+VFri Feb 20 09:42:48 +0000 2009
+p1804
 sg18
-I721
+I283
 sg19
 I00
 sg20
-VFlorida
-p1333
+VDornoch, Highlands of Scotland
+p1805
 sg22
 I2
 sg23
 VSusan Brown
-p1334
-sa(dp1335
+p1806
+sa(dp1807
 g2
-I130
+I529
 sg3
-g50
+VU of Guelph & U of Alberta; Direct Orlando http://t.co/EHGKo1EkOj; Lead CWRC http://t.co/oxzdtXwx2e; Co-president CSDH/SCHN http://t.co/MwDtRPFpxi.
+p1808
 sg5
-I164
+I624
 sg6
-Vhttps://pbs.twimg.com/profile_images/378800000173933250/537d68dbc0991a717407f0de1c5b9616_400x400.jpeg
-p1336
+Vhttps://pbs.twimg.com/profile_images/1409775849/Susan-Brown-cropped_400x400.jpg
+p1809
 sg8
-I316832424
+I50022680
 sg9
-Vsusan brown
-p1337
+VSusan Brown
+p1810
 sg11
-I1
+I157
 sg12
-Vsusanbunnies
-p1338
+Vsusanirenebrown
+p1811
 sg14
 g15
 sg16
-VTue Jun 14 01:22:13 +0000 2011
-p1339
+VTue Jun 23 16:27:48 +0000 2009
+p1812
 sg18
-I72
+I800
 sg19
 I00
 sg20
-g50
+VU of Guelph, U of Alberta
+p1813
 sg22
 I2
 sg23
 VSusan Brown
-p1340
-sa(dp1341
-g2
-I1575
-sg3
-VWhat is not to enjoy!. Research analyst, retired, and looking forward to the summer!
-p1342
-sg5
-I708
-sg6
-Vhttps://pbs.twimg.com/profile_images/3566016390/31453590ba6c45ef2cb281106ab4c724_400x400.jpeg
-p1343
-sg8
-I426115227
-sg9
-VTerry Peters
-p1344
-sg11
-I1759
-sg12
-V1_more_thought
-p1345
-sg14
-g15
-sg16
-VThu Dec 01 21:20:37 +0000 2011
-p1346
-sg18
-I223
-sg19
-I00
-sg20
-Vtoronto
-p1347
-sg22
-I2
-sg23
-VTerry Peters
-p1348
-sa(dp1349
+p1814
+sa(dp1815
 g2
 I1
 sg3
@@ -6486,22 +8722,22 @@ sg5
 I4
 sg6
 Vhttps://pbs.twimg.com/profile_images/525410031987343363/ydNJz1YW_400x400.jpeg
-p1350
+p1816
 sg8
 L2874067650L
 sg9
 VTerry Peters
-p1351
+p1817
 sg11
 I0
 sg12
 VTerrypetersnz
-p1352
+p1818
 sg14
 g15
 sg16
 VThu Oct 23 22:07:33 +0000 2014
-p1353
+p1819
 sg18
 I1
 sg19
@@ -6512,117 +8748,8 @@ sg22
 I2
 sg23
 VTerry Peters
-p1354
-sa(dp1355
-g2
-I1
-sg3
-g50
-sg5
-I1
-sg6
-Vhttps://abs.twimg.com/sticky/default_profile_images/default_profile_3_400x400.png
-p1356
-sg8
-I146657115
-sg9
-VTom Calvert
-p1357
-sg11
-I0
-sg12
-Vcalverttom
-p1358
-sg14
-g15
-sg16
-VSat May 22 01:05:19 +0000 2010
-p1359
-sg18
-I12
-sg19
-I00
-sg20
-g50
-sg22
-I2
-sg23
-VTom Calvert
-p1360
-sa(dp1361
-g2
-I20
-sg3
-Vi dont use twitter
-p1362
-sg5
-I135
-sg6
-Vhttps://pbs.twimg.com/profile_images/550767627811819521/EzSUGogC_400x400.jpeg
-p1363
-sg8
-L2955309367L
-sg9
-VTony Tang
-p1364
-sg11
-I34
-sg12
-Vtony_tang3
-p1365
-sg14
-g15
-sg16
-VThu Jan 01 21:29:19 +0000 2015
-p1366
-sg18
-I17
-sg19
-I01
-sg20
-g50
-sg22
-I2
-sg23
-VTony Tang
-p1367
-sa(dp1368
-g2
-I0
-sg3
-g50
-sg5
-I4
-sg6
-Vhttps://abs.twimg.com/sticky/default_profile_images/default_profile_1_400x400.png
-p1369
-sg8
-I446439554
-sg9
-VTony Tang
-p1370
-sg11
-I0
-sg12
-Vttang2013
-p1371
-sg14
-g15
-sg16
-VSun Dec 25 18:37:19 +0000 2011
-p1372
-sg18
-I37
-sg19
-I00
-sg20
-g50
-sg22
-I2
-sg23
-VTony Tang
-p1373
-sa(dp1374
+p1820
+sa(dp1821
 g2
 I0
 sg3
@@ -6631,22 +8758,22 @@ sg5
 I44
 sg6
 Vhttps://abs.twimg.com/sticky/default_profile_images/default_profile_0_400x400.png
-p1375
+p1822
 sg8
 L2827174637L
 sg9
 Vtony tang
-p1376
+p1823
 sg11
 I0
 sg12
 V13424284495Tony
-p1377
+p1824
 sg14
 g15
 sg16
 VMon Oct 13 09:54:50 +0000 2014
-p1378
+p1825
 sg18
 I1
 sg19
@@ -6657,159 +8784,45 @@ sg22
 I2
 sg23
 VTony Tang
-p1379
-sa(dp1380
+p1826
+sa(dp1827
 g2
-I32
+I3620
 sg3
-Vthere's always more to learn
-p1381
+VHCI Geek
+p1828
 sg5
-I72
+I253
 sg6
-Vhttps://pbs.twimg.com/profile_images/504031550254497793/yvAB5qWl_400x400.jpeg
-p1382
+Vhttps://pbs.twimg.com/profile_images/24572712/tony-thumbnail_400x400.jpg
+p1829
 sg8
-I1614316658
+I5661002
 sg9
-VTony Tang
-p1383
+VTony
+p1830
 sg11
+I215
+sg12
+Vproclubboy
+p1831
+sg14
+g15
+sg16
+VMon Apr 30 17:39:10 +0000 2007
+p1832
+sg18
+I298
+sg19
+I00
+sg20
+g50
+sg22
 I3
-sg12
-VTonyTanger
-p1384
-sg14
-S'http://www.tonyt.me'
-p1385
-sg16
-VTue Jul 23 03:58:28 +0000 2013
-p1386
-sg18
-I19
-sg19
-I00
-sg20
-VToronto
-p1387
-sg22
-I2
 sg23
-VTony Tang
-p1388
-sa(dp1389
-g2
-I932
-sg3
-VPerformance Marketer - User Acquisition for Affiliates @gameofwar @machinezone. Coffee Drinker, Travel, Techie, Torontonian turned San Franciscan.
-p1390
-sg5
-I1217
-sg6
-Vhttps://pbs.twimg.com/profile_images/3440383104/07cf17b51f91936e055e53fad2b6c3c6_400x400.jpeg
-p1391
-sg8
-I276042474
-sg9
-VTony Tang
-p1392
-sg11
-I25
-sg12
-Vtonytang15
-p1393
-sg14
-S'http://www.linkedin.com/in/tonytang15'
-p1394
-sg16
-VSat Apr 02 14:42:02 +0000 2011
-p1395
-sg18
-I546
-sg19
-I00
-sg20
-VSan Francisco, California, USA
-p1396
-sg22
-I2
-sg23
-VTony Tang
-p1397
-sa(dp1398
-g2
-I55
-sg3
-g50
-sg5
-I46
-sg6
-Vhttps://pbs.twimg.com/profile_images/585490922630160385/faaMpnmx_400x400.jpg
-p1399
-sg8
-I206520866
-sg9
-VTony Tang
-p1400
-sg11
-I8
-sg12
-VMisterTaro
-p1401
-sg14
-g15
-sg16
-VSat Oct 23 03:56:28 +0000 2010
-p1402
-sg18
-I13
-sg19
-I01
-sg20
-VToronto, Can
-p1403
-sg22
-I2
-sg23
-VTony Tang
-p1404
-sa(dp1405
-g2
-I0
-sg3
-g50
-sg5
-I49
-sg6
-Vhttps://pbs.twimg.com/profile_images/498689391846776832/1qEPxsZu_400x400.jpeg
-p1406
-sg8
-L2307953058L
-sg9
-VTony Tang
-p1407
-sg11
-I1
-sg12
-VT_TRhyme
-p1408
-sg14
-g15
-sg16
-VFri Jan 24 08:02:39 +0000 2014
-p1409
-sg18
-I9
-sg19
-I00
-sg20
-g50
-sg22
-I2
-sg23
-VTony Tang
-p1410
-sa(dp1411
+S'Tony Tang'
+p1833
+sa(dp1834
 g2
 I0
 sg3
@@ -6818,22 +8831,22 @@ sg5
 I4
 sg6
 Vhttps://abs.twimg.com/sticky/default_profile_images/default_profile_2_400x400.png
-p1412
+p1835
 sg8
 I1011597638
 sg9
 VValerie Steeves
-p1413
+p1836
 sg11
 I0
 sg12
 VValSteeves
-p1414
+p1837
 sg14
 g15
 sg16
 VFri Dec 14 17:33:16 +0000 2012
-p1415
+p1838
 sg18
 I19
 sg19
@@ -6844,155 +8857,193 @@ sg22
 I2
 sg23
 VValerie Steeves
-p1416
-sa(dp1417
+p1839
+sa(dp1840
 g2
-I56
+I432
+sg3
+VAssociate Prof. at Faculty of Information and Media Studies, University of Western Ontario. Director of the Language and Information Technology Lab.
+p1841
+sg5
+I109
+sg6
+Vhttps://pbs.twimg.com/profile_images/1663020615/VRubin_WesternNews_400x400.jpg
+p1842
+sg8
+I423704116
+sg9
+VVictoria
+p1843
+sg11
+I3
+sg12
+VVictoriaRubin
+p1844
+sg14
+S'http://publish.uwo.ca/~vrubin'
+p1845
+sg16
+VMon Nov 28 20:52:27 +0000 2011
+p1846
+sg18
+I121
+sg19
+I00
+sg20
+g50
+sg22
+I3
+sg23
+S'Victoria Rubin'
+p1847
+sa(dp1848
+g2
+I61
 sg3
 g50
 sg5
-I136
+I146
 sg6
 Vhttps://pbs.twimg.com/profile_images/504511082795630592/x-0zVNas_400x400.jpeg
-p1418
+p1849
 sg8
 I457876787
 sg9
 VWendy Adams
-p1419
+p1850
 sg11
-I84
+I96
 sg12
 Vwendyadams11
-p1420
+p1851
 sg14
 g15
 sg16
 VSat Jan 07 22:49:21 +0000 2012
-p1421
+p1852
 sg18
-I37
+I41
 sg19
 I00
 sg20
 VVancouver BC Canada
-p1422
+p1853
 sg22
 I2
 sg23
 VWendy Adams
-p1423
-sa(dp1424
+p1854
+sa(dp1855
+g2
+I77
+sg3
+g50
+sg5
+I124
+sg6
+Vhttps://pbs.twimg.com/profile_images/748695131/vienna_headshot_small_400x400.jpg
+p1856
+sg8
+I27621854
+sg9
+VWilliam Cowan
+p1857
+sg11
+I2
+sg12
+Vwgcowan
+p1858
+sg14
+g15
+sg16
+VMon Mar 30 11:46:21 +0000 2009
+p1859
+sg18
+I66
+sg19
+I00
+sg20
+g50
+sg22
+I2
+sg23
+VWilliam Cowan
+p1860
+sa(dp1861
 g2
 I53
 sg3
 Vrepresents \uac70\ubd81\uc120 & Absolut crew \u000aAll the way from G! \u000aUniverse loves you!
-p1425
+p1862
 sg5
 I51
 sg6
 Vhttps://pbs.twimg.com/profile_images/494140874301775872/ocajINDI_400x400.jpeg
-p1426
+p1863
 sg8
 I147455822
 sg9
 VWon Pyo Lee
-p1427
+p1864
 sg11
 I0
 sg12
 VOneRocSki
-p1428
+p1865
 sg14
 g15
 sg16
 VMon May 24 05:25:48 +0000 2010
-p1429
+p1866
 sg18
 I34
 sg19
 I00
 sg20
 Vcoquitlam BC Canada
-p1430
+p1867
 sg22
 I1
 sg23
 S'Won Lee'
-p1431
-sa(dp1432
-g2
-I88
-sg3
-g50
-sg5
-I150
-sg6
-Vhttps://pbs.twimg.com/profile_images/2688786417/8ab6145bc1d26a83fb962ef347700ae3_400x400.jpeg
-p1433
-sg8
-I865583718
-sg9
-VDr. Lee
-p1434
-sg11
-I2
-sg12
-VDrxianfengli
-p1435
-sg14
-g15
-sg16
-VSun Oct 07 01:39:33 +0000 2012
-p1436
-sg18
-I23
-sg19
-I00
-sg20
-g50
-sg22
-I1
-sg23
-S'Won Lee'
-p1437
-sa(dp1438
+p1868
+sa(dp1869
 g2
 I1435
 sg3
 VCTO @rangleio, formerly faculty @UofT, author of @CodingPlaces.
-p1439
+p1870
 sg5
-I367
+I370
 sg6
 Vhttps://pbs.twimg.com/profile_images/512770965529325569/CZPFg2kP_400x400.jpeg
-p1440
+p1871
 sg8
 I43794817
 sg9
 VYuri Takhteyev
-p1441
+p1872
 sg11
 I14
 sg12
 Vqaramazov
-p1442
+p1873
 sg14
 S'http://yto.io'
-p1443
+p1874
 sg16
 VMon Jun 01 01:02:55 +0000 2009
-p1444
+p1875
 sg18
-I624
+I631
 sg19
 I00
 sg20
 VToronto
-p1445
+p1876
 sg22
-I2
+I3
 sg23
-VYuri Takhteyev
-p1446
+S'Yuri Takhteyev'
+p1877
 sa.
