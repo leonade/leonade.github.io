@@ -631,22 +631,22 @@ cars = []
 color = {"1A":'#0575cb',"1B":'#0575cb',"2A":"#e4142c","2B":"#e4142c","3":"#5e2c85","4A":"#669933","4B":"#669933","5A":"#e15822","5B":"#e15822","6A":"#f0436e","6B":"#f0436e","7":"#f4a91a","8":"#00afad","12":"#df8f1c","13":"#a0a0a0","14":"#231f20","15":"#f06b1e","16":"#995727","17":"#0099ff","18":"#272063","19":"#d13632","20":"#b02491","21":"#8dc83f","23":"#00AA59","27":"#55B340"}
 $(document).ready(function(){
   map_initialize();
-  $.getJSON("/data/stops.json",{},function(Stops){
+  $.getJSON("data/stops.json",{},function(Stops){
     stops = Stops
 	for(stop in stops){
 	  stops[stop].activated = false
 	}
   });
-  //stops = getJSON("/data/stops.json")
+  //stops = getJSON("data/stops.json")
   //$.ajax({
-    //url: "/data/stops.json",
+    //url: "data/stops.json",
    	//async: false,
    	//dataType: 'json',
    	//success: function(Stops){stops = Stops}
   //});
-  //$.getJSON("/data/routes.json",{},function current(Routes){
+  //$.getJSON("data/routes.json",{},function current(Routes){
   
-  $.getJSON("/data/routes.json",{},function(Routes){
+  $.getJSON("data/routes.json",{},function(Routes){
     routes = Routes;
 	routes.forEach(function(route){
 	  route.activated = false;
