@@ -171,10 +171,12 @@ function icon_initialize(){
     }
     //stop_icon.scaledSize = new google.maps.Size(size,size/2)
     //stop_icon.anchor = new google.maps.Point(size/2, size/4)
-    //for (stop in stops){
-      //stops[stop].marker.setVisible(zoom>16)
-      //stops[stop].marker.setIcon(stop_icon)
-    //}
+    if(zoom<14)
+      for (stop in stops){
+        stops[stop].marker.setVisible(false)
+        //stops[stop].marker.setIcon(stop_icon)
+      }
+	}
   }) 
 }
 
