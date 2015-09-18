@@ -1,5 +1,6 @@
 // created by Li on 2015-9-17 22:31:02
 
+/* Map related functions*/
 function map_initialize() {
   var currentLatlng = new google.maps.LatLng(40.4196825873663, -86.8959383306467);
   var myOptions = {
@@ -433,8 +434,8 @@ function decodeLevels(encodedLevelsString) {
   }
   return decodedLevels;
 }
-</script>
-<script>
+
+/* Time related & customized functions*/
 dt = new Date();
 //var dt = new Date(2015, 5, 1, 12, 0, 59, 0);
 Day = dt.getDay()
@@ -770,10 +771,9 @@ function log_info(str){
   $("#log_canvas").append('&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;');
   setTimeout(function(){$("#log_canvas").fadeTo(5000,0)},5000)
 }
-</script>
 
 
-<script>
+/* Route query & processing related functions*/
 var routes;    // list
 current_routes = [];    // list
 var stops;    // dict
