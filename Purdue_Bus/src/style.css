@@ -1,0 +1,40 @@
+/* created by Li at 2015-9-17 22:32:22*/
+
+/*基本信息*/
+body{
+  height: 100%;
+  color: #555;
+  font-size: 0.25em;
+  font-family: 'Source Sans Pro', sans-serif;
+  //margin: 0px;
+  text-align: left;
+  background: #FFF;
+  }
+.name{
+  font-size: 0.5em;
+  }
+html, body, #container, #map_canvas {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+#map_canvas{
+  width: 80%;
+  height: 100%;
+  position: relative;
+  float: left;
+  }
+#info_canvas{
+  width: 20%;
+  height: 100%;
+  float: right;
+  overflow-y: scroll;
+  }
+#log_canvas{
+  position: fixed;
+  left: 10px;
+  bottom: 5px;
+  opacity: 0;
+  background: #FFF;
+}

@@ -1159,11 +1159,17 @@ for (index,stop) in enumerate_stops():
 				missing += 1	# low bit: missing stop
 
 missing_stops = set(missing_stops)
-list(missing_stops.sort())
+# missing_stops = list(missing_stops).sort()
 pprint(missing_stops)
 print(len(missing_stops))
 
-# time.sleep(132*60)
+# new_stops = {}
+# for stop in stops:
+	# if stops[stop]['StopDesc'] != 'enumerate':
+	  # new_stops[stop] = stops[stop]
+
+# time.sleep(240*60)
+start_time = time.asctime()
 for _ in range(50):
 	# Store the time between stops in seconds
 	for route in routes:
@@ -1258,6 +1264,7 @@ with open('data/stops.json','r+') as fp:
 with open('data/routes_raw.json','r+') as fp:
 	routes = json.load(fp)
 
+print('start: ',start_time,'\nend: ',time.asctime())
 
 from bottle import Bottle, route, run, template, request, response,  post, get, redirect, static_file, debug
 app=Bottle()
