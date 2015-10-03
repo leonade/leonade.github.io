@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Twitter hashtags & Dubois Influence</title>
+<style>
+
+@font-face {
+  font-family: LiberationSans;
+  src: url(fonts/liberation-sans.font);
+  font-weight: bold;
+  }
+
+html,body {
+  font-family: LiberationSans, sans-serif;
+  font-size: 12px;
+  width: 100%;
+  height: 100%;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.bar {
+  fill: steelblue;
+}
+
+.x.axis path {
+  display: none;
+}
+
+.infobox {
+  display:none;
+  border:1px solid #888;
+  position: absolute;
+  background: rgba(235,235,235,0.9);
+}
+
+</style>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+
+<script>
+$(document).ready(function(){
+  d3.json("hashtag_account_stat_short.json", function(error, data) {
+    d = data;
+    if (error) throw error;
+    var margin = {top: 20, right: 20, bottom: 150, left: 40},
+    // width = $('body').width() - margin.left - margin.right,
+    width = data.length*20 - margin.left - margin.right,
+    height = $('body').height() - margin.top - margin.bottom;
+
+    var x = d3.scale.ordinal()
+      // .rangeRoundBands([0, width], .1);
+      .rangeBands([0, width], .15);
+
+    var y = d3.scale.linear()
+      .rangeRound([height, 0]);
+
+    // var color = d3.scale.ordinal()
+      // .range(["#98abc5", "#8a89a6", "#7b6888", "#6b486b", "#a05d56", "#d0743c", "#ff8c00"]);
+    // var color = d3.scale.linear()
+      // .domain([-0.2, 1.2])
+      // .range(["white", "blue"]);
+
+    var xAxis = d3.svg.axis()
+      .scale(x)
+      .orient("bottom");
+
+    var yAxis = d3.svg.axis()
+      .scale(y)
+      .orient("left");
+     //.tickFormat(d3.format(".2s"));
+
+    var svg = d3.select("body").append("svg")
+      .attr("width", width + margin.left + margin.right)
+      .attr("height", height + margin.top + margin.bottom)
+      .append("g")
+      .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+	var mouse_coor;
+	$("body").mousemove(function(e){
+	  mouse_coor = [e.pageX,e.pageY]
+	});
+	
+	var maxAccounts = d3.max(data, function(d) { return d.total; })
+	// colors = d3.scale.linear().domain([-0.2, 1.2]).range(["white", "blue"]);
+	colors = d3.scale.category20c().domain(d3.range(0,maxAccounts));
+    // color.domain(d3.keys(data[0]).filter(function(key) { return key !== "State"; }));
+
+    data.forEach(function(d,i) {
+      var y0 = 0;
+      data[i].accounts = d.accounts.map(function(account, index){
+	    // console.log(colors(d.accounts.length-index));
+	    return {screen_name: account.screen_name, tweets: account.tweets, influence: account.influence, tag:d.tag, y0: y0, y1: y0 += account.tweets, color: colors(d.accounts.length-index)};
+	  });
+      // d.accounts = color.domain().map(function(name) { return {name: name, y0: y0, y1: y0 += +d[name]}; });
+      // d.total = d.ages[d.ages.length - 1].y1;
+    });
+	
+    // data.sort(function(a, b) { return b.total - a.total; });
+
+    x.domain(data.map(function(d) { return '#'+d.tag; }));
+    y.domain([0, d3.max(data, function(d) { return d.total; })]);
+
+    svg.append("g")
+      .attr("class", "x axis")
+      .attr("transform", "translate(17," + height + ")")
+      .call(xAxis)
+      .selectAll("text") 
+        .style("text-anchor", "start")
+        .attr("transform", "translate(8, 10) rotate(60)");
+
+    svg.append("g")
+      .attr("class", "y axis")
+      .attr("transform", "translate(10, 0)")
+      .call(yAxis)
+    .append("text")
+      .attr("transform", "rotate(-90)")
+      .attr("x", -height/2)
+      .attr("y", -40)
+      //.attr("dy", ".71em")
+      .style("text-anchor", "middle")
+      .text("# of Tweets");
+
+    var hashtag = svg.selectAll(".hashtag")
+      .data(data)
+    .enter().append("g")
+      .attr("class", "g")
+      .attr("transform", function(d) { return "translate(" + x('#'+d.tag) + ",0)"; });
+
+    hashtag.selectAll("rect")
+      .data(function(d) { return d.accounts; })
+    .enter().append("rect")
+      .attr("x", x.rangeBand())
+      .attr("width", x.rangeBand())
+      .attr("y", function(d) { return y(d.y1); })
+      .attr("height", function(d) { return y(d.y0) - y(d.y1); })
+      .style("fill", function(d) { return d.color; })
+      .style("fill-opacity", 0.75)
+      .style("stroke-width", 0)
+      .style("stroke", function(d) { return d.color; })
+	  .on("mouseover", function(d) {
+	    $('.infobox').html('#'+d.tag+'&nbsp;<b>'+d.screen_name+'</b><br>Tweets: '+d.tweets+'<br>Influence: '+d.influence.toString().slice(0,5));
+		$('.infobox').css({top: mouse_coor[1]+5, left: mouse_coor[0]+15});
+	    $('.infobox').show();
+        d3.select(this)
+		  .style("stroke-width", 1)
+          .style("fill-opacity", 0.9); })
+	  .on("mouseout", function() {
+	    $('.infobox').hide();
+        d3.select(this)
+		  .style("stroke-width", 0)
+          .style("fill-opacity", 0.75); });
+
+    var legend = svg.selectAll(".legend")
+      .data(data.map(function(d) {return(d.tag)}))
+    .enter().append("g")
+      .attr("class", "legend")
+      .attr("transform", function(d, i) { return "translate(0," + i * 20 + ") rotate(60)"; });
+
+    // legend.append("rect")
+      // .attr("x", width - 18)
+      // .attr("width", 18)
+      // .attr("height", 18)
+      // .style("fill", color);
+
+    // legend.append("text")
+      // .attr("x", width - 24)
+      // .attr("y", 9)
+      // .attr("dy", ".35em")
+      // .style("text-anchor", "end")
+      // .text(function(d) { return d; });
+
+  });
+})
+</script>
+</head>
+
+<body>
+<div class="infobox">
+</div>
+</body>
