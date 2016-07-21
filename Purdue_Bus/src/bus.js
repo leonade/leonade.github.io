@@ -645,7 +645,7 @@ function get_arrival_time(this_stop){
       var arrival_times = {time_stamp:time_stamp, arrival:[]}
       $.each(response['query']['results']['tbody']['tr'], function(i,tr){
         if (i >= 1) {
-          var r = tr['td'][1]['font']['span']['b']
+          var r = tr['td'][1]['font']['span']['content']
           var t = tr['td'][3]['font']['span']['content']
           if (t == 'DUE') { t = 0}
           else {t = int(t)*60}
