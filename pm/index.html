@@ -51,7 +51,7 @@ $(document).ready(function(){
     var sidebardiv = document.createElement("div");
     sidebardiv.className = "sidebar";
     $.each(json, function(pmcid){
-      if (parseInt(pmcid)>2238759){return}
+      //if (parseInt(pmcid)>2238759){return}
       var paperdiv = document.createElement("div");
       paperdiv.className = "paper";
       paperdiv.id = pmcid;
@@ -97,7 +97,6 @@ body{
 
 #PageBody{
   width: 90%;
-  padding:20px;
   border-color: blue;
   float: right;
 }
