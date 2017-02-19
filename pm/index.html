@@ -5,10 +5,22 @@
 <title>PubMed Central Figures</title>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+<script src="http://cdn.rawgit.com/google/palette.js/master/palette.js"></script>
 <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
 
 <script>
+function whiten(color, percent) {
+    var f=parseInt(color.slice(1),16),t=percent<0?0:255,p=percent<0?percent*-1:percent,R=f>>16,G=f>>8&0x00FF,B=f&0x0000FF;
+    return "#"+(0x1000000+(Math.round((t-R)*p)+R)*0x10000+(Math.round((t-G)*p)+G)*0x100+(Math.round((t-B)*p)+B)).toString(16).slice(1); 
+}
+
 function highlightCaption(fig){
+  function color(count){
+    var plt = palette('cb-RdYlGn',10).reverse();
+    col = plt[parseInt(Math.log(count)*1.6)+1];  // log scale color due to Zipf's Law
+    return whiten("#"+col,0.75)
+  }
+  
   var cooclist = fig.co_occurrence;
   if (typeof cooclist === "undefined"){
     return(fig.caption)
@@ -21,9 +33,9 @@ function highlightCaption(fig){
         if ([",", ".", ":", ")", ";"].indexOf(word.slice(-1))!==-1){   // ends with punctuations
           punctuation = word.slice(-1);
           word = word.slice(0,-1);
-          return("<span style='background-color: #ffffcc'>" + word + "</span>" + punctuation)
+          return("<span style='background-color: " + color(cooc.body) + "' title='Figure:\t" + cooc.fig+ "\nBack:\t" + cooc.body + "'>" + word + "</span>" + punctuation)
         }else{
-          return("<span style='background-color: #ffffcc'>" + word + "</span>")
+          return("<span style='background-color: " + color(cooc.body) + "' title='Figure:\t" + cooc.fig+ "\nBack:\t" + cooc.body + "'>" + word + "</span>")
         }
       }
     }
@@ -35,27 +47,35 @@ function highlightCaption(fig){
 $(document).ready(function(){
   $.getJSON("https://cdn.rawgit.com/leonade/leonade.github.io/master/pm/papers_100.json",function(json){
     pmc = json;
+    var sidebardiv = document.createElement("div");
+    sidebardiv.className = "sidebar";
     $.each(json, function(pmcid){
       if (parseInt(pmcid)>2238759){return}
       var paperdiv = document.createElement("div");
       paperdiv.className = "paper";
+      paperdiv.id = pmcid;
+      sidebardiv.innerHTML += "<div class='paperlink'><a href='#" + pmcid + "'>" + pmcid + "</a></div>";
       $.map(json[pmcid], function(fig){
         var figdiv = document.createElement("div");
-        figdiv.className = "fig"
+        figdiv.className = "fig";
         figdiv.innerHTML = "<div class='image'><img src=" + fig.url + " alt=" + pmcid + "></div>"
         figdiv.innerHTML += "<div class='caption'>" + highlightCaption(fig) + "</div>"
         paperdiv.appendChild(figdiv);
       });
       $("#PageBody").append(paperdiv);
     });
-  /*$(function() {
+  $("#container").append(sidebardiv);
+  $(function() {
     $(document).tooltip(
-      position: {
-        my: "center bottom",
-        at: "right top"
-        }
+      {
+        position: {
+          my: "bottom-5",
+          at: "top"
+        },
+        tooltipClass: "tooltip"
+      }
       );
-    });*/
+    });
   });
 });
 </script>
