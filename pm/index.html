@@ -6,12 +6,56 @@
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 
 <script>
+
+function highlightCaption(fig){
+  var cooclist = fig.co_occurrence;
+  if (typeof cooclist === "undefined"){
+    return(fig.caption)
+  }
+  cooclist.sort(function(a,b){return(b.word.length-a.word.length)});
+  text = $.map(fig.caption.split(" "), function(word){
+    for (cooc of cooclist){
+      if (word.startsWith(cooc.word)){
+        console.log(cooc.word)
+        if ([",", ".", ":", ")", ";"].indexOf(word.slice(-1))!==-1){   // ends with punctuations
+          punctuation = word.slice(-1);
+          word = word.slice(0,-1);
+          return("<span style='background-color: #ffffcc'>" + word + "</span>" + punctuation)
+        }else{
+          return("<span style='background-color: #ffffcc'>" + word + "</span>")
+        }
+      }
+    }
+    return(word)
+  }).join(" ");
+  return(text)
+}
+
 $(document).ready(function(){
-  var json = $.getJSON("https://cdn.rawgit.com/leonade/leonade.github.io/master/pm/papers_100.json")
+  var pmc;
+  $.getJSON("https://cdn.rawgit.com/leonade/leonade.github.io/master/pm/papers_100.json",function(json){
+    pmc = json;
+    $.each(json, function(pmcid){
+      if (parseInt(pmcid)>2238759){return}
+      var paperdiv = document.createElement("div");
+      paperdiv.className = "paper";
+      $.map(json[pmcid], function(fig){
+        var figdiv = document.createElement("div");
+        figdiv.className = "fig"
+        figdiv.innerHTML = "<div class='image'><img src=" + fig.url + " alt=" + pmcid + "></div>"
+        figdiv.innerHTML += "<div class='caption'>" + highlightCaption(fig) + "</div>"
+        paperdiv.appendChild(figdiv);
+      });
+      $("#PageBody").append(paperdiv);
+    });
+  });
 });
-
-
 </script>
+<style>
+
+
+
+</style>
 </head>
 
 <body>
