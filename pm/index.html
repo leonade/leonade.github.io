@@ -7,6 +7,7 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
 <script src="http://cdn.rawgit.com/google/palette.js/master/palette.js"></script>
 <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:600" rel="stylesheet" type="text/css">
 
 <script>
 function whiten(color, percent) {
@@ -54,7 +55,7 @@ $(document).ready(function(){
       var paperdiv = document.createElement("div");
       paperdiv.className = "paper";
       paperdiv.id = pmcid;
-      sidebardiv.innerHTML += "<div class='paperlink'><a href='#" + pmcid + "'>" + pmcid + "</a></div>";
+      sidebardiv.innerHTML += "<div class='paperlink'><a href='#" + pmcid + "'>PMC" + pmcid + "</a></div>";
       $.map(json[pmcid], function(fig){
         var figdiv = document.createElement("div");
         figdiv.className = "fig";
@@ -80,16 +81,73 @@ $(document).ready(function(){
 });
 </script>
 <style>
+body{
+  font-size: .75em;
+  height: 100%;
+  margin:0;
+  color: #555;
+  font-family: 'Source Sans Pro', sans-serif;
+}
 
+#container{
+  float: left;
+  margin: 0;
+  padding: 0;
+}
 
+#PageBody{
+  width: 90%;
+  padding:20px;
+  border-color: blue;
+  float: right;
+}
 
+.sidebar{
+  font-size: 1.5em;
+  width: 10%;
+  float: left;
+  position: fixed;
+  height: 100%;
+  overflow-y: scroll;
+  text-align: center;
+}
+
+.paper{
+border: 2px solid;
+border-radius: 25px;
+padding:25px;
+margin-bottom:20px;
+-webkit-column-count: 3; /* Chrome, Safari, Opera */
+-moz-column-count: 3; /* Firefox */
+column-count: 3;
+}
+
+.fig{
+margin:10px;
+-webkit-column-break-inside: avoid; /* Chrome, Safari */
+page-break-inside: avoid;           /* Theoretically FF 20+ */
+break-inside: avoid-column;         /* IE 11 */
+display:table;                      /* Actually FF 20+ */
+}
+
+.paperlink{
+background-image: linear-gradient(rgba(5, 117, 203, 0.54902), rgba(5, 117, 203, 0.65098));
+}
+
+.paperlink a{
+color: #fff;
+text-decoration: none;
+}
+
+img{
+max-width:100%;
+}
 </style>
 </head>
 
 <body>
 <div id="container">
   <div id="PageBody">
-    <br/>
   </div>
 </div>
 </body>
