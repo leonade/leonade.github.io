@@ -3,10 +3,11 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf8" />
 <title>PubMed Central Figures</title>
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+<link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
 
 <script>
-
 function highlightCaption(fig){
   var cooclist = fig.co_occurrence;
   if (typeof cooclist === "undefined"){
@@ -32,7 +33,6 @@ function highlightCaption(fig){
 }
 
 $(document).ready(function(){
-  var pmc;
   $.getJSON("https://cdn.rawgit.com/leonade/leonade.github.io/master/pm/papers_100.json",function(json){
     pmc = json;
     $.each(json, function(pmcid){
@@ -48,6 +48,14 @@ $(document).ready(function(){
       });
       $("#PageBody").append(paperdiv);
     });
+  /*$(function() {
+    $(document).tooltip(
+      position: {
+        my: "center bottom",
+        at: "right top"
+        }
+      );
+    });*/
   });
 });
 </script>
